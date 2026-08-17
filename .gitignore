@@ -1,0 +1,12 @@
+# --- OS / editor ---
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+
+# --- python ---
+__pycache__/
+*.pyc
+*.egg-info/
+
+
+/models/

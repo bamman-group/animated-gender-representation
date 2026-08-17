@@ -1,0 +1,9 @@
+# Optional TFLite export dependencies.
+#
+# Keep these out of requirements.txt because they are conversion-only and can
+# move faster than the training stack.
+#
+# onnx2tf's flatbuffer_direct backend currently depends on Google's LiteRT
+# package transitively. LiteRT is not full TensorFlow; do not add tensorflow
+# here unless you explicitly need the legacy tf_converter backend.
+onnx2tf==2.4.0

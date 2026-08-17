@@ -1,0 +1,19 @@
+# Core training dependencies.
+numpy==2.4.4
+opencv-python==4.13.0.92
+tqdm==4.67.3
+PyYAML==6.0.3
+
+# Optional training utilities.
+tensorboard==2.20.0
+
+# WIDER Face evaluation.
+scipy==1.17.1
+
+# ONNX export and verification.
+onnx==1.21.0
+onnxruntime==1.25.1
+
+# Development and regression tests.
+pytest==9.0.3
+ruff==0.15.12

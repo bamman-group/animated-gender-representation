@@ -1,0 +1,40 @@
+# --- datasets & vendored code (repo-specific) ---
+data/*
+!data/README.md
+# NOTE: third_party/ is version-controlled here (vendored Pytorch_Retinaface +
+# vendored libfacedetection.train). The recognition repo ignores it, because
+# there third_party/ is a dinov2 checkout cloned at setup time.
+
+# --- generated dirs ---
+labels/
+# leading slash: an unanchored "datasets/" would also match src/datasets/
+/datasets/
+runs/
+outputs/
+checkpoints/
+weights/
+weights_dl/
+results/
+
+# --- generated files ---
+results.md
+timing.jsonl
+*.pt
+*.pth
+*.onnx
+*.log
+
+# --- python / editor / OS ---
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# --- exceptions (must come last: the last matching pattern wins) ---
+# The released YuNet checkpoints ARE the yunet_wf baseline and the
+# fine-tuning init; nothing downloads them at setup time, so they must be
+# version-controlled despite the weights/ and *.pth patterns above.
+!third_party/libfacedetection.train/weights/
+!third_party/libfacedetection.train/weights/*.pth
