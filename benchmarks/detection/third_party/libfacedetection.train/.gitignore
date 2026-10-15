@@ -1,0 +1,55 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Build and packaging outputs
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and runtime outputs
+*.log
+*.log.json
+work_dirs/
+wouts/
+wout/
+
+# Test outputs
+pytest-cache-files-*/
+pytest_tmp/
+tests/tmp*/
+tests/output/
+
+# Large local datasets
+/data/*
+!/data/widerface/
+/data/widerface/*
+!/data/widerface/labelv2/
+
+# Local scratch files
+*.py~
+*.sh~
+
+/onnx
+!/onnx/yunet*

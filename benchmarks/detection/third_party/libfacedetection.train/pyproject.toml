@@ -1,0 +1,82 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yunet-train"
+version = "0.1.0"
+description = "Lightweight PyTorch training pipeline for YuNet face and pose detection."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "BSD-3-Clause"
+authors = [
+    { name = "Shiqi Yu", email = "shiqi.yu@gmail.com" },
+]
+keywords = ["face-detection", "pose-detection", "keypoints", "yunet", "widerface", "pytorch", "onnx"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "numpy==2.4.4",
+    "opencv-python==4.13.0.92",
+    "tqdm==4.67.3",
+    "PyYAML==6.0.3",
+    "tensorboard==2.20.0",
+    "scipy==1.17.1",
+    "onnx==1.21.0",
+    "onnxruntime==1.25.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==9.0.3",
+    "ruff==0.15.12",
+]
+tflite = [
+    "onnx2tf==2.4.0",
+]
+pose = [
+    "pycocotools==2.0.11",
+]
+
+[project.urls]
+Homepage = "https://github.com/ShiqiYu/libfacedetection.train"
+Repository = "https://github.com/ShiqiYu/libfacedetection.train"
+
+[project.scripts]
+yunet-train = "yunet_train.cli.train:main"
+yunet-train-pose = "yunet_train.cli.train_pose:main"
+yunet-eval-widerface = "yunet_train.cli.eval_widerface:main"
+yunet-eval-pose = "yunet_train.cli.eval_pose:main"
+yunet-eval-pose-coco = "yunet_train.cli.eval_pose_coco:main"
+yunet-export-onnx = "yunet_train.cli.export_onnx:main"
+yunet-export-pose-onnx = "yunet_train.cli.export_pose_onnx:main"
+yunet-export-cpp = "yunet_train.cli.export_cpp:main"
+yunet-export-tflite = "yunet_train.cli.export_tflite:main"
+yunet-compare-inference = "yunet_train.cli.compare_inference:main"
+yunet-check-widerface = "yunet_train.tools.check_widerface:main"
+yunet-check-env = "yunet_train.tools.check_env:main"
+yunet-visualize-pose = "yunet_train.tools.visualize_pose_dataset:main"
+yunet-visualize-pose-image = "yunet_train.tools.visualize_pose_image:main"
+yunet-check-pose-overfit = "yunet_train.tools.check_pose_overfit:main"
+
+[tool.setuptools.packages.find]
+include = ["yunet_train*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-p no:cacheprovider"
+norecursedirs = ["tmp*", "output"]
+
+[tool.ruff]
+exclude = [
+    "tests/tmp*",
+    "tests/output",
+    "pytest-cache-files-*",
+]

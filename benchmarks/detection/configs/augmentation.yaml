@@ -1,0 +1,92 @@
+# Training-augmentation alignment across models.
+#
+# Goal: every trainable model sees the same *kind* of training views so that
+# architecture comparisons aren't confounded by recipe differences. The three
+# training stacks expose different knobs, so alignment is approximate; the
+# mapping and residual differences are documented here.
+#
+# Reference recipe (Pytorch_Retinaface preproc, data_augment.py):
+#   - random square crop at {0.3, 0.45, 0.6, 0.8, 1.0} x short side,
+#     keeping face centers, then resize to 840x840  (zoom-in up to ~3.3x)
+#   - photometric distortion: brightness/contrast/saturation/hue jitter
+#   - horizontal flip p=0.5
+#   - pad-to-square with channel means
+
+retinaface:            # third_party/Pytorch_Retinaface + data/extra_augment.py
+  crop_scales: [0.3, 0.45, 0.6, 0.8, 1.0]
+  image_size: 840
+  hflip: 0.5
+  photometric: default
+  mosaic: 1.0          # 4-image mosaic (data/mosaic.py), close_mosaic 10
+  expand: 0.5          # zoom-out onto a mean canvas, ratio 1-2x, random
+                       # placement (= free translation); closes the gap to the
+                       # ultralytics scale 0.5-1.5 range. --expand 0 disables
+  extras: 0.01         # blur / median blur / grayscale / CLAHE per-op prob,
+                       # mirroring ultralytics+albumentations. --extras 0 disables
+
+ultralytics:           # applied by src/train/train_ultralytics.py (ALIGNED_AUG)
+  mosaic: 1.0          # ON in the aligned recipe (matches train_retinaface --mosaic 1.0)
+  close_mosaic: 10     # plain images for the last 10 epochs (both stacks)
+  mixup: 0.0
+  copy_paste: 0.0
+  fliplr: 0.5
+  flipud: 0.0
+  degrees: 0.0
+  shear: 0.0
+  perspective: 0.0
+  translate: 0.1
+  scale: 0.5           # random resize 0.5-1.5x ~ closest knob to the crop zoom
+  hsv_h: 0.015         # ~ photometric distortion ranges
+  hsv_s: 0.7
+  hsv_v: 0.4
+  erasing: 0.0
+  # pass --native-aug to train_ultralytics.py to restore framework defaults
+  # (mosaic on); note this materially helps small-face recall and makes the
+  # YOLO rows non-comparable to RetinaFace under the aligned recipe
+
+native_aug_flag: |
+  Every training script accepts --native-aug = "train with the stack's own
+  default recipe":
+    - train_retinaface.py:  stock biubug6 preproc (crop/distort/flip); mosaic,
+      expand, and photometric extras all off
+    - train_ultralytics.py: framework defaults (mosaic 1.0, affine, HSV, ...)
+    - train_yunet.py:       no-op; YuNet always uses its native augmentation
+  Use it for "each model at its best-known recipe" comparisons; omit it for
+  the aligned-recipe comparisons.
+
+yunet:                 # third_party/libfacedetection.train built-ins
+  crop_choices_yunet_s: [0.3, 0.45, 0.6, 0.8, 1.0]   # matches the reference
+  crop_choices_yunet_n: [0.5, 0.7, 0.9, 1.1, 1.3, 1.5]
+  hflip: 0.5
+  photometric: default
+  # not externally configurable without patching the vendored code; yunet_s uses
+  # exactly the reference crop scales, yunet_n adds zoom-out crops
+
+mosaic: |
+  Mosaic (4-image stitching) is ON in the aligned recipe for both
+  mosaic-capable stacks, at probability 1.0 with a 10-epoch close-mosaic
+  wind-down (plain augmentation for the final epochs):
+    - RetinaFace:  data/mosaic.py wrapper (remaps landmarks, masks them on
+                   clipped faces); --mosaic / --close_mosaic to change
+    - ultralytics: framework mosaic; --mosaic to change
+    - YuNet:       MosaicWIDERFaceDataset (src/train/yunet_mosaic.py),
+                   injected into the upstream trainer in-process - the
+                   vendored code itself is unmodified; --mosaic / --close-mosaic
+                   on train_yunet.py (close-mosaic is a per-worker
+                   approximation based on served-sample counts)
+  All three stacks use the same probability by default.
+
+residual_differences: |
+  - RetinaFace crops square regions (aspect-preserving zoom); ultralytics
+    applies affine scale/translate to the whole letterboxed image. The expand
+    step gives RetinaFace equivalent zoom-out + translation exposure, but the
+    two mechanisms are not byte-identical.
+  - RetinaFace trains at 840px, ultralytics at 640px, YuNet at 640px.
+  - YuNet now gets mosaic via injection, but still lacks expand (beyond
+    yunet_n's zoom-out crop choices) and the photometric extras; its
+    close-mosaic wind-down is approximate (per-worker sample counting).
+  - ultralytics' blur/gray/CLAHE extras require the albumentations package
+    (included in environment.yml); RetinaFace implements them directly.
+  - Mosaic implementations differ in detail (ultralytics composes before its
+    affine; ours composes before the RetinaFace crop), though both expose the
+    model to shrunken multi-image views.

@@ -1,0 +1,2259 @@
+year	box office rank (orig.)	title	ID	imdb	genres
+1980	1	Star Wars: Episode V - The Empire Strikes Back	empire_strikes_back	tt0080684	Adventure,Fantasy,Action
+1980	2	9 to 5	nine_to_five	tt0080319	Comedy
+1980	3	Stir Crazy	stir_crazy	tt0081562	Comedy,Crime
+1980	4	Kramer vs. Kramer	kramer_v_kramer	tt0079417	Drama
+1980	5	Any Which Way You Can	any_which_way_you_can	tt0080377	Comedy,Action
+1980	6	Private Benjamin	private_benjamin_fs	tt0081375	Comedy,War
+1980	7	Coal Miner's Daughter	coal_miners_daughter	tt0080549	Music,Drama,Biography
+1980	8	Smokey and the Bandit II	smokey_and_the_bandit_2	tt0081529	Comedy,Adventure,Action
+1980	9	The Blues Brothers	blues_brothers	tt0080455	Comedy,Adventure,Action
+1980	10	Ordinary People	ordinary_people	tt0081283	Drama
+1980	11	Popeye	popeye	tt0081353	Family,Comedy,Adventure
+1980	12	The Shining	shining	tt0081505	Drama,Horror
+1980	13	Cheech and Chong's Next Movie	cheech_and_chongs_next_movie	tt0080520	Comedy,Sci-Fi,Crime
+1980	14	Caddyshack	caddyshack	tt0080487	Sport,Comedy
+1980	15	Friday the 13th	friday_the_13th	tt0080761	Thriller,Mystery,Horror
+1980	16	Brubaker	brubaker	tt0080474	Drama,Crime
+1980	17	The Jazz Singer	jazz_singer	tt0080948	Music,Drama,Romance
+1980	18	Flash Gordon	flash_gordon	tt0080745	Adventure,Sci-Fi,Action
+1980	19	Bronco Billy	bronco_billy	tt0080472	Comedy,Adventure,Action
+1980	20	Raging Bull	raging_bull	tt0081398	Sport,Drama,Biography
+1980	21	Xanadu	xanadu	tt0081777	Romance,Musical,Fantasy
+1980	22	American Gigolo	american_gigolo	tt0080365	Drama,Mystery,Crime
+1980	23	My Bodyguard	my_bodyguard	tt0081207	Family,Comedy,Drama
+1980	24	Fame	fame	tt0080716	Music,Drama,Musical
+1980	25	Altered States	altered_states	tt0080360	Thriller,Sci-Fi,Horror
+1980	26	Honeysuckle Rose	honeysuckle.ros_tt0080888	tt0080888	Music,Drama,Romance
+1980	27	Hero at Large	hero.at.large_tt0080863	tt0080863	Comedy,Romance
+1980	28	The Long Riders	long.riders_tt0081071	tt0081071	Western,Biography,Crime
+1980	29	The Island	island_tt0080934	tt0080934	Adventure,Drama,Action
+1980	30	Nude Bomb, The	nude.bomb_tt0081249	tt0081249	Comedy,Crime,Action
+1980	31	Oh, God! Book II	oh.god.book.ii_tt0081268	tt0081268	Comedy,Fantasy
+1980	32	The Competition	competition_tt0080556	tt0080556	Music,Drama,Romance
+1980	33	Wholly Moses!	wholly.moses_tt0081751	tt0081751	Comedy,Fantasy
+1980	34	The Last Married Couple in America	last.married_tt0081032	tt0081032	Comedy
+1980	35	First Family	first.family_tt0080739	tt0080739	Comedy
+1980	36	The Fiendish Plot of Dr. Fu Manchu	fiendish.plot_tt0080731	tt0080731	Comedy,Fantasy,Crime
+1980	37	Stardust Memories	stardust.memori_tt0081554	tt0081554	Comedy,Drama
+1980	38	Somewhere in Time	somewhere.in.ti_tt0081534	tt0081534	Romance,Drama,Fantasy
+1980	39	The Formula	formula_tt0080754	tt0080754	Thriller,Crime
+1980	40	Battle Creek Brawl	battle.creek.br_tt0080436	tt0080436	Comedy,Crime,Action
+1980	41	The Awakening	awakening_tt0080402	tt0080402	Horror
+1980	42	Foxes	foxes_tt0080756	tt0080756	Drama
+1980	43	Where the Buffalo Roam	where.the.buffa_tt0081748	tt0081748	Comedy,Biography
+1980	45	Motel Hell	motel.hell_tt0081184	tt0081184	Comedy,Thriller,Horror
+1980	46	Little Miss Marker	little.miss.mar_tt0081063	tt0081063	Comedy,Drama,Romance
+1980	47	Oh Heavenly Dog	oh.heavenly.dog_tt0081269	tt0081269	Comedy,Fantasy,Crime
+1980	49	In God We Trust (or Gimme That Prime Time Religion)	in.god.we.trust_tt0080917	tt0080917	Comedy
+1980	50	He Knows You're Alone	he.knows_tt0080850	tt0080850	Thriller,Horror
+1980	51	Roadie	roadie_tt0081433	tt0081433	Music,Comedy
+1980	52	Gloria	gloria_tt0080798	tt0080798	Drama,Thriller,Crime
+1981	1	Superman II	superman_2	tt0081573	Adventure,Sci-Fi,Action
+1981	2	Stripes	stripes	tt0083131	Comedy,War
+1981	3	The Cannonball Run	cannonball_run	tt0082136	Sport,Comedy,Action
+1981	4	For Your Eyes Only	for_your_eyes_only	tt0082398	Adventure,Thriller,Action
+1981	5	The Four Seasons	four_seasons	tt0082405	Comedy,Drama
+1981	6	Excalibur	excalibur	tt0082348	Adventure,Fantasy,Drama
+1981	7	History of the World: Part I	history_of_the_world_part_1	tt0082517	Comedy,Musical,History
+1981	8	Bustin' Loose	bustin_loose	tt0082121	Comedy,Drama
+1981	9	The Great Muppet Caper	great_muppet_caper	tt0082474	Comedy,Adventure,Crime
+1981	10	Endless Love	endless.love_tt0082329	tt0082329	Drama,Romance
+1981	11	An American Werewolf in London	american_werewolf_in_london	tt0082010	Comedy,Horror
+1981	12	Halloween II	halloween_2	tt0082495	Horror
+1981	13	Body Heat	body_heat	tt0082089	Romance,Drama,Crime
+1981	14	Indiana Jones and the Raiders of the Lost Ark	raiders_of_the_lost_ark	tt0082971	Adventure,Action
+1981	15	Friday the 13th Part 2	friday_the_13th_2	tt0082418	Thriller,Mystery,Horror
+1981	16	The Final Conflict	omen_3	tt0082377	Horror
+1981	17	The Incredible Shrinking Woman	incredible_shrinking_woman	tt0082558	Comedy,Sci-Fi
+1981	18	Under the Rainbow	under_the_rainbow	tt0083254	Comedy
+1981	19	Outland	outland	tt0082869	Crime,Sci-Fi,Action
+1981	20	Continental Divide	continental_divide	tt0082200	Comedy,Romance
+1981	21	Nighthawks	nighthawks	tt0082817	Crime,Thriller,Action
+1981	22	Dragonslayer	dragonslayer	tt0082288	Adventure,Fantasy,Action
+1981	23	The Legend of the Lone Ranger	legend_of_the_lone_ranger_fs	tt0082648	Western,Adventure,Action
+1981	24	Back Roads	backroads	tt0082042	Comedy,Adventure,Romance
+1981	25	Wolfen	wolfen	tt0083336	Thriller,Horror
+1981	26	Time Bandits	time_bandits	tt0081633	Comedy,Adventure,Fantasy
+1981	27	Neighbors	neighbors_tt0082801	tt0082801	Comedy
+1981	28	Prince of the City	prince.of.the.c_tt0082945	tt0082945	Drama,Crime
+1981	29	The Funhouse	funhouse_tt0082427	tt0082427	Horror
+1981	31	Student Bodies	student.bodies_tt0083133	tt0083133	Comedy,Mystery,Horror
+1981	32	All Night Long	all.night.long_tt0082001	tt0082001	Comedy,Drama,Romance
+1981	33	Sharky's Machine	sharkys_machine_fs	tt0083064	Crime,Drama,Action
+1981	34	Absence of Malice	absence_of_malice	tt0081974	Drama,Thriller,Romance
+1981	35	Reds	reds	tt0082979	Drama,Biography,History
+1981	37	Arthur	arthur_full	tt0082031	Comedy,Romance
+1981	38	Taps	taps	tt0083169	Drama
+1981	39	Ghost Story	ghost.story_tt0082449	tt0082449	Drama,Thriller,Horror
+1981	40	Zoot Suit	zoot.suit_tt0083365	tt0083365	Drama,Musical
+1981	41	Rollover	rollover_tt0083006	tt0083006	Drama,Mystery,Romance
+1981	42	Modern Romance	modern.romance_tt0082764	tt0082764	Comedy,Romance
+1981	43	The Hand	hand_tt0082497	tt0082497	Drama,Thriller,Horror
+1981	44	Heartbeeps	heartbeeps_tt0082507	tt0082507	Comedy,Sci-Fi
+1981	46	Sphinx	sphinx_tt0083113	tt0083113	Adventure,Mystery,Thriller
+1981	48	Raggedy Man	raggedy.man_tt0082969	tt0082969	Drama
+1981	49	King of the Mountain	king.of.the.mou_tt0082619	tt0082619	Adventure,Drama,Action
+1981	51	Silence of the North	silence.of.the._tt0083079	tt0083079	Drama
+1981	53	On Golden Pond	on_golden_pond	tt0082846	Drama
+1981	54	Cattle Annie and Little Britches	cattle.annie.an_tt0082145	tt0082145	Western,Drama
+1981	55	Ragtime	ragtime_tt0082970	tt0082970	Drama
+1981	56	Chariots of Fire	chariots_of_fire	tt0082158	Sport,Drama,Biography
+1982	1	E.T. the Extra-Terrestrial	et	tt0083866	Family,Adventure,Sci-Fi
+1982	2	Indiana Jones and the Raiders of the Lost Ark	raiders_of_the_lost_ark	tt0082971	Adventure,Action
+1982	3	Rocky III	rocky_3	tt0084602	Sport,Drama
+1982	4	On Golden Pond	on_golden_pond	tt0082846	Drama
+1982	5	An Officer and a Gentleman	officer_and_a_gentleman	tt0084434	Drama,Romance
+1982	6	Porky's	porkys	tt0084522	Comedy
+1982	7	Arthur	arthur_full	tt0082031	Comedy,Romance
+1982	8	Star Trek II: The Wrath of Khan	star_trek_2	tt0084726	Adventure,Sci-Fi,Action
+1982	9	Poltergeist	poltergeist	tt0084516	Thriller,Horror
+1982	10	The Best Little Whorehouse in Texas	best_little_whorehouse_in_texas	tt0083642	Comedy,Musical
+1982	11	Chariots of Fire	chariots_of_fire	tt0082158	Sport,Drama,Biography
+1982	12	Annie	annie_fs	tt0083564	Family,Comedy,Drama
+1982	13	First Blood	rambo_first_blood	tt0083944	Adventure,Thriller,Action
+1982	14	Firefox	firefox	tt0083943	Adventure,Thriller,Action
+1982	15	Conan the Barbarian	conan_the_barbarian	tt0082198	Adventure,Fantasy,Action
+1982	16	The Sword and the Sorcerer	sword_and_the_sorcerer	tt0084749	Adventure,Fantasy,Action
+1982	17	Absence of Malice	absence_of_malice	tt0081974	Drama,Thriller,Romance
+1982	18	Reds	reds	tt0082979	Drama,Biography,History
+1982	20	Friday the 13th Part III	friday_the_13th_3	tt0083972	Thriller,Horror
+1982	21	Time Bandits	time_bandits	tt0081633	Comedy,Adventure,Fantasy
+1982	22	Taps	taps	tt0083169	Drama
+1982	23	Sharky's Machine	sharkys_machine_fs	tt0083064	Crime,Drama,Action
+1982	24	Tootsie	tootsie	tt0084805	Comedy,Drama,Romance
+1982	25	Young Doctors in Love	young_doctors_in_love	tt0084938	Comedy
+1982	26	TRON	tron	tt0084827	Adventure,Sci-Fi,Action
+1982	27	World According to Garp, The	world.according_tt0084917	tt0084917	Comedy,Drama
+1982	28	Victor/Victoria	victorvictoria_tt0084865	tt0084865	Music,Comedy,Romance
+1982	29	Blade Runner	blade.runner_tt0083658	tt0083658	Drama,Sci-Fi,Action
+1982	30	Fast Times at Ridgemont High	fast.times.at.r_tt0083929	tt0083929	Comedy,Drama
+1982	32	The Toy	toy_tt0084809	tt0084809	Comedy
+1982	33	Some Kind of Hero	some.kind.of.he_tt0083107	tt0083107	Comedy,Drama,Crime
+1982	35	Pink Floyd: The Wall	pink.floyd.the._tt0084503	tt0084503	Music,Drama,Fantasy
+1982	36	Things Are Tough All Over	things.are.toug_tt0084788	tt0084788	Comedy,Action
+1982	37	48 Hrs.	48_hours	tt0083511	Comedy,Crime,Action
+1982	38	Creepshow	creepshow_tt0083767	tt0083767	Comedy,Horror,Fantasy
+1982	39	Neighbors	neighbors_tt0082801	tt0082801	Comedy
+1982	40	Night Shift	night.shift_tt0084412	tt0084412	Comedy
+1982	41	My Favorite Year	my.favorite.yea_tt0084370	tt0084370	Comedy,Drama
+1982	42	Ghost Story	ghost.story_tt0082449	tt0082449	Drama,Thriller,Horror
+1982	43	The Thing	thing_tt0084787	tt0084787	Sci-Fi,Mystery,Horror
+1982	45	Deathtrap	deathtrap_tt0083806	tt0083806	Comedy,Mystery,Crime
+1982	46	Six Pack	six.pack_tt0084690	tt0084690	Sport,Comedy,Drama
+1982	47	Dead Men Don't Wear Plaid	dead.men.dont.w_tt0083798	tt0083798	Comedy,Mystery,Crime
+1982	48	Airplane II: The Sequel	airplane.ii.the_tt0083530	tt0083530	Comedy,Sci-Fi
+1982	49	Indiana Jones and the Raiders of the Lost Ark1982 Re-release	raiders_of_the_lost_ark	tt0082971	Adventure,Action
+1982	50	The Road Warrior	road.warrior_tt0082694	tt0082694	Adventure,Sci-Fi,Action
+1982	51	The Dark Crystal	dark.crystal_tt0083791	tt0083791	Family,Adventure,Fantasy
+1982	52	Zapped!	zapped_tt0084945	tt0084945	Comedy,Sci-Fi,Fantasy
+1982	53	Quest for Fire	quest.for.fire_tt0082484	tt0082484	Adventure,Drama
+1982	54	Best Friends	best.friends_tt0083641	tt0083641	Comedy,Drama,Romance
+1983	1	Star Wars: Episode VI - Return of the Jedi	return_of_the_jedi	tt0086190	Adventure,Fantasy,Action
+1983	2	Tootsie	tootsie	tt0084805	Comedy,Drama,Romance
+1983	3	Flashdance	flashdance	tt0085549	Music,Drama,Romance
+1983	4	Trading Places	trading_places	tt0086465	Comedy
+1983	5	WarGames	war_games	tt0086567	Drama,Sci-Fi,Action
+1983	6	Octopussy	octopussy	tt0086034	Adventure,Thriller,Action
+1983	7	Staying Alive	staying_alive	tt0086361	Music,Drama,Romance
+1983	8	Risky Business	risky_business	tt0086200	Comedy,Drama,Crime
+1983	9	Mr. Mom	mr_mom_fs	tt0085970	Comedy,Drama
+1983	10	National Lampoon's Vacation	vacation	tt0085995	Comedy,Adventure
+1983	11	Superman III	superman_3	tt0086393	Comedy,Adventure,Action
+1983	12	48 Hrs.	48_hours	tt0083511	Comedy,Crime,Action
+1983	13	Never Say Never Again	never_say_never_again	tt0086006	Adventure,Thriller,Action
+1983	14	Gandhi	gandhi	tt0083987	Drama,Biography,History
+1983	15	Jaws 3-D	jaws_revenge	tt0085750	Adventure,Thriller,Horror
+1983	16	E.T. the Extra-Terrestrial	et	tt0083866	Family,Adventure,Sci-Fi
+1983	17	Blue Thunder	blue_thunder	tt0085255	Crime,Drama,Action
+1983	18	The Verdict	verdict	tt0084855	Drama
+1983	19	The Big Chill	big_chill	tt0085244	Comedy,Drama
+1983	20	Sudden Impact	sudden_impact	tt0086383	Crime,Thriller,Action
+1983	21	Psycho II	psycho_2	tt0086154	Mystery,Horror,Crime
+1983	22	Terms of Endearment	terms_of_endearment	tt0086425	Comedy,Drama
+1983	23	Porky's II: The Next Day	porkys_2	tt0086129	Comedy
+1983	25	Twilight Zone: The Movie	twilight_zone	tt0086491	Sci-Fi,Horror
+1983	26	Easy Money	easy_money	tt0085470	Comedy
+1983	27	High Road to China	high.road.to.ch_tt0085678	tt0085678	Romance,Adventure,Drama
+1983	28	Sophie's Choice	sophies.choice_tt0084707	tt0084707	Drama,Romance
+1983	29	The Outsiders	outsiders_tt0086066	tt0086066	Drama,Crime
+1983	30	Spring Break	spring.break_tt0086352	tt0086352	Comedy,Romance
+1983	31	The Dark Crystal	dark.crystal_tt0083791	tt0083791	Family,Adventure,Fantasy
+1983	32	My Tutor	my.tutor_tt0085980	tt0085980	Comedy
+1983	33	Class	class_tt0085346	tt0085346	Comedy,Drama,Romance
+1983	34	An Officer and a Gentleman	officer_and_a_gentleman	tt0084434	Drama,Romance
+1983	35	Cujo	cujo_tt0085382	tt0085382	Thriller,Horror
+1983	36	Best Friends	best.friends_tt0083641	tt0083641	Comedy,Drama,Romance
+1983	37	The Toy	toy_tt0084809	tt0084809	Comedy
+1983	38	The Dead Zone	dead.zone_tt0085407	tt0085407	Drama,Sci-Fi,Horror
+1983	39	Breathless	breathless_tt0085276	tt0085276	Romance,Drama,Action
+1983	40	Scarface	scarface_tt0086250	tt0086250	Drama,Crime
+1983	42	Valley Girl	valley.girl_tt0086525	tt0086525	Comedy,Romance
+1983	43	All the Right Moves	all.the.right.m_tt0085154	tt0085154	Sport,Drama,Romance
+1983	44	Krull	krull_tt0085811	tt0085811	Adventure,Fantasy,Action
+1983	45	Spacehunter: Adventures in the Forbidden Zone	spacehunter.adv_tt0086346	tt0086346	Adventure,Sci-Fi,Action
+1983	47	Still Smokin	still.smokin_tt0086366	tt0086366	Music,Comedy
+1983	48	The Meaning of Life	meaning.of.life_tt0085959	tt0085959	Comedy,Musical
+1983	49	Private School	private.school_tt0086143	tt0086143	Comedy,Romance
+1983	50	The Survivors	survivors_tt0086397	tt0086397	Comedy,Drama,Crime
+1983	51	Educating Rita	educating.rita_tt0085478	tt0085478	Comedy,Drama
+1983	52	The Entity	entity_tt0082334	tt0082334	Drama,Horror
+1983	53	A Christmas Story	a.christmas.sto_tt0085334	tt0085334	Family,Comedy
+1984	1	Ghostbusters	ghostbusters_1984	tt0087332	Comedy,Fantasy,Action
+1984	2	Indiana Jones and the Temple of Doom	temple_of_doom	tt0087469	Adventure,Action
+1984	3	Gremlins	gremlins	tt0087363	Comedy,Horror,Fantasy
+1984	4	The Karate Kid	karate_kid	tt0087538	Family,Drama,Action
+1984	5	Police Academy	police_academy_fs	tt0087928	Comedy
+1984	6	Footloose	footloose	tt0087277	Music,Drama,Romance
+1984	7	Beverly Hills Cop	beverly_hills_cop	tt0086960	Comedy,Crime,Action
+1984	8	Star Trek III: The Search for Spock	star_trek_3	tt0088170	Adventure,Sci-Fi,Action
+1984	9	Terms of Endearment	terms_of_endearment	tt0086425	Comedy,Drama
+1984	10	Romancing the Stone	romancing_the_stone	tt0088011	Comedy,Adventure,Action
+1984	11	Splash	splash	tt0088161	Romance,Comedy,Fantasy
+1984	12	Purple Rain	purple_rain_fs	tt0087957	Music,Drama,Romance
+1984	13	Tightrope	tightrope	tt0088272	Thriller,Mystery,Crime
+1984	14	The Natural	natural	tt0087781	Sport,Drama
+1984	15	Greystoke: The Legend of Tarzan, Lord of the Apes	greystoke	tt0087365	Adventure,Drama
+1984	16	Revenge of the Nerds	revenge_of_the_nerds	tt0088000	Comedy
+1984	17	Breakin'	breakin_fs	tt0086998	Music,Comedy,Drama
+1984	18	Bachelor Party	bachelor_party	tt0086927	Comedy
+1984	19	Red Dawn	red_dawn	tt0087985	Drama,Thriller,Action
+1984	20	All of Me	all_of_me_fs	tt0086873	Romance,Comedy,Fantasy
+1984	21	The Terminator	terminator	tt0088247	Sci-Fi,Action
+1984	22	Friday the 13th: The Final Chapter	friday_the_13th_final_chapter	tt0087298	Thriller,Horror
+1984	23	Conan the Destroyer	conan_the_destroyer	tt0087078	Adventure,Fantasy,Action
+1984	24	Sudden Impact	sudden_impact	tt0086383	Crime,Thriller,Action
+1984	25	Silkwood	silkwood	tt0086312	Drama,Biography,History
+1984	26	The Last Starfighter	last.starfighte_tt0087597	tt0087597	Adventure,Sci-Fi,Action
+1984	27	Places in the Heart	places.in.the.h_tt0087921	tt0087921	Drama
+1984	28	Cannonball Run II	cannonball.run._tt0087032	tt0087032	Comedy,Action
+1984	29	Teachers	teachers_tt0088242	tt0088242	Comedy,Drama
+1984	30	2010: The Year We Make Contact	2010.the.year.w_tt0086837	tt0086837	Adventure,Sci-Fi,Mystery
+1984	31	The Muppets Take Manhattan	muppets.take.ma_tt0087755	tt0087755	Comedy,Adventure,Drama
+1984	32	Scarface	scarface_tt0086250	tt0086250	Drama,Crime
+1984	33	The Woman in Red	woman.in.red_tt0088414	tt0088414	Comedy,Romance
+1984	34	Moscow on the Hudson	moscow.on.the.h_tt0087747	tt0087747	Comedy,Drama,Romance
+1984	35	City Heat	city.heat_tt0087062	tt0087062	Comedy,Crime,Action
+1984	36	Yentl	yentl_tt0086619	tt0086619	Drama,Musical,Romance
+1984	37	Sixteen Candles	sixteen.candles_tt0088128	tt0088128	Comedy,Romance
+1984	39	Against All Odds	against.all.odd_tt0086859	tt0086859	Adventure,Crime,Action
+1984	40	Missing in Action	missing.in.acti_tt0087727	tt0087727	Adventure,Drama,Action
+1984	41	Rhinestone	rhinestone_tt0088001	tt0088001	Music,Comedy
+1984	42	Never Cry Wolf	never.cry.wolf_tt0086005	tt0086005	Adventure,Drama
+1984	43	Top Secret!	top.secret_tt0088286	tt0088286	Music,Comedy,Crime
+1984	44	Hot Dog... The Movie	hot.dog....the._tt0087425	tt0087425	Sport,Comedy,Romance
+1984	45	The NeverEnding Story	neverending.sto_tt0088323	tt0088323	Family,Adventure,Drama
+1984	47	Oh, God! You Devil	oh.god_tt0087835	tt0087835	Comedy,Fantasy
+1984	48	Uncommon Valor	uncommon.valor_tt0086508	tt0086508	Drama,Thriller,Action
+1984	49	Best Defense	best.defense_tt0086955	tt0086955	Comedy,War
+1984	50	Dune	dune_tt0087182	tt0087182	Adventure,Sci-Fi,Action
+1984	51	A Soldier's Story	a.soldiers.stor_tt0088146	tt0088146	Drama,Mystery,Crime
+1984	52	Blame It on Rio	blame.it.on.rio_tt0086973	tt0086973	Comedy,Romance
+1985	1	Back to the Future	back_to_the_future_fs	tt0088763	Comedy,Adventure,Sci-Fi
+1985	2	Beverly Hills Cop	beverly_hills_cop	tt0086960	Comedy,Crime,Action
+1985	3	Rambo: First Blood Part II	rambo_2	tt0089880	Adventure,Thriller,Action
+1985	4	Rocky IV	rocky_4	tt0089927	Sport,Drama
+1985	5	Cocoon	cocoon	tt0088933	Comedy,Drama,Sci-Fi
+1985	6	Witness	witness	tt0090329	Drama,Thriller,Romance
+1985	7	The Goonies	goonies	tt0089218	Family,Comedy,Adventure
+1985	8	Police Academy 2: Their First Assignment	police_academy_2	tt0089822	Comedy
+1985	9	Fletch	fletch	tt0089155	Comedy,Mystery,Crime
+1985	10	A View to a Kill	view_to_a_kill	tt0090264	Adventure,Thriller,Action
+1985	11	National Lampoon's European Vacation	european_vacation	tt0089670	Comedy,Adventure
+1985	12	Mask	mask_1985	tt0089560	Drama,Biography
+1985	13	The Breakfast Club	breakfast_club	tt0088847	Comedy,Drama
+1985	14	Pale Rider	pale_rider	tt0089767	Western,Drama
+1985	15	Pee-wee's Big Adventure	pee_wees_big_adventure	tt0089791	Family,Comedy,Adventure
+1985	16	Brewster's Millions	brewsters_millions	tt0088850	Comedy
+1985	17	E.T. the Extra-Terrestrial1985 Re-release	et	tt0083866	Family,Adventure,Sci-Fi
+1985	18	Jagged Edge	jagged_edge	tt0089360	Drama,Mystery,Thriller
+1985	19	Mad Max Beyond Thunderdome	mad_max_thunderdome	tt0089530	Adventure,Sci-Fi,Action
+1985	20	Spies Like Us	spies_like_us_fs	tt0090056	Comedy,Adventure
+1985	21	Commando	commando	tt0088944	Adventure,Thriller,Action
+1985	22	The Killing Fields	killing_fields	tt0087553	Drama,Biography,History
+1985	23	Teen Wolf	teen_wolf	tt0090142	Romance,Comedy,Fantasy
+1985	24	Silverado	silverado	tt0090022	Crime,Drama,Action
+1985	25	St. Elmo's Fire	st_elmos_fire	tt0090060	Drama,Romance
+1985	26	Amadeus	amadeus_tt0086879	tt0086879	Music,Drama,Biography
+1985	27	The Jewel of the Nile	jewel_of_the_nile	tt0089370	Comedy,Adventure,Action
+1985	28	Desperately Seeking Susan	desperately.see_tt0089017	tt0089017	Comedy,Drama
+1985	29	Prizzi's Honor	prizzis.honor_tt0089841	tt0089841	Comedy,Drama,Crime
+1985	30	A Passage to India	a.passage.to.in_tt0087892	tt0087892	History,Adventure,Drama
+1985	31	The Last Dragon	last.dragon_tt0089461	tt0089461	Comedy,Drama,Action
+1985	32	Fright Night	fright.night_tt0089175	tt0089175	Horror,Fantasy
+1985	33	Summer Rental	summer.rental_tt0090098	tt0090098	Comedy
+1985	34	The Emerald Forest	emerald.forest_tt0089087	tt0089087	Adventure,Drama,Action
+1985	35	Weird Science	weird.science_tt0090305	tt0090305	Comedy,Sci-Fi,Romance
+1985	36	White Nights	white.nights_tt0090319	tt0090319	Music,Drama
+1985	37	Agnes of God	agnes.of.god_tt0088683	tt0088683	Drama,Mystery
+1985	38	Santa Claus: The Movie	santa.claus.the_tt0089961	tt0089961	Family,Adventure,Fantasy
+1985	39	Friday the 13th: A New Beginning	friday_the_13th_new_beginning	tt0089173	Thriller,Mystery,Horror
+1985	41	Porky's Revenge	porkys.revenge_tt0089826	tt0089826	Comedy
+1985	42	Code of Silence	code.of.silence_tt0088936	tt0088936	Crime,Drama,Action
+1985	43	Volunteers	volunteers_tt0090274	tt0090274	Comedy,Adventure
+1985	45	Year of the Dragon	year.of.the.dragon_tt0090350	tt0090350	Crime,Drama,Action
+1985	46	Micki + Maude	micki..maude_tt0087718	tt0087718	Comedy,Romance
+1985	47	Ladyhawke	ladyhawke_tt0089457	tt0089457	Comedy,Adventure,Drama
+1985	48	A Nightmare on Elm Street	a.nightmare.on._tt0087800	tt0087800	Horror
+1985	49	Flamingo Kid, The	flamingo.kid_tt0087265	tt0087265	Comedy,Drama,Romance
+1985	50	Invasion U.S.A.	invasion.u.s.a._tt0089348	tt0089348	Thriller,Action
+1985	51	To Live and Die in L.A.	to.live.and.die_tt0090180	tt0090180	Crime,Drama,Action
+1985	52	The Falcon and The Snowman	falcon.and.the._tt0087231	tt0087231	Drama,Biography,Crime
+1986	1	Top Gun	top_gun	tt0092099	Drama,Action
+1986	2	Crocodile Dundee	crocodile_dundee	tt0090555	Comedy,Adventure,Action
+1986	3	The Karate Kid Part II	karate.kid.part2.movie_tt0091326	tt0091326	Family,Sport,Action
+1986	4	Back to School	back_to_school	tt0090685	Sport,Comedy,Romance
+1986	5	Aliens	alien_2	tt0090605	Adventure,Sci-Fi,Action
+1986	6	The Color Purple	color_purple	tt0088939	Drama
+1986	7	Star Trek IV: The Voyage Home	star_trek_4	tt0092007	Comedy,Adventure,Action
+1986	8	Ruthless People	ruthless_people	tt0091877	Comedy,Crime
+1986	9	Out of Africa	out_of_africa	tt0089755	Drama,Biography,Romance
+1986	10	Ferris Bueller's Day Off	ferris_bueller	tt0091042	Comedy
+1986	11	Down and Out in Beverly Hills	down_and_out_in_beverly_hills	tt0090966	Comedy
+1986	12	The Color of Money	color_of_money	tt0090863	Sport,Drama
+1986	13	Stand by Me	stand_by_me	tt0092005	Adventure,Drama
+1986	14	Legal Eagles	legal_eagles	tt0091396	Romance,Comedy,Crime
+1986	15	Cobra	cobra	tt0090859	Crime,Thriller,Action
+1986	16	The Jewel of the Nile	jewel_of_the_nile	tt0089370	Comedy,Adventure,Action
+1986	17	Police Academy 3: Back in Training	police_academy_3	tt0091777	Comedy
+1986	18	The Golden Child	golden_child	tt0091129	Comedy,Adventure,Action
+1986	19	Peggy Sue Got Married	peggy_sue_got_married_fs	tt0091738	Comedy,Drama,Fantasy
+1986	20	Poltergeist II: The Other Side	poltergeist_2	tt0091778	Horror
+1986	21	Short Circuit	short_circuit	tt0091949	Family,Comedy,Sci-Fi
+1986	22	Pretty in Pink	pretty_in_pink	tt0091790	Comedy,Drama,Romance
+1986	23	The Fly	fly	tt0091064	Drama,Sci-Fi,Horror
+1986	24	Rocky IV	rocky_4	tt0089927	Sport,Drama
+1986	25	About Last Night	about_last_night	tt0090583	Comedy,Drama,Romance
+1986	26	Running Scared	running.scared_tt0091875	tt0091875	Comedy,Crime,Action
+1986	27	The Money Pit	money.pit_tt0091541	tt0091541	Comedy
+1986	28	Gung Ho	gung.ho_tt0091159	tt0091159	Comedy,Drama
+1986	29	Hannah and Her Sisters	hannah.and.her._tt0091167	tt0091167	Comedy,Drama
+1986	31	Nothing in Common	nothing.in.comm_tt0091653	tt0091653	Comedy,Drama,Romance
+1986	32	Heartbreak Ridge	heartbreak.ridg_tt0091187	tt0091187	War,Drama
+1986	33	Jumpin' Jack Flash	jumpin.jack.fla_tt0091306	tt0091306	Comedy,Thriller,Romance
+1986	34	Friday the 13th Part VI: Jason Lives	friday_the_13_6_jason_lives	tt0091080	Thriller,Horror
+1986	35	Murphy's Romance	murphys.romance_tt0089643	tt0089643	Comedy,Drama,Romance
+1986	36	Soul Man	soul.man_tt0091991	tt0091991	Drama,Thriller
+1986	37	Wildcats	wildcats_tt0092214	tt0092214	Sport,Comedy
+1986	39	Heartburn	heartburn_tt0091188	tt0091188	Comedy,Drama
+1986	40	Spies Like Us	spies_like_us_fs	tt0090056	Comedy,Adventure
+1986	41	Iron Eagle	iron.eagle_tt0091278	tt0091278	War,Thriller,Action
+1986	42	Three Amigos!	three.amigos_tt0092086	tt0092086	Comedy,Western
+1986	43	Tough Guys	tough.guys_tt0092105	tt0092105	Drama,Romance
+1986	45	F/X	fx_tt0089118	tt0089118	Thriller,Action
+1986	46	Children of a Lesser God	children.of.a.l_tt0090830	tt0090830	Drama,Romance
+1986	47	Back to the Future	back_to_the_future_fs	tt0088763	Comedy,Adventure,Sci-Fi
+1986	48	House	house_tt0091223	tt0091223	Comedy,Horror,Fantasy
+1986	49	Flight of the Navigator	flight.of.the.n_tt0091059	tt0091059	Family,Comedy,Adventure
+1986	50	White Nights	white.nights_tt0090319	tt0090319	Music,Drama
+1986	51	Jo Jo Dancer, Your Life Is Calling	jo.jo.dancer.yo_tt0091295	tt0091295	Comedy,Drama,Biography
+1986	52	The Delta Force	delta.force_tt0090927	tt0090927	Adventure,Drama,Action
+1986	54	Howard the Duck	howard.the.duck_tt0091225	tt0091225	Comedy,Adventure,Action
+1987	1	Beverly Hills Cop II	beverly_hills_cop_2	tt0092644	Comedy,Crime,Action
+1987	2	Platoon	platoon	tt0091763	War,Drama
+1987	3	Fatal Attraction	fatal_attraction	tt0093010	Drama,Thriller
+1987	4	The Untouchables	untouchables	tt0094226	Drama,Thriller,Crime
+1987	5	Three Men and a Baby	three_men_and_a_baby	tt0094137	Family,Comedy,Drama
+1987	6	The Secret of My Success	secret_of_my_success	tt0093936	Comedy,Romance
+1987	7	Stakeout	stakeout	tt0094025	Comedy,Crime,Action
+1987	8	Lethal Weapon	lethal_weapon	tt0093409	Crime,Thriller,Action
+1987	9	The Witches of Eastwick	witches_of_eastwick	tt0094332	Comedy,Horror,Fantasy
+1987	10	Predator	predator	tt0093773	Adventure,Horror,Action
+1987	11	Dragnet	dragnet	tt0092925	Comedy,Crime
+1987	12	La Bamba	la_bamba	tt0093378	Music,Drama,Biography
+1987	13	Crocodile Dundee	crocodile_dundee	tt0090555	Comedy,Adventure,Action
+1987	14	RoboCop	robocop	tt0093870	Crime,Sci-Fi,Action
+1987	15	Outrageous Fortune	outrageous_fortune	tt0093690	Comedy
+1987	16	Dirty Dancing	dirty_dancing_fs	tt0092890	Music,Drama,Romance
+1987	17	The Living Daylights	living_daylights	tt0093428	Adventure,Thriller,Action
+1987	19	Full Metal Jacket	full_metal_jacket	tt0093058	War,Drama
+1987	20	A Nightmare on Elm Street 3: Dream Warriors	nightmare_on_elm_street_3	tt0093629	Horror,Fantasy
+1987	21	Mannequin	mannequin	tt0093493	Romance,Comedy,Fantasy
+1987	22	Roxanne	roxanne_fs	tt0093886	Comedy,Romance
+1987	23	Blind Date	blind_date	tt0092666	Comedy,Romance
+1987	24	Spaceballs	spaceballs_fs	tt0094012	Comedy,Adventure,Sci-Fi
+1987	25	Star Trek IV: The Voyage Home	star_trek_4	tt0092007	Comedy,Adventure,Action
+1987	26	The Golden Child	golden_child	tt0091129	Comedy,Adventure,Action
+1987	27	Summer School	summer.school_tt0094072	tt0094072	Comedy,Romance
+1987	28	No Way Out	no.way.out_tt0093640	tt0093640	Crime,Drama,Action
+1987	29	Planes, Trains & Automobiles	planes.trains.._tt0093748	tt0093748	Comedy,Drama
+1987	30	The Running Man	running.man_tt0093894	tt0093894	Thriller,Sci-Fi,Action
+1987	31	Like Father Like Son	like.father.lik_tt0093418	tt0093418	Comedy,Fantasy
+1987	32	Adventures in Babysitting	adventures.in.b_tt0092513	tt0092513	Comedy,Adventure,Crime
+1987	33	The Lost Boys	lost.boys_tt0093437	tt0093437	Comedy,Horror
+1987	34	Can't Buy Me Love	cant.buy.me.lov_tt0092718	tt0092718	Comedy,Drama,Romance
+1987	35	The Princess Bride	princess.bride_tt0093779	tt0093779	Family,Adventure,Fantasy
+1987	36	Throw Momma from the Train	throw.momma.fro_tt0094142	tt0094142	Comedy,Thriller,Crime
+1987	37	Revenge of the Nerds II: Nerds in Paradise	revenge.of.the._tt0093857	tt0093857	Comedy
+1987	38	Harry and the Hendersons	harry.and.the.h_tt0093148	tt0093148	Family,Comedy,Fantasy
+1987	40	Police Academy 4: Citizens on Patrol	police.academy._tt0093756	tt0093756	Comedy,Crime
+1987	42	Baby Boom	baby.boom_tt0092605	tt0092605	Comedy,Drama,Romance
+1987	43	Innerspace	innerspace_tt0093260	tt0093260	Comedy,Adventure,Action
+1987	44	Tin Men	tin.men_tt0094155	tt0094155	Comedy,Drama
+1987	45	Black Widow	black.widow_tt0090738	tt0090738	Drama,Thriller,Crime
+1987	46	Little Shop of Horrors	little.shop.of._tt0091419	tt0091419	Comedy,Musical,Horror
+1987	47	Hoosiers	hoosiers_tt0091217	tt0091217	Sport,Drama
+1987	48	Ernest Goes to Camp	ernest.goes.to._tt0092974	tt0092974	Family,Comedy
+1987	49	Raising Arizona	raising.arizona_tt0093822	tt0093822	Comedy,Crime
+1987	50	Nuts	nuts_tt0093660	tt0093660	Drama,Crime,Action
+1987	51	Jaws: The Revenge	jaws.the.reveng_tt0093300	tt0093300	Adventure,Thriller,Horror
+1987	52	A Room with a View	a.room.with.a.v_tt0091867	tt0091867	Comedy
+1987	54	Critical Condition	critical.condit_tt0092798	tt0092798	Comedy
+1988	2	Coming to America	coming_to_america	tt0094898	Comedy,Romance
+1988	3	Good Morning, Vietnam	good_morning_vietnam	tt0093105	Comedy,Drama,Biography
+1988	4	Big	big	tt0094737	Comedy,Drama,Fantasy
+1988	5	Crocodile Dundee II	crocodile_dundee_2	tt0092493	Comedy,Adventure,Action
+1988	6	Three Men and a Baby	three_men_and_a_baby	tt0094137	Family,Comedy,Drama
+1988	7	Die Hard	diehard	tt0095016	Thriller,Action
+1988	8	Moonstruck	moonstruck	tt0093565	Comedy,Drama,Romance
+1988	9	Cocktail	cocktail	tt0094889	Comedy,Drama,Romance
+1988	10	Beetlejuice	beetlejuice	tt0094721	Comedy,Fantasy
+1988	11	A Fish Called Wanda	fish_called_wanda	tt0095159	Comedy,Crime
+1988	12	Willow	willow	tt0096446	Adventure,Drama,Action
+1988	13	Rambo III	rambo_3	tt0095956	Adventure,Thriller,Action
+1988	14	Scrooged	scrooged	tt0096061	Comedy,Drama,Fantasy
+1988	15	Bull Durham	bull_durham	tt0094812	Sport,Comedy,Romance
+1988	16	Twins	twins_fs	tt0096320	Comedy,Crime
+1988	17	A Nightmare on Elm Street 4: The Dream Master	nightmare_on_elm_street_4	tt0095742	Horror
+1988	18	Colors	colors	tt0094894	Crime,Drama,Action
+1988	19	Young Guns	young_guns_fs	tt0096487	Western,Action
+1988	20	Biloxi Blues	biloxi_blues	tt0094746	Comedy,Drama
+1988	21	The Naked Gun: From the Files of Police Squad!	naked_gun	tt0095705	Comedy,Crime
+1988	22	The Great Outdoors	great_outdoors	tt0095253	Comedy
+1988	23	Big Business	big_business	tt0094739	Comedy
+1988	24	The Last Emperor	last_emperor	tt0093389	Drama,Biography,History
+1988	26	Midnight Run	midnight_run	tt0095631	Comedy,Crime,Action
+1988	27	The Dead Pool	dead_pool	tt0094963	Crime,Mystery,Action
+1988	28	Broadcast News	broadcast.news_tt0092699	tt0092699	Comedy,Drama,Romance
+1988	31	Red Heat	red.heat_tt0095963	tt0095963	Comedy,Crime,Action
+1988	32	Child's Play	childs.play_tt0094862	tt0094862	Thriller,Horror
+1988	33	Rain Man	rainman	tt0095953	Drama
+1988	34	The Accused	accused_tt0094608	tt0094608	Drama,Crime
+1988	35	Shoot to Kill	shoot.to.kill_tt0096098	tt0096098	Adventure,Crime,Action
+1988	36	Ernest Saves Christmas	ernest.saves.ch_tt0095107	tt0095107	Family,Comedy,Fantasy
+1988	37	Throw Momma from the Train	throw.momma.fro_tt0094142	tt0094142	Comedy,Thriller,Crime
+1988	38	Fatal Attraction	fatal_attraction	tt0093010	Drama,Thriller
+1988	39	Wall Street	wall.street_tt0094291	tt0094291	Drama,Crime
+1988	40	Betrayed	betrayed_tt0094731	tt0094731	Drama,Thriller,Crime
+1988	41	Tequila Sunrise	tequila.sunrise_tt0096244	tt0096244	Romance,Drama,Crime
+1988	42	Funny Farm	funny.farm_tt0095188	tt0095188	Comedy
+1988	43	Alien Nation	alien.nation_tt0094631	tt0094631	Sci-Fi,Action
+1988	44	Gorillas in the Mist	gorillas.in.the_tt0095243	tt0095243	Drama,Biography
+1988	47	License to Drive	license.to.driv_tt0095519	tt0095519	Comedy
+1988	48	Short Circuit 2	short.circuit.2_tt0096101	tt0096101	Family,Comedy,Drama
+1988	49	Married to the Mob	married.to.the._tt0095593	tt0095593	Romance,Comedy,Crime
+1988	50	Punchline	punchline_tt0095927	tt0095927	Comedy,Drama,Romance
+1988	51	The Presidio	presidio_tt0095897	tt0095897	Crime,Mystery,Action
+1988	52	Action Jackson	action.jackson_tt0094612	tt0094612	Comedy,Crime,Action
+1988	53	Tucker: The Man and His Dream	tucker.the.man._tt0096316	tt0096316	Comedy,Drama,Biography
+1988	54	The Serpent and the Rainbow	serpent.and.the_tt0096071	tt0096071	Horror,Fantasy
+1988	55	Police Academy 5: Assignment: Miami Beach	police.academy._tt0095882	tt0095882	Comedy,Crime
+1988	56	Friday the 13th Part VII: The New Blood	friday_the_13th_7_new_blood	tt0095179	Thriller,Horror
+1989	1	Batman	batman	tt0096895	Adventure,Action
+1989	2	Indiana Jones and the Last Crusade	last_crusade	tt0097576	Adventure,Action
+1989	3	Lethal Weapon 2	lethal_weapon_2	tt0097733	Crime,Thriller,Action
+1989	4	Rain Man	rainman	tt0095953	Drama
+1989	5	Honey, I Shrunk the Kids	honey_i_shrunk_the_kids_fs	tt0097523	Family,Comedy,Adventure
+1989	6	Look Who's Talking	look_whos_talking	tt0097778	Comedy
+1989	7	Ghostbusters II	ghostbusters_2	tt0097428	Comedy,Fantasy,Action
+1989	8	Dead Poets Society	dead_poets_society	tt0097165	Comedy,Drama
+1989	9	Parenthood	parenthood	tt0098067	Comedy,Drama
+1989	10	Back to the Future Part II	back_to_the_future_2_fs	tt0096874	Comedy,Adventure,Sci-Fi
+1989	11	When Harry Met Sally...	when_harry_met_sally	tt0098635	Comedy,Drama,Romance
+1989	12	Turner & Hooch	turner_and_hooch	tt0098536	Comedy,Drama,Crime
+1989	13	Uncle Buck	uncle_buck	tt0098554	Comedy
+1989	14	Field of Dreams	field_of_dreams	tt0097351	Family,Drama,Fantasy
+1989	15	Twins	twins_fs	tt0096320	Comedy,Crime
+1989	16	Sea of Love	sea_of_love	tt0098273	Drama,Mystery,Crime
+1989	17	Pet Sematary	pet_sematary	tt0098084	Thriller,Horror,Fantasy
+1989	18	The Abyss	abyss	tt0096754	Adventure,Mystery,Drama
+1989	19	Harlem Nights	harlem_nights	tt0097481	Comedy,Drama,Crime
+1989	20	National Lampoon's Christmas Vacation	christmas_vacation	tt0097958	Comedy
+1989	21	Star Trek V: The Final Frontier	star_trek_5_final_frontier	tt0098382	Adventure,Fantasy,Action
+1989	22	Working Girl	working_girl	tt0096463	Comedy,Drama,Romance
+1989	23	Major League	major_league	tt0097815	Sport,Comedy
+1989	24	Beaches	beaches	tt0094715	Music,Comedy,Drama
+1989	25	See No Evil, Hear No Evil	see_no_evil_hear_no_evil	tt0098282	Comedy,Crime
+1989	26	Black Rain	black.rain_tt0096933	tt0096933	Crime,Drama,Action
+1989	28	K-9	k9_tt0097637	tt0097637	Comedy,Crime,Action
+1989	29	Steel Magnolias	steel.magnolias_tt0098384	tt0098384	Comedy,Drama,Romance
+1989	30	Three Fugitives	three.fugitives_tt0098471	tt0098471	Comedy,Action
+1989	31	Bill & Ted's Excellent Adventure	bill..teds.exce_tt0096928	tt0096928	Music,Comedy,Adventure
+1989	32	The War of the Roses	war_of_the_roses	tt0098621	Comedy,Romance
+1989	33	Karate Kid Part III, The	karate.kid.part_tt0097647	tt0097647	Family,Drama,Action
+1989	34	Burbs, The	burbs_tt0096734	tt0096734	Comedy,Thriller,Mystery
+1989	35	The Naked Gun: From the Files of Police Squad!	naked_gun	tt0095705	Comedy,Crime
+1989	36	Fletch Lives	fletch.lives_tt0097366	tt0097366	Comedy,Mystery,Crime
+1989	37	Licence to Kill	licence.to.kill_tt0097742	tt0097742	Adventure,Thriller,Action
+1989	38	Dangerous Liaisons	dangerous.liais_tt0094947	tt0094947	Drama,Romance
+1989	39	Mississippi Burning	mississippi.bur_tt0095647	tt0095647	Drama,Mystery,Crime
+1989	40	The Accidental Tourist	accidental.tour_tt0094606	tt0094606	Drama,Romance
+1989	41	Lean on Me	lean.on.me_tt0097722	tt0097722	Drama
+1989	42	Bear, The	bear_tt0095800	tt0095800	Family,Adventure,Drama
+1989	43	Weekend at Bernie's	weekend.at.bern_tt0098627	tt0098627	Comedy,Adventure,Crime
+1989	44	Road House	road.house_tt0098206	tt0098206	Thriller,Action
+1989	46	The Dream Team	dream.team_tt0097235	tt0097235	Comedy,Thriller,Crime
+1989	47	Do the Right Thing	do.the.right.th_tt0097216	tt0097216	Comedy,Drama
+1989	48	Sex, Lies, and Videotape	sex.lies.and.vi_tt0098724	tt0098724	Drama
+1989	49	Dirty Rotten Scoundrels	dirty.rotten.sc_tt0095031	tt0095031	Comedy,Crime
+1989	50	A Nightmare on Elm Street 5: The Dream Child	a.nightmare.on._tt0097981	tt0097981	Horror,Fantasy
+1989	51	Dad	dad_tt0097142	tt0097142	Comedy,Drama
+1989	52	Lock Up	lock.up_tt0097770	tt0097770	Crime,Drama,Action
+1990	1	Ghost	ghost	tt0099653	Romance,Drama,Fantasy
+1990	2	Pretty Woman	pretty_woman	tt0100405	Comedy,Romance
+1990	3	Home Alone	home_alone	tt0099785	Family,Comedy
+1990	4	Teenage Mutant Ninja Turtles	tmnt_1990	tt0100758	Comedy,Adventure,Action
+1990	5	The Hunt for Red October	hunt_for_red_october	tt0099810	Adventure,Thriller,Action
+1990	6	Total Recall	total_recall	tt0100802	Adventure,Sci-Fi,Action
+1990	7	Die Hard 2	die.hard.2.movie_tt0099423	tt0099423	Thriller,Action
+1990	8	Driving Miss Daisy	driving_miss_daisy	tt0097239	Comedy,Drama,Romance
+1990	9	Dick Tracy	dick_tracy	tt0099422	Comedy,Crime,Action
+1990	10	Back to the Future Part III	back_to_the_future_3_fs	tt0099088	Comedy,Adventure,Sci-Fi
+1990	11	Presumed Innocent	presumed_innocent	tt0100404	Thriller,Mystery
+1990	12	Days of Thunder	days_of_thunder	tt0099371	Sport,Drama,Action
+1990	13	Another 48 Hrs.	another_48_hrs	tt0099044	Comedy,Crime,Action
+1990	14	Bird on a Wire	bird_on_a_wire	tt0099141	Comedy,Action
+1990	15	Born on the Fourth of July	born_on_the_fourth_of_july	tt0096969	War,Drama,Biography
+1990	16	Flatliners	flatliners	tt0099582	Drama,Sci-Fi,Horror
+1990	17	Dances with Wolves	dances_with_wolves_fs	tt0099348	Western,Adventure,Drama
+1990	18	Problem Child	problem_child	tt0100419	Family,Comedy
+1990	19	Arachnophobia	arachnophobia	tt0099052	Comedy,Thriller,Horror
+1990	20	Three Men and a Little Lady	three_men_and_a_little_lady	tt0098966	Family,Comedy,Drama
+1990	21	The War of the Roses	war_of_the_roses	tt0098621	Comedy,Romance
+1990	22	Hard to Kill	hard_to_kill	tt0099739	Crime,Drama,Action
+1990	23	Marked for Death	marked_for_death	tt0100114	Crime,Drama,Action
+1990	24	Tango & Cash	tango_and_cash	tt0098439	Comedy,Crime,Action
+1990	25	RoboCop 2	robocop_2	tt0100502	Crime,Sci-Fi,Action
+1990	27	Young Guns II	young.guns.ii_tt0100994	tt0100994	Western,Action
+1990	28	Steel Magnolias	steel.magnolias_tt0098384	tt0098384	Comedy,Drama,Romance
+1990	29	Gremlins 2: The New Batch	gremlins.2.the._tt0099700	tt0099700	Comedy,Horror,Fantasy
+1990	30	Rocky V	rocky.v_tt0100507	tt0100507	Sport,Drama
+1990	32	Postcards from the Edge	postcards.from._tt0100395	tt0100395	Comedy,Drama
+1990	33	Misery	misery_tt0100157	tt0100157	Drama,Thriller
+1990	34	Goodfellas	goodfellas_tt0099685	tt0099685	Drama,Biography,Crime
+1990	35	Joe Versus the Volcano	joe.versus.the._tt0099892	tt0099892	Comedy,Romance
+1990	36	Darkman	darkman_tt0099365	tt0099365	Thriller,Sci-Fi,Action
+1990	37	Always	always_tt0096794	tt0096794	Romance,Drama,Fantasy
+1990	38	Air America	air.america_tt0099005	tt0099005	Comedy,War,Action
+1990	39	Predator 2	predator.2_tt0100403	tt0100403	Sci-Fi,Horror,Action
+1990	40	Kindergarten Cop	kindergarten_cop_fs	tt0099938	Comedy,Crime,Action
+1990	41	Pacific Heights	pacific.heights_tt0100318	tt0100318	Thriller
+1990	42	Child's Play 2	childs.play.2_tt0099253	tt0099253	Thriller,Horror
+1990	43	Internal Affairs	internal.affair_tt0099850	tt0099850	Drama,Thriller,Crime
+1990	44	Cadillac Man	cadillac.man_tt0099204	tt0099204	Comedy,Crime
+1990	45	Memphis Belle	memphis.belle_tt0100133	tt0100133	War,Drama,Action
+1990	46	The Godfather: Part III	godfather.part._tt0099674	tt0099674	Drama,Crime
+1990	47	Look Who's Talking	look_whos_talking	tt0097778	Comedy
+1990	48	Glory	glory_tt0097441	tt0097441	Drama,Biography,History
+1990	49	House Party	house.party_tt0099800	tt0099800	Music,Comedy,Romance
+1990	50	Jacob's Ladder	jacobs.ladder_tt0099871	tt0099871	Drama,Mystery,Horror
+1990	51	The Exorcist III	exorcist.iii_tt0099528	tt0099528	Drama,Mystery,Horror
+1990	53	Navy Seals	navy.seals_tt0100232	tt0100232	Adventure,Thriller,Action
+1991	1	Terminator 2: Judgment Day	terminator_2	tt0103064	Sci-Fi,Action
+1991	2	Robin Hood: Prince of Thieves	robin_hood_prince_of_thieves	tt0102798	Adventure,Drama,Action
+1991	3	Home Alone	home_alone	tt0099785	Family,Comedy
+1991	4	The Silence of the Lambs	silence_of_the_lambs	tt0102926	Drama,Thriller,Crime
+1991	5	City Slickers	city_slickers	tt0101587	Comedy,Western
+1991	6	Dances with Wolves	dances_with_wolves_fs	tt0099348	Western,Adventure,Drama
+1991	7	Sleeping with the Enemy	sleeping_with_the_enemy	tt0102945	Drama,Thriller
+1991	8	The Addams Family	addams_family	tt0101272	Comedy,Fantasy
+1991	9	The Naked Gun 2½: The Smell of Fear	naked_gun_25	tt0102510	Comedy,Crime
+1991	10	Teenage Mutant Ninja Turtles II: The Secret of the Ooze	tmnt_2	tt0103060	Comedy,Adventure,Action
+1991	11	Backdraft	backdraft	tt0101393	Drama,Mystery,Action
+1991	12	Hot Shots!	hot_shots	tt0102059	Comedy,Action
+1991	14	Hook	hook	tt0102057	Family,Comedy,Adventure
+1991	15	What About Bob?	what_about_bob	tt0103241	Comedy
+1991	16	Kindergarten Cop	kindergarten_cop_fs	tt0099938	Comedy,Crime,Action
+1991	18	Cape Fear	cape_fear	tt0101540	Thriller,Crime
+1991	19	Boyz n the Hood	boyz_n_the_hood	tt0101507	Drama,Crime
+1991	20	Doc Hollywood	doc_hollywood_fs	tt0101745	Comedy,Drama,Romance
+1991	21	Star Trek VI: The Undiscovered Country	star_trek_6	tt0102975	Adventure,Sci-Fi,Action
+1991	22	Awakenings	awakenings	tt0099077	Drama,Biography
+1991	23	New Jack City	new_jack_city	tt0102526	Crime,Drama,Action
+1991	24	The Rocketeer	rocketeer	tt0102803	Family,Adventure,Action
+1991	25	Thelma & Louise	thelma_and_louise	tt0103074	Adventure,Drama,Crime
+1991	26	Point Break	point_break	tt0102685	Crime,Thriller,Action
+1991	27	Regarding Henry	regarding_henry	tt0102768	Drama,Romance
+1991	28	My Girl	my.girl_tt0102492	tt0102492	Family,Comedy,Drama
+1991	29	The Fisher King	fisher.king_tt0101889	tt0101889	Comedy,Drama,Fantasy
+1991	30	Out for Justice	out.for.justice_tt0102614	tt0102614	Crime,Drama,Action
+1991	31	The Godfather: Part III	godfather.part._tt0099674	tt0099674	Drama,Crime
+1991	32	The Doctor	doctor_tt0101746	tt0101746	Drama
+1991	33	Bill & Ted's Bogus Journey	bill..teds.bogu_tt0101452	tt0101452	Comedy,Adventure,Fantasy
+1991	34	Dead Again	dead.again_tt0101669	tt0101669	Drama,Mystery,Crime
+1991	35	Soapdish	soapdish_tt0102951	tt0102951	Comedy,Romance
+1991	36	Freddy's Dead: The Final Nightmare	freddys.dead.th_tt0101917	tt0101917	Horror,Fantasy
+1991	37	White Fang	white.fang_tt0103247	tt0103247	Adventure,Drama
+1991	38	The Doors	doors_tt0101761	tt0101761	Music,Drama,Biography
+1991	39	King Ralph	king.ralph_tt0102216	tt0102216	Comedy,Romance
+1991	40	Curly Sue	curly.sue_tt0101635	tt0101635	Family,Comedy,Drama
+1991	41	Dying Young	dying.young_tt0101787	tt0101787	Drama,Romance
+1991	42	The Last Boy Scout	last.boy.scout_tt0102266	tt0102266	Comedy,Crime,Action
+1991	43	Jungle Fever	jungle.fever_tt0102175	tt0102175	Drama,Romance
+1991	44	Edward Scissorhands	edward.scissorh_tt0099487	tt0099487	Romance,Drama,Fantasy
+1991	45	Double Impact	double.impact_tt0101764	tt0101764	Crime,Action
+1991	46	Green Card	green.card_tt0099699	tt0099699	Comedy,Drama,Romance
+1991	47	L.A. Story	l.a..story_tt0102250	tt0102250	Comedy,Drama,Fantasy
+1991	48	Deceived	deceived_tt0101694	tt0101694	Drama,Mystery,Crime
+1991	49	Father of the Bride	father_of_the_bride	tt0101862	Family,Comedy,Romance
+1991	50	Necessary Roughness	necessary.rough_tt0102517	tt0102517	Sport,Comedy
+1991	51	The Hard Way	hard.way_tt0102004	tt0102004	Comedy,Crime,Action
+1991	52	Other People's Money	other.peoples.money_tt0102609	tt0102609	Comedy,Drama,Romance
+1992	1	Batman Returns	batman_returns	tt0103776	Crime,Fantasy,Action
+1992	2	Lethal Weapon 3	lethal_weapon_3	tt0104714	Crime,Thriller,Action
+1992	3	Sister Act	sister_act	tt0105417	Family,Comedy,Music
+1992	4	Home Alone 2: Lost in New York	home_alone_2	tt0104431	Comedy,Adventure,Crime
+1992	5	Wayne's World	waynes_world	tt0105793	Music,Comedy
+1992	6	Basic Instinct	basic_instinct	tt0103772	Drama,Mystery,Thriller
+1992	7	A League of Their Own	league_of_their_own	tt0104694	Sport,Comedy,Drama
+1992	9	The Hand that Rocks the Cradle	hand_that_rocks_the_cradle	tt0104389	Drama,Thriller
+1992	10	Under Siege	under_siege	tt0105690	Thriller,Action
+1992	11	Patriot Games	patriot_games	tt0105112	Thriller,Action
+1992	12	Bram Stoker's Dracula	dracula	tt0103874	Drama,Horror,Fantasy
+1992	13	The Bodyguard	bodyguard	tt0103855	Music,Drama,Action
+1992	14	White Men Can't Jump	white_men_cant_jump	tt0105812	Sport,Comedy
+1992	15	Fried Green Tomatoes	fried_green_tomatoes	tt0101921	Drama
+1992	16	The Last of the Mohicans	last_of_the_mohicans	tt0104691	Adventure,Drama,Action
+1992	17	Unforgiven	unforgiven	tt0105695	Western,Drama
+1992	19	Boomerang	boomerang	tt0103859	Comedy,Drama,Romance
+1992	20	A Few Good Men	few_good_men	tt0104257	Drama,Thriller
+1992	21	Father of the Bride	father_of_the_bride	tt0101862	Family,Comedy,Romance
+1992	22	Far and Away	far_and_away	tt0104231	Romance,Adventure,Drama
+1992	23	The Prince of Tides	prince_of_tides	tt0102713	Drama,Romance
+1992	24	Death Becomes Her	death_becomes_her	tt0104070	Comedy,Horror,Fantasy
+1992	25	Honey, I Blew Up the Kid	honey_i_blew_up_the_kid_fs	tt0104437	Family,Comedy,Adventure
+1992	26	Unlawful Entry	unlawful_entry	tt0105699	Drama,Thriller,Crime
+1992	27	Alien³	alien_3	tt0103644	Sci-Fi,Horror,Action
+1992	28	Hook	hook	tt0102057	Family,Comedy,Adventure
+1992	29	HouseSitter	housesitter_tt0104452	tt0104452	Comedy,Romance
+1992	30	Beethoven	beethoven_tt0103786	tt0103786	Family,Comedy,Drama
+1992	31	My Cousin Vinny	my.cousin.vinny_tt0104952	tt0104952	Comedy,Crime
+1992	32	Sneakers	sneakers_tt0105435	tt0105435	Comedy,Drama,Crime
+1992	33	The Mighty Ducks	mighty.ducks_tt0104868	tt0104868	Family,Comedy,Drama
+1992	34	JFK	jfk_tt0102138	tt0102138	Drama,Thriller,History
+1992	35	Single White Female	single.white.fe_tt0105414	tt0105414	Drama,Thriller
+1992	36	Medicine Man	medicine.man_tt0104839	tt0104839	Romance,Adventure,Drama
+1992	37	Passenger 57	passenger.57_tt0105104	tt0105104	Crime,Thriller,Action
+1992	38	Malcolm X	malcolm.x_tt0104797	tt0104797	Drama,Biography,History
+1992	39	Encino Man	encino.man_tt0104187	tt0104187	Comedy
+1992	40	Mo' Money	mo.money_tt0104897	tt0104897	Comedy,Crime,Action
+1992	41	Universal Soldier	universal.soldi_tt0105698	tt0105698	Sci-Fi,Action
+1992	42	Honeymoon in Vegas	honeymoon.in.ve_tt0104438	tt0104438	Comedy,Thriller,Romance
+1992	43	The Distinguished Gentleman	distinguished.g_tt0104114	tt0104114	Comedy,Crime
+1992	44	Grand Canyon	grand.canyon_tt0101969	tt0101969	Drama,Crime
+1992	45	Bugsy	bugsy_tt0101516	tt0101516	Drama,Biography,Crime
+1992	46	The Lawnmower Man	lawnmower.man_tt0104692	tt0104692	Sci-Fi,Horror
+1992	47	A River Runs Through It	a.river.runs.th_tt0105265	tt0105265	Drama
+1992	48	Sleepwalkers	sleepwalkers_tt0105428	tt0105428	Horror,Fantasy
+1992	49	3 Ninjas	3.ninjas_tt0103596	tt0103596	Family,Comedy,Action
+1992	50	Final Analysis	final.analysis_tt0104265	tt0104265	Drama,Thriller
+1992	51	Stop! Or My Mom Will Shoot	stop.or.my.mom._tt0105477	tt0105477	Comedy,Action
+1992	52	The Last Boy Scout	last.boy.scout_tt0102266	tt0102266	Comedy,Crime,Action
+1993	1	Jurassic Park	jurassic_park	tt0107290	Adventure,Sci-Fi,Action
+1993	2	The Fugitive	fugitive	tt0106977	Crime,Drama,Action
+1993	3	The Firm	firm_fs	tt0106918	Drama,Mystery,Thriller
+1993	4	Sleepless in Seattle	sleepless_in_seattle_fs	tt0108160	Comedy,Drama,Romance
+1993	5	Mrs. Doubtfire	mrs_doubtfire	tt0107614	Comedy,Drama
+1993	6	Indecent Proposal	indecent_proposal	tt0107211	Drama,Romance
+1993	7	In the Line of Fire	in_the_line_of_fire	tt0107206	Crime,Drama,Action
+1993	9	Cliffhanger	cliffhanger	tt0106582	Adventure,Thriller,Action
+1993	10	A Few Good Men	few_good_men	tt0104257	Drama,Thriller
+1993	11	Free Willy	free_willy	tt0106965	Family,Adventure,Drama
+1993	12	Groundhog Day	groundhog_day	tt0107048	Comedy,Drama,Fantasy
+1993	13	Dave	dave	tt0106673	Comedy,Romance
+1993	14	Rising Sun	rising_sun	tt0107969	Crime,Drama,Action
+1993	15	Scent of a Woman	scent_of_a_woman	tt0105323	Drama
+1993	16	Cool Runnings	cool_runnings	tt0106611	Family,Comedy,Adventure
+1993	17	The Crying Game	crying_game	tt0104036	Romance,Drama,Crime
+1993	18	Demolition Man	demolition_man	tt0106697	Thriller,Sci-Fi,Action
+1993	19	Rookie of the Year	rookie	tt0107985	Family,Comedy,Fantasy
+1993	20	Dennis the Menace	dennis_the_menace	tt0106701	Family,Comedy
+1993	21	The Pelican Brief	pelican_brief	tt0107798	Drama,Mystery,Crime
+1993	22	Sommersby	sommersby	tt0108185	Drama,Mystery,Romance
+1993	23	Last Action Hero	last_action_hero_fs	tt0107362	Comedy,Adventure,Action
+1993	25	The Three Musketeers	three_musketeers	tt0108333	Comedy,Adventure,Action
+1993	26	Malice	malice	tt0107497	Thriller,Mystery,Crime
+1993	27	Made in America	made_in_america_fs	tt0107478	Comedy
+1993	28	The Good Son	good.son_tt0107034	tt0107034	Drama,Thriller
+1993	29	Addams Family Values	addams.family.v_tt0106220	tt0106220	Comedy,Fantasy
+1993	31	Teenage Mutant Ninja Turtles III	teenage.mutant._tt0108308	tt0108308	Comedy,Adventure,Action
+1993	32	Homeward Bound: The Incredible Journey	homeward.bound._tt0107131	tt0107131	Comedy,Adventure,Drama
+1993	34	Hocus Pocus	hocus.pocus_tt0107120	tt0107120	Family,Comedy,Fantasy
+1993	35	What's Love Got to Do with It	whats.love.got._tt0108551	tt0108551	Music,Drama,Biography
+1993	36	Falling Down	falling.down_tt0106856	tt0106856	Crime,Drama,Action
+1993	37	Hot Shots! Part Deux	hot.shots.part._tt0107144	tt0107144	Comedy,Action
+1993	38	The Bodyguard	bodyguard	tt0103855	Music,Drama,Action
+1993	39	Home Alone 2: Lost in New York	home_alone_2	tt0104431	Comedy,Adventure,Crime
+1993	40	Carlito's Way	carlitos.way_tt0106519	tt0106519	Drama,Thriller,Crime
+1993	41	Wayne's World 2	waynes.world.2_tt0108525	tt0108525	Music,Comedy
+1993	42	Alive	alive_tt0106246	tt0106246	Drama,Biography,Thriller
+1993	43	Son in Law	son.in.law_tt0108186	tt0108186	Comedy,Drama,Romance
+1993	44	Sliver	sliver_tt0108162	tt0108162	Drama,Thriller
+1993	45	Robin Hood: Men in Tights	robin.hood.men._tt0107977	tt0107977	Comedy,Adventure,Musical
+1993	46	Dragon: The Bruce Lee Story	dragon.the.bruc_tt0106770	tt0106770	Drama,Biography,Action
+1993	47	Sister Act 2: Back in the Habit	sister.act.2.ba_tt0108147	tt0108147	Family,Comedy,Music
+1993	48	The Joy Luck Club	joy.luck.club_tt0107282	tt0107282	Drama
+1993	49	Hard Target	hard.target_tt0107076	tt0107076	Crime,Thriller,Action
+1993	50	The Sandlot	sandlot_tt0108037	tt0108037	Family,Comedy,Drama
+1993	51	The Age of Innocence	age.of.innocenc_tt0106226	tt0106226	Drama,Romance
+1993	52	Cop & ½	cop.._tt0106613	tt0106613	Family,Comedy,Crime
+1993	53	The Secret Garden	secret.garden_tt0108071	tt0108071	Family,Drama,Fantasy
+1993	54	Forever Young	forever.young_tt0104291	tt0104291	Drama,Sci-Fi,Romance
+1994	2	Forrest Gump	forrest_gump	tt0109830	Drama,Romance
+1994	3	True Lies	true_lies	tt0111503	Comedy,Thriller,Action
+1994	4	The Santa Clause	santa_clause	tt0111070	Family,Comedy,Drama
+1994	5	The Flintstones	flintstones	tt0109813	Family,Comedy,Fantasy
+1994	6	Clear and Present Danger	clear_and_present_danger	tt0109444	Crime,Drama,Action
+1994	7	Speed	speed	tt0111257	Adventure,Thriller,Action
+1994	8	The Mask	mask_1994	tt0110475	Comedy,Crime,Action
+1994	9	Mrs. Doubtfire	mrs_doubtfire	tt0107614	Comedy,Drama
+1994	10	Interview with the Vampire: The Vampire Chronicles	interview_with_a_vampire	tt0110148	Drama,Horror,Fantasy
+1994	11	Maverick	maverick	tt0110478	Comedy,Adventure,Action
+1994	12	Schindler's List	schindlers_list	tt0108052	Drama,Biography,History
+1994	13	The Client	client	tt0109446	Drama,Mystery,Crime
+1994	14	Philadelphia	philadelphia	tt0107818	Drama
+1994	15	Stargate	stargate.movie_tt0111282	tt0111282	Adventure,Sci-Fi,Action
+1994	16	Ace Ventura: Pet Detective	ace_ventura	tt0109040	Comedy
+1994	17	Star Trek: Generations	star_trek_generations	tt0111280	Adventure,Mystery,Action
+1994	18	Wolf	wolf	tt0111742	Romance,Drama,Horror
+1994	19	Pulp Fiction	pulp_fiction	tt0110912	Drama,Crime
+1994	20	Grumpy Old Men	grumpy_old_men_fs	tt0107050	Comedy,Drama,Romance
+1994	21	The Specialist	specialist	tt0111255	Drama,Thriller,Action
+1994	22	Dumb and Dumber	dumb_and_dumber	tt0109686	Comedy
+1994	23	Four Weddings and a Funeral	four_weddings_and_a_funeral	tt0109831	Comedy,Drama,Romance
+1994	24	Naked Gun 33 1/3: The Final Insult	naked_gun_3313	tt0110622	Comedy,Crime
+1994	25	The Little Rascals	little_rascals	tt0110366	Family,Comedy,Romance
+1994	26	The Crow	crow	tt0109506	Crime,Drama,Action
+1994	27	The Pelican Brief	pelican_brief	tt0107798	Drama,Mystery,Crime
+1994	28	Natural Born Killers	natural.born.ki_tt0110632	tt0110632	Crime,Drama,Action
+1994	29	Angels in the Outfield	angels.in.the.o_tt0109127	tt0109127	Family,Comedy,Fantasy
+1994	30	When a Man Loves a Woman	when.a.man.love_tt0111693	tt0111693	Drama,Romance
+1994	31	The River Wild	river.wild_tt0110997	tt0110997	Adventure,Thriller,Crime
+1994	32	D2: The Mighty Ducks	d2.the.mighty.d_tt0109520	tt0109520	Family,Comedy,Drama
+1994	33	Timecop	timecop_tt0111438	tt0111438	Crime,Sci-Fi,Action
+1994	34	Disclosure	disclosure_tt0109635	tt0109635	Drama,Thriller
+1994	35	City Slickers II: The Legend of Curly's Gold	city.slickers.i_tt0109439	tt0109439	Comedy,Western
+1994	36	Beverly Hills Cop III	beverly.hills.c_tt0109254	tt0109254	Comedy,Crime,Action
+1994	37	Tombstone	tombstone_tt0108358	tt0108358	Drama,Biography,History
+1994	38	On Deadly Ground	on.deadly.groun_tt0110725	tt0110725	Adventure,Thriller,Action
+1994	39	It Could Happen to You	it.could.happen_tt0110167	tt0110167	Comedy,Drama,Romance
+1994	40	Paper, The	paper_tt0110771	tt0110771	Comedy,Drama
+1994	41	The Shadow	shadow_tt0111143	tt0111143	Adventure,Crime,Action
+1994	42	I Love Trouble	i.love.trouble_tt0110093	tt0110093	Romance,Comedy,Action
+1994	43	Major League II	major.league.ii_tt0110442	tt0110442	Sport,Comedy
+1994	44	Blank Check	blank.check_tt0109287	tt0109287	Family,Comedy,Crime
+1994	45	Blown Away	blown.away_tt0109303	tt0109303	Crime,Drama,Action
+1994	46	Junior	junior_tt0110216	tt0110216	Comedy,Sci-Fi,Romance
+1994	47	In the Army Now	in.the.army.now_tt0110123	tt0110123	Comedy,War
+1994	48	Beethoven's 2nd	beethovens.2nd_tt0106375	tt0106375	Family,Comedy,Romance
+1994	49	Guarding Tess	guarding.tess_tt0109951	tt0109951	Comedy,Drama
+1994	50	A Low Down Dirty Shame	a.low.down.dirt_tt0110399	tt0110399	Comedy,Crime,Action
+1994	51	Shadowlands	shadowlands_tt0108101	tt0108101	Drama,Biography,Romance
+1995	1	Batman Forever	batman_forever	tt0112462	Adventure,Action
+1995	2	Apollo 13	apollo13	tt0112384	History,Adventure,Drama
+1995	5	Ace Ventura: When Nature Calls	ace.ventura.when.nature.calls_tt0112281	tt0112281	Comedy,Adventure,Crime
+1995	6	Casper	casper	tt0112642	Family,Comedy,Fantasy
+1995	7	Die Hard with a Vengeance	die_hard_vengeance	tt0112864	Adventure,Thriller,Action
+1995	8	Crimson Tide	crimson_tide	tt0112740	Drama,Thriller,Action
+1995	9	GoldenEye	goldeneye	tt0113189	Adventure,Thriller,Action
+1995	10	Waterworld	waterworld	tt0114898	Adventure,Sci-Fi,Action
+1995	11	Dangerous Minds	dangerous_minds	tt0112792	Drama,Biography
+1995	12	Se7en	seven	tt0114369	Drama,Mystery,Crime
+1995	13	Congo	congo	tt0112715	Adventure,Mystery,Action
+1995	14	While You Were Sleeping	while_you_were_sleeping	tt0114924	Comedy,Drama,Romance
+1995	15	Get Shorty	get_shorty	tt0113161	Comedy,Thriller,Crime
+1995	16	The Bridges of Madison County	bridges_of_madison_county	tt0112579	Drama,Romance
+1995	17	Mortal Kombat	mortal_kombat_fs	tt0113855	Adventure,Fantasy,Action
+1995	18	Dumb and Dumber	dumb_and_dumber	tt0109686	Comedy
+1995	19	Nine Months	nine_months	tt0113986	Comedy,Romance
+1995	20	Outbreak	outbreak	tt0114069	Drama,Thriller,Action
+1995	21	Braveheart	braveheart	tt0112573	Drama,Biography,History
+1995	22	Legends of the Fall	legends_of_the_fall	tt0110322	War,Drama,Romance
+1995	23	Bad Boys	bad_boys	tt0112442	Comedy,Crime,Action
+1995	24	Species	species	tt0114508	Sci-Fi,Horror,Action
+1995	25	Clueless	clueless	tt0112697	Comedy,Romance
+1995	26	Something to Talk About	something_to_talk_about	tt0114496	Comedy,Drama,Romance
+1995	27	Babe	babe	tt0112431	Family,Comedy,Drama
+1995	28	Under Siege 2: Dark Territory	under.siege.2.d_tt0114781	tt0114781	Adventure,Thriller,Action
+1995	29	A Walk in the Clouds	a.walk.in.the.c_tt0114887	tt0114887	Drama,Romance
+1995	30	The Net	net_tt0113957	tt0113957	Crime,Drama,Action
+1995	31	The American President	american.presid_tt0112346	tt0112346	Comedy,Drama,Romance
+1995	32	Jumanji	jumanji_tt0113497	tt0113497	Family,Comedy,Adventure
+1995	33	The Brady Bunch Movie	brady.bunch.mov_tt0112572	tt0112572	Comedy
+1995	34	Father of the Bride Part II	father.of.the.b_tt0113041	tt0113041	Family,Comedy,Romance
+1995	35	Pulp Fiction	pulp_fiction	tt0110912	Drama,Crime
+1995	36	Man of the House	man.of.the.hous_tt0113755	tt0113755	Family,Comedy
+1995	37	Nobody's Fool	nobodys.fool_tt0110684	tt0110684	Comedy,Drama
+1995	38	Disclosure	disclosure_tt0109635	tt0109635	Drama,Thriller
+1995	39	French Kiss	french.kiss_tt0113117	tt0113117	Comedy,Drama,Romance
+1995	40	Higher Learning	higher.learning_tt0113305	tt0113305	Drama,Thriller,Crime
+1995	41	Mighty Morphin Power Rangers: The Movie	mighty.morphin._tt0113820	tt0113820	Family,Adventure,Action
+1995	42	First Knight	first.knight_tt0113071	tt0113071	Adventure,Drama,Action
+1995	43	Just Cause	just.cause_tt0113501	tt0113501	Crime,Drama,Action
+1995	44	Casino	casino_tt0112641	tt0112641	Drama,Crime
+1995	45	To Wong Foo, Thanks for Everything! Julie Newmar	to.wong.foo.tha_tt0114682	tt0114682	Comedy,Drama
+1995	46	The Indian in the Cupboard	indian.in.the.c_tt0113419	tt0113419	Family,Drama,Fantasy
+1995	48	Judge Dredd	judge.dredd_tt0113492	tt0113492	Crime,Sci-Fi,Action
+1995	49	Money Train	money.train_tt0113845	tt0113845	Comedy,Crime,Action
+1995	50	Little Women	little_women	tt0110367	Family,Drama,Romance
+1995	51	Forget Paris	forget.paris_tt0113097	tt0113097	Comedy,Romance
+1995	52	Tommy Boy	tommy.boy_tt0114694	tt0114694	Comedy,Adventure
+1995	53	Heat	heat_tt0113277	tt0113277	Crime,Drama,Action
+1996	1	Independence Day	independence_day	tt0116629	Adventure,Sci-Fi,Action
+1996	2	Twister	twister	tt0117998	Adventure,Thriller,Action
+1996	3	Mission: Impossible	mission_impossible	tt0117060	Adventure,Thriller,Action
+1996	4	The Rock	rock	tt0117500	Adventure,Thriller,Action
+1996	5	The Nutty Professor	nutty_professor	tt0117218	Comedy,Sci-Fi,Romance
+1996	6	Ransom	ransom	tt0117438	Crime,Thriller,Action
+1996	7	The Birdcage	birdcage	tt0115685	Comedy
+1996	8	A Time to Kill	time_to_kill	tt0117913	Drama,Thriller,Crime
+1996	9	101 Dalmatians	101_dalmations	tt0115433	Comedy,Adventure,Crime
+1996	10	The First Wives Club	first_wives_club	tt0116313	Comedy
+1996	11	Eraser	eraser	tt0116213	Crime,Thriller,Action
+1996	12	Phenomenon	phenomenon	tt0117333	Romance,Drama,Fantasy
+1996	14	Star Trek: First Contact	star_trek_first_contact	tt0117731	Adventure,Drama,Action
+1996	16	Mr. Holland's Opus	mr_hollands_opus	tt0113862	Music,Drama
+1996	17	Broken Arrow	broken_arrow	tt0115759	Adventure,Thriller,Action
+1996	18	Jerry Maguire	jerry_maguire	tt0116695	Comedy,Drama,Romance
+1996	19	The Cable Guy	cable_guy_fs	tt0115798	Comedy,Drama,Thriller
+1996	20	Courage Under Fire	courage_under_fire	tt0115956	Drama,Mystery,Action
+1996	21	Jack	jack	tt0116669	Comedy,Drama,Fantasy
+1996	22	12 Monkeys	12_monkeys	tt0114746	Thriller,Sci-Fi,Mystery
+1996	23	Executive Decision	executive_decision	tt0116253	Adventure,Thriller,Action
+1996	24	Primal Fear	primal_fear	tt0117381	Drama,Mystery,Crime
+1996	25	Jingle All the Way	jingle_all_the_way	tt0116705	Family,Comedy,Adventure
+1996	26	Tin Cup	tin_cup	tt0117918	Comedy,Drama,Romance
+1996	27	Sleepers	sleepers	tt0117665	Drama,Thriller,Crime
+1996	28	DragonHeart	dragonheart_tt0116136	tt0116136	Adventure,Fantasy,Action
+1996	29	Up Close & Personal	up.close..perso_tt0118055	tt0118055	Drama,Romance
+1996	30	Jumanji	jumanji_tt0113497	tt0113497	Family,Comedy,Adventure
+1996	31	Grumpier Old Men	grumpier.old.me_tt0113228	tt0113228	Comedy,Romance
+1996	34	Romeo + Juliet	romeo..juliet_tt0117509	tt0117509	Drama,Romance
+1996	35	The Mirror Has Two Faces	mirror.has.two._tt0117057	tt0117057	Comedy,Drama,Romance
+1996	36	Sense and Sensibility	sense.and.sensi_tt0114388	tt0114388	Drama,Romance
+1996	37	Dead Man Walking	dead.man.walkin_tt0112818	tt0112818	Drama,Crime
+1996	38	Happy Gilmore	happy.gilmore_tt0116483	tt0116483	Sport,Comedy
+1996	39	The Ghost and the Darkness	ghost.and.the.d_tt0116409	tt0116409	Adventure,Thriller,Drama
+1996	40	Waiting to Exhale	waiting.to.exha_tt0114885	tt0114885	Comedy,Drama,Romance
+1996	41	Set It Off	set.it.off_tt0117603	tt0117603	Crime,Drama,Action
+1996	42	Heat	heat_tt0113277	tt0113277	Crime,Drama,Action
+1996	43	The Truth About Cats & Dogs	truth.about.cat_tt0117979	tt0117979	Comedy,Romance
+1996	44	A Thin Line Between Love and Hate	a.thin.line.bet_tt0117891	tt0117891	Comedy,Drama,Crime
+1996	45	Muppet Treasure Island	muppet.treasure_tt0117110	tt0117110	Comedy,Adventure,Action
+1996	46	Matilda	matilda_tt0117008	tt0117008	Family,Comedy,Fantasy
+1996	47	The Long Kiss Goodnight	long.kiss.goodn_tt0116908	tt0116908	Crime,Drama,Action
+1996	48	Striptease	striptease_tt0117765	tt0117765	Comedy,Drama,Crime
+1996	49	Homeward Bound II: Lost in San Francisco	homeward.bound._tt0116552	tt0116552	Family,Comedy,Adventure
+1996	50	Black Sheep	black.sheep_tt0115697	tt0115697	Comedy
+1996	51	Rumble in the Bronx	rumble.in.the.b_tt0113326	tt0113326	Comedy,Crime,Action
+1996	52	Michael	michael_fs	tt0117038	Comedy,Drama,Fantasy
+1996	53	Leaving Las Vegas	leaving.las.veg_tt0113627	tt0113627	Drama,Romance
+1996	54	Eddie	eddie_tt0116168	tt0116168	Sport,Comedy
+1997	1	Men in Black	men_in_black	tt0119654	Comedy,Adventure,Action
+1997	2	The Lost World: Jurassic Park	lost_world	tt0119567	Adventure,Sci-Fi,Action
+1997	3	Liar Liar	liar_liar	tt0119528	Comedy,Fantasy
+1997	4	Air Force One	air_force_one_fs	tt0118571	Drama,Thriller,Action
+1997	5	Star Wars1997 Special Edition	star.wars.episo_tt0076759	tt0076759	Adventure,Fantasy,Action
+1997	6	My Best Friend's Wedding	my_best_friends_wedding	tt0119738	Comedy,Drama,Romance
+1997	7	Titanic	titanic	tt0120338	Drama,Romance
+1997	8	Face/Off	faceoff	tt0119094	Crime,Sci-Fi,Action
+1997	9	Batman & Robin	batman_and_robin	tt0118688	Sci-Fi,Action
+1997	10	George of the Jungle	george_of_the_jungle_fs	tt0119190	Comedy,Adventure,Action
+1997	11	Con Air	con_air	tt0118880	Crime,Thriller,Action
+1997	13	Contact	contact	tt0118884	Drama,Sci-Fi,Mystery
+1997	14	Jerry Maguire	jerry_maguire	tt0116695	Comedy,Drama,Romance
+1997	15	Flubber	flubber	tt0119137	Family,Comedy,Sci-Fi
+1997	16	Conspiracy Theory	conspiracy_theory	tt0118883	Thriller,Mystery,Action
+1997	17	Scream 2	scream_2	tt0120082	Mystery,Horror
+1997	18	Scream	scream	tt0117571	Mystery,Horror
+1997	19	Tomorrow Never Dies	tomorrow_never_dies	tt0120347	Adventure,Thriller,Action
+1997	20	I Know What You Did Last Summer	i_know_what_you_did_last_summer	tt0119345	Mystery,Horror
+1997	21	Dante's Peak	dantes_peak	tt0118928	Adventure,Thriller,Action
+1997	22	Star Wars: Episode V - The Empire Strikes Back1997 Special Edition	empire_strikes_back	tt0080684	Adventure,Fantasy,Action
+1997	23	Anaconda	anaconda	tt0118615	Adventure,Horror,Action
+1997	24	In & Out	in_and_out	tt0119360	Comedy,Romance
+1997	25	The Fifth Element	fifth_element	tt0119116	Adventure,Sci-Fi,Action
+1997	26	Michael	michael_fs	tt0117038	Comedy,Drama,Fantasy
+1997	27	The Saint	saint_tt0120053	tt0120053	Romance,Adventure,Action
+1997	28	Kiss the Girls	kiss.the.girls_tt0119468	tt0119468	Drama,Mystery,Crime
+1997	29	Jungle 2 Jungle	jungle.2.jungle_tt0119432	tt0119432	Family,Comedy
+1997	30	The Devil's Advocate	devils.advocate_tt0118971	tt0118971	Drama,Mystery,Thriller
+1997	31	The Jackal	jackal_tt0119395	tt0119395	Crime,Drama,Action
+1997	32	English Patient, The	english.patient_tt0116209	tt0116209	War,Drama,Romance
+1997	33	Spawn	spawn_tt0120177	tt0120177	Drama,Horror,Action
+1997	34	Starship Troopers	starship.troope_tt0120201	tt0120201	Adventure,Sci-Fi,Action
+1997	35	Austin Powers: International Man of Mystery	austin.powers.i_tt0118655	tt0118655	Comedy,Adventure
+1997	37	Breakdown	breakdown_tt0118771	tt0118771	Drama,Mystery,Crime
+1997	38	Absolute Power	absolute.power_tt0118548	tt0118548	Crime,Drama,Action
+1997	39	Evita	evita_tt0116250	tt0116250	Drama,Biography,History
+1997	40	Volcano	volcano_tt0120461	tt0120461	Drama,Sci-Fi,Action
+1997	41	Speed 2: Cruise Control	speed.2.cruise._tt0120179	tt0120179	Adventure,Crime,Action
+1997	42	Game, The	game_tt0119174	tt0119174	Drama,Mystery,Thriller
+1997	43	G.I. Jane	g.i..jane_tt0119173	tt0119173	War,Drama,Action
+1997	44	Alien: Resurrection	alien.resurrect_tt0118583	tt0118583	Sci-Fi,Horror,Action
+1997	45	The Rainmaker	rainmaker_tt0119978	tt0119978	Drama,Thriller,Crime
+1997	46	Bean	bean_tt0118689	tt0118689	Family,Comedy,Adventure
+1997	47	Cop Land	cop.land_tt0118887	tt0118887	Drama,Thriller,Crime
+1997	48	Nothing to Lose	nothing.to.lose_tt0119807	tt0119807	Comedy,Adventure,Action
+1997	49	Star Wars: Episode VI - Return of the Jedi1997 Special Edition	return_of_the_jedi	tt0086190	Adventure,Fantasy,Action
+1997	50	Soul Food	soul.food_tt0120169	tt0120169	Comedy,Drama
+1997	51	The Devil's Own	devils.own_tt0118972	tt0118972	Crime,Drama,Action
+1997	52	Donnie Brasco	donnie.brasco_tt0119008	tt0119008	Drama,Biography,Crime
+1998	1	Titanic	titanic	tt0120338	Drama,Romance
+1998	2	Armageddon	armageddon	tt0120591	Adventure,Sci-Fi,Action
+1998	3	Saving Private Ryan	saving_private_ryan	tt0120815	War,Drama
+1998	4	There's Something About Mary	something_about_mary	tt0129387	Comedy,Romance
+1998	5	The Waterboy	waterboy	tt0120484	Sport,Comedy
+1998	6	Doctor Dolittle	dr_dolittle_fs	tt0118998	Family,Comedy,Fantasy
+1998	7	Deep Impact	deep_impact	tt0120647	Drama,Sci-Fi,Action
+1998	8	Godzilla	godzilla	tt0120685	Thriller,Sci-Fi,Action
+1998	9	Rush Hour	rush_hour	tt0120812	Comedy,Crime,Action
+1998	10	Good Will Hunting	good_will_hunting	tt0119217	Drama,Romance
+1998	11	Lethal Weapon 4	lethal_weapon_4	tt0122151	Crime,Thriller,Action
+1998	13	The Truman Show	truman_show	tt0120382	Comedy,Drama
+1998	14	As Good as It Gets	as_good_as_it_gets_fs	tt0119822	Comedy,Drama,Romance
+1998	16	The Mask of Zorro	mask_of_zorro	tt0120746	Comedy,Adventure,Action
+1998	17	Enemy of the State	enemy_of_the_state	tt0120660	Thriller,Action
+1998	20	The X Files	x_files	tt0120902	Drama,Sci-Fi,Mystery
+1998	21	The Wedding Singer	wedding_singer	tt0120888	Music,Comedy,Romance
+1998	22	City of Angels	city_of_angels	tt0120632	Romance,Drama,Fantasy
+1998	23	The Horse Whisperer	horse_whisperer	tt0119314	Western,Drama,Romance
+1998	24	Six Days Seven Nights	six_days_seven_nights	tt0120828	Comedy,Adventure,Action
+1998	25	Blade	blade	tt0120611	Sci-Fi,Horror,Action
+1998	26	Lost in Space	lost_in_space	tt0120738	Family,Adventure,Action
+1998	27	A Perfect Murder	perfect_murder	tt0120787	Drama,Thriller,Crime
+1998	28	The Parent Trap	parent_trap	tt0120783	Comedy,Adventure,Drama
+1998	29	You've Got Mail	youve_got_mail	tt0128853	Comedy,Drama,Romance
+1998	30	Ever After: A Cinderella Story	ever.after.a.ci_tt0120631	tt0120631	Comedy,Drama,Romance
+1998	31	Hope Floats	hope.floats_tt0119313	tt0119313	Drama,Romance
+1998	32	U.S. Marshals	u.s..marshals_tt0120873	tt0120873	Crime,Thriller,Action
+1998	33	The Man in the Iron Mask	man.in.the.iron_tt0120744	tt0120744	Adventure,Drama,Action
+1998	34	Snake Eyes	snake.eyes_tt0120832	tt0120832	Thriller,Mystery,Crime
+1998	36	What Dreams May Come	what.dreams.may_tt0120889	tt0120889	Romance,Drama,Fantasy
+1998	38	Halloween H20: 20 Years Later	halloween.h20.2_tt0120694	tt0120694	Thriller,Horror
+1998	39	Small Soldiers	small.soldiers_tt0122718	tt0122718	Comedy,Adventure,Action
+1998	40	Star Trek: Insurrection	star.trek.insur_tt0120844	tt0120844	Adventure,Sci-Fi,Action
+1998	41	Tomorrow Never Dies	tomorrow_never_dies	tt0120347	Adventure,Thriller,Action
+1998	42	Patch Adams	patch_fs	tt0129290	Comedy,Drama,Biography
+1998	43	Practical Magic	practical.magic_tt0120791	tt0120791	Comedy,Drama,Fantasy
+1998	44	The Negotiator	negotiator_tt0120768	tt0120768	Crime,Drama,Action
+1998	45	Meet Joe Black	meet.joe.black_tt0119643	tt0119643	Romance,Drama,Fantasy
+1998	46	Wag the Dog	wag.the.dog_tt0120885	tt0120885	Comedy,Drama
+1998	47	Ronin	ronin_tt0122690	tt0122690	Crime,Thriller,Action
+1998	48	The Siege	siege_tt0133952	tt0133952	Thriller,Action
+1998	49	Primary Colors	primary.colors_tt0119942	tt0119942	Comedy,Drama
+1998	50	I Still Know What You Did Last Summer	i.still.know.wh_tt0130018	tt0130018	Thriller,Mystery,Horror
+1998	51	Pleasantville	pleasantville_tt0120789	tt0120789	Comedy,Drama,Fantasy
+1998	52	How Stella Got Her Groove Back	how.stella.got._tt0120703	tt0120703	Comedy,Drama,Romance
+1998	53	Out of Sight	out.of.sight_tt0120780	tt0120780	Comedy,Drama,Crime
+1998	54	Urban Legend	urban.legend_tt0146336	tt0146336	Thriller,Mystery,Horror
+1998	55	Sphere	sphere_tt0120184	tt0120184	Sci-Fi,Mystery,Action
+1998	56	Stepmom	stepmom_tt0120686	tt0120686	Comedy,Drama
+1999	1	Star Wars: Episode I - The Phantom Menace	phantom_menace	tt0120915	Adventure,Fantasy,Action
+1999	2	The Sixth Sense	sixth_sense	tt0167404	Drama,Mystery,Thriller
+1999	3	Austin Powers: The Spy Who Shagged Me	austin_powers_the_spy_who_shagged_me	tt0145660	Comedy,Adventure,Action
+1999	5	The Matrix	matrix	tt0133093	Sci-Fi,Action
+1999	7	Big Daddy	big_daddy	tt0142342	Comedy,Drama
+1999	8	The Mummy	mummy	tt0120616	Adventure,Fantasy,Action
+1999	9	Runaway Bride	runaway_bride	tt0163187	Comedy,Romance
+1999	10	The Blair Witch Project	blair_witch_fs	tt0185937	Mystery,Horror
+1999	11	Notting Hill	notting_hill	tt0125439	Comedy,Drama,Romance
+1999	12	The World Is Not Enough	world_is_not_enough	tt0143145	Adventure,Thriller,Action
+1999	13	Double Jeopardy	double_jeopardy	tt0150377	Drama,Mystery,Crime
+1999	14	Wild Wild West	wild_wild_west	tt0120891	Comedy,Sci-Fi,Action
+1999	15	Analyze This	analyze_this	tt0122933	Comedy,Crime
+1999	16	The General's Daughter	generals_daughter	tt0144214	Drama,Mystery,Crime
+1999	17	American Pie	american_pie	tt0163651	Comedy
+1999	18	Inspector Gadget	inspector_gadget	tt0141369	Comedy,Adventure,Action
+1999	19	Shakespeare in Love	shakespeare_in_love	tt0138097	Comedy,Drama,History
+1999	20	Sleepy Hollow	sleepy_hollow	tt0162661	Mystery,Horror,Fantasy
+1999	21	The Haunting	haunting	tt0171363	Mystery,Horror,Fantasy
+1999	22	Patch Adams	patch_fs	tt0129290	Comedy,Drama,Biography
+1999	23	Entrapment	entrapment	tt0137494	Romance,Crime,Action
+1999	25	Payback	payback	tt0120784	Crime,Drama,Action
+1999	26	Deep Blue Sea	deep_blue_sea	tt0149261	Adventure,Sci-Fi,Action
+1999	27	American Beauty	american_beauty	tt0169547	Drama
+1999	28	The Thomas Crown Affair	thomas_crown_affair	tt0155267	Romance,Thriller,Crime
+1999	29	Stuart Little	stuart_little	tt0164912	Family,Comedy,Adventure
+1999	30	Blue Streak	blue.streak_tt0181316	tt0181316	Comedy,Crime,Action
+1999	31	Green Mile, The	green.mile_tt0120689	tt0120689	Drama,Fantasy,Crime
+1999	32	Bowfinger	bowfinger_tt0131325	tt0131325	Comedy
+1999	33	Life	life_tt0123964	tt0123964	Comedy,Drama,Crime
+1999	34	The Bone Collector	bone.collector_tt0145681	tt0145681	Drama,Mystery,Crime
+1999	35	She's All That	shes.all.that_tt0160862	tt0160862	Comedy,Romance
+1999	36	End of Days	end.of.days_tt0146675	tt0146675	Fantasy,Horror,Action
+1999	37	Three Kings	three.kings_tt0120188	tt0120188	Comedy,Adventure,Action
+1999	38	Civil Action, A	a.civil.action_tt0120633	tt0120633	Drama
+1999	39	Stepmom	stepmom_tt0120686	tt0120686	Comedy,Drama
+1999	40	Eyes Wide Shut	eyes.wide.shut_tt0120663	tt0120663	Drama,Mystery,Thriller
+1999	41	Never Been Kissed	never.been.kiss_tt0151738	tt0151738	Comedy,Drama,Romance
+1999	42	Forces of Nature	forces.of.natur_tt0141098	tt0141098	Comedy,Romance
+1999	43	Varsity Blues	varsity.blues_tt0139699	tt0139699	Comedy,Drama,Romance
+1999	44	Message in a Bottle	message.in.a.bo_tt0139462	tt0139462	Drama,Romance
+1999	45	You've Got Mail	youve_got_mail	tt0128853	Comedy,Drama,Romance
+1999	47	Stigmata	stigmata_tt0145531	tt0145531	Horror
+1999	48	Life Is Beautiful	life.is.beautif_tt0118799	tt0118799	Comedy,Drama,Romance
+1999	50	Deuce Bigalow: Male Gigolo	deuce.bigalow.m_tt0205000	tt0205000	Comedy,Romance
+1999	51	House on Haunted Hill	house.on.haunte_tt0185371	tt0185371	Fantasy,Horror,Crime
+1999	52	Cruel Intentions	cruel.intention_tt0139134	tt0139134	Drama,Romance
+1999	53	10 Things I Hate About You	10.things.i.hat_tt0147800	tt0147800	Comedy,Drama,Romance
+1999	54	My Favorite Martian	my.favorite.mar_tt0120764	tt0120764	Family,Comedy,Sci-Fi
+1999	55	8MM	8mm_tt0134273	tt0134273	Drama,Mystery,Crime
+2000	1	How the Grinch Stole Christmas	how_the_grinch_stole_christmas	tt0170016	Family,Comedy,Fantasy
+2000	2	Mission: Impossible II	mission_impossible_2	tt0120755	Adventure,Thriller,Action
+2000	3	Gladiator	gladiator	tt0172495	Adventure,Drama,Action
+2000	4	The Perfect Storm	perfect_storm	tt0177971	Adventure,Drama,Action
+2000	5	Meet the Parents	meet_the_parents	tt0212338	Comedy,Romance
+2000	6	X-Men	xmen	tt0120903	Adventure,Sci-Fi,Action
+2000	7	Scary Movie	scary_movie	tt0175142	Comedy
+2000	8	What Lies Beneath	what_lies_beneath	tt0161081	Drama,Mystery,Horror
+2000	10	Erin Brockovich	erin_brockovich	tt0195685	Drama,Biography
+2000	11	Nutty Professor II: The Klumps	klumps	tt0144528	Comedy,Sci-Fi,Romance
+2000	12	Charlie's Angels	charlies_angels	tt0160127	Comedy,Adventure,Action
+2000	13	Big Momma's House	big_mammas_house	tt0208003	Comedy,Crime,Action
+2000	14	Remember the Titans	remember_the_titans	tt0210945	Sport,Drama,Biography
+2000	15	The Patriot	patriot	tt0187393	History,Drama,Action
+2000	16	What Women Want	what_women_want	tt0207201	Romance,Comedy,Fantasy
+2000	18	Gone in 60 Seconds	gone_in_60_seconds	tt0187078	Crime,Thriller,Action
+2000	19	Cast Away	castaway	tt0162222	Romance,Adventure,Drama
+2000	20	Me, Myself & Irene	me_myself_and_irene	tt0183505	Comedy
+2000	21	Space Cowboys	space_cowboys	tt0186566	Adventure,Thriller,Action
+2000	22	Scream 3	scream_3	tt0134084	Mystery,Horror
+2000	23	Unbreakable	unbreakable	tt0217869	Drama,Sci-Fi,Mystery
+2000	24	U-571	u571	tt0141926	War,Action
+2000	25	Hollow Man	hollow_man	tt0164052	Sci-Fi,Horror,Action
+2000	26	Stuart Little	stuart_little	tt0164912	Family,Comedy,Adventure
+2000	27	Shaft	shaft_2000	tt0162650	Crime,Thriller,Action
+2000	28	Green Mile, The	green.mile_tt0120689	tt0120689	Drama,Fantasy,Crime
+2000	29	The Kid	kid_tt0219854	tt0219854	Family,Comedy,Fantasy
+2000	31	Road Trip	road.trip_tt0215129	tt0215129	Comedy
+2000	32	Bring It On	bring.it.on_tt0204946	tt0204946	Sport,Comedy,Romance
+2000	33	Rules of Engagement	rules.of.engage_tt0160797	tt0160797	War,Drama,Thriller
+2000	34	The Cell	cell_tt0209958	tt0209958	Sci-Fi,Horror,Crime
+2000	35	Mission to Mars	mission.to.mars_tt0183523	tt0183523	Adventure,Sci-Fi,Thriller
+2000	36	Coyote Ugly	coyote.ugly_tt0200550	tt0200550	Music,Comedy,Drama
+2000	37	Snow Day	snow.day_tt0184907	tt0184907	Family,Comedy,Adventure
+2000	39	American Beauty	american_beauty	tt0169547	Drama
+2000	40	Next Friday	next.friday_tt0195945	tt0195945	Comedy
+2000	41	The Whole Nine Yards	whole.nine.yard_tt0190138	tt0190138	Comedy,Crime
+2000	42	Shanghai Noon	shanghai.noon_tt0184894	tt0184894	Comedy,Adventure,Action
+2000	43	Romeo Must Die	romeo.must.die_tt0165929	tt0165929	Crime,Thriller,Action
+2000	44	102 Dalmatians	102.dalmatians_tt0211181	tt0211181	Family,Comedy,Adventure
+2000	45	The Cider House Rules	cider.house.rul_tt0124315	tt0124315	Drama,Romance
+2000	46	Final Destination	final.destinati_tt0195714	tt0195714	Thriller,Horror
+2000	47	The Talented Mr. Ripley	talented.mr..ri_tt0134119	tt0134119	Drama,Thriller,Crime
+2000	48	Galaxy Quest	galaxy.quest_tt0177789	tt0177789	Comedy,Adventure,Sci-Fi
+2000	50	The Hurricane	hurricane_tt0174856	tt0174856	Sport,Drama,Biography
+2000	51	Vertical Limit	vertical.limit_tt0190865	tt0190865	Adventure,Drama,Action
+2000	52	Men of Honor	men.of.honor_tt0203019	tt0203019	Drama,Biography
+2000	55	Frequency	frequency_tt0186151	tt0186151	Drama,Mystery,Crime
+2000	56	The Replacements	replacements_tt0191397	tt0191397	Sport,Comedy
+2000	58	Miss Congeniality	miss.congeniali_tt0212346	tt0212346	Comedy,Crime,Action
+2001	1	Harry Potter and the Sorcerer's Stone	harry_potter_sorcerers_stone	tt0241527	Family,Adventure,Fantasy
+2001	4	Rush Hour 2	rush_hour_2	tt0266915	Comedy,Crime,Action
+2001	5	The Mummy Returns	mummy_returns_fs	tt0209163	Adventure,Fantasy,Action
+2001	6	Pearl Harbor	pearl_harbor	tt0213149	History,Drama,Action
+2001	7	Jurassic Park III	jurassic_park_3	tt0163025	Adventure,Sci-Fi,Action
+2001	8	Planet of the Apes	planet_of_the_apes_2001	tt0133152	Adventure,Sci-Fi,Action
+2001	9	Hannibal	hannibal	tt0212985	Drama,Thriller,Crime
+2001	10	The Lord of the Rings: The Fellowship of the Ring	lotr_fellowship	tt0120737	Adventure,Drama,Action
+2001	11	American Pie 2	american.pie.2_tt0252866	tt0252866	Comedy
+2001	12	The Fast and the Furious	fast_and_the_furious	tt0232500	Crime,Thriller,Action
+2001	13	Ocean's Eleven	oceans_11_fs	tt0240772	Thriller,Crime
+2001	14	Lara Croft: Tomb Raider	lara_croft_tomb_raider	tt0146316	Adventure,Fantasy,Action
+2001	15	Traffic	traffic	tt0181865	Drama,Thriller,Crime
+2001	16	Cast Away	castaway	tt0162222	Romance,Adventure,Drama
+2001	17	Crouching Tiger, Hidden Dragon	crouching_tiger_hidden_dragon	tt0190332	Adventure,Drama,Action
+2001	18	Dr. Dolittle 2	dr_dolittle_2_fs	tt0240462	Family,Comedy,Fantasy
+2001	19	Spy Kids	spy_kids	tt0227538	Comedy,Adventure,Action
+2001	20	The Princess Diaries	princess_diaries_fs	tt0247638	Family,Comedy,Romance
+2001	21	The Others	others	tt0230600	Thriller,Mystery,Horror
+2001	22	Legally Blonde	legally_blonde	tt0250494	Comedy,Romance
+2001	23	America's Sweethearts	americas_sweethearts	tt0265029	Comedy,Romance
+2001	24	Cats & Dogs	cats_and_dogs	tt0239395	Comedy,Adventure,Action
+2001	25	Save the Last Dance	save_the_last_dance	tt0206275	Music,Drama,Romance
+2001	27	A.I. Artificial Intelligence	artificial_intelligence_fs	tt0212720	Drama,Sci-Fi
+2001	28	Training Day	training_day	tt0139654	Crime,Drama,Action
+2001	29	Along Came a Spider	along.came.a.sp_tt0164334	tt0164334	Drama,Thriller
+2001	30	What Women Want	what_women_want	tt0207201	Romance,Comedy,Fantasy
+2001	31	Bridget Jones's Diary	bridget.joness._tt0243155	tt0243155	Comedy,Drama,Romance
+2001	32	Scary Movie 2	scary.movie.2_tt0257106	tt0257106	Comedy,Horror
+2001	33	The Score	score_tt0227445	tt0227445	Crime,Drama,Action
+2001	34	Swordfish	swordfish_tt0244244	tt0244244	Crime,Thriller,Action
+2001	35	Vanilla Sky	vanilla.sky_tt0259711	tt0259711	Romance,Mystery,Fantasy
+2001	36	Shallow Hal	shallow.hal_tt0256380	tt0256380	Comedy,Drama,Fantasy
+2001	37	Chocolat	chocolat_tt0241303	tt0241303	Drama,Romance
+2001	38	The Mexican	mexican_tt0236493	tt0236493	Comedy,Adventure,Crime
+2001	39	Miss Congeniality	miss.congeniali_tt0212346	tt0212346	Comedy,Crime,Action
+2001	40	Down to Earth	down.to.earth_tt0231775	tt0231775	Comedy,Fantasy
+2001	41	Spy Game	spy.game_tt0266987	tt0266987	Crime,Thriller,Action
+2001	42	The Wedding Planner	wedding.planner_tt0209475	tt0209475	Comedy,Romance
+2001	43	The Animal	animal_tt0255798	tt0255798	Comedy,Sci-Fi
+2001	44	Moulin Rouge!	moulin.rouge_tt0203009	tt0203009	Drama,Musical,Romance
+2001	45	Rat Race	rat.race_tt0250687	tt0250687	Comedy,Adventure,Action
+2001	46	A Knight's Tale	a.knights.tale_tt0183790	tt0183790	Romance,Adventure,Action
+2001	47	Don't Say a Word	dont.say.a.word_tt0260866	tt0260866	Drama,Mystery,Thriller
+2001	48	Blow	blow_tt0221027	tt0221027	Drama,Biography,Crime
+2001	49	Exit Wounds	exit.wounds_tt0242445	tt0242445	Crime,Thriller,Action
+2001	50	Enemy at the Gates	enemy.at.the.ga_tt0215750	tt0215750	War,Drama,Action
+2001	51	K-PAX	kpax_tt0272152	tt0272152	Drama,Sci-Fi,Mystery
+2001	52	Behind Enemy Lines	behind.enemy.li_tt0159273	tt0159273	Drama,Thriller,Action
+2001	53	Serendipity	serendipity_tt0240890	tt0240890	Comedy,Romance
+2002	1	Spider-Man	spiderman	tt0145487	Adventure,Sci-Fi,Action
+2002	2	Star Wars: Episode II - Attack of the Clones	star_wars_2_attack_of_the_clones	tt0121765	Adventure,Fantasy,Action
+2002	3	Harry Potter and the Chamber of Secrets	harry_potter_chamber_of_secrets	tt0295297	Family,Adventure,Fantasy
+2002	4	Signs	signs	tt0286106	Drama,Sci-Fi,Mystery
+2002	5	My Big Fat Greek Wedding	big_fat_greek_wedding_fs	tt0259446	Comedy,Drama,Romance
+2002	6	The Lord of the Rings: The Two Towers	lotr_two_towers	tt0167261	Adventure,Drama,Action
+2002	7	Austin Powers in Goldmember	goldmember	tt0295178	Comedy,Adventure,Action
+2002	8	Men in Black II	men_in_black_2	tt0120912	Comedy,Adventure,Action
+2002	10	A Beautiful Mind	beautiful_mind	tt0268978	Drama,Biography
+2002	11	Scooby-Doo	scooby_doo	tt0267913	Family,Comedy,Adventure
+2002	12	The Lord of the Rings: The Fellowship of the Ring	lotr_fellowship	tt0120737	Adventure,Drama,Action
+2002	13	Die Another Day	die_another_day	tt0246460	Adventure,Thriller,Action
+2002	15	xXx	xxx	tt0295701	Adventure,Thriller,Action
+2002	16	The Santa Clause 2	santa_clause_2	tt0304669	Family,Comedy,Fantasy
+2002	17	Minority Report	minority_report	tt0181689	Crime,Mystery,Action
+2002	18	The Ring	ring	tt0298130	Mystery,Horror
+2002	19	Mr. Deeds	mr_deeds	tt0280590	Comedy,Romance
+2002	20	Sweet Home Alabama	sweet_home_alabama	tt0256415	Comedy,Romance
+2002	21	The Bourne Identity	bourne_identity	tt0258463	Thriller,Mystery,Action
+2002	22	The Sum of All Fears	sum_of_all_fears	tt0164184	Drama,Thriller,Action
+2002	23	8 Mile	8_mile	tt0298203	Music,Drama
+2002	24	Black Hawk Down	black_hawk_down	tt0265086	History,Drama,Action
+2002	25	Road to Perdition	road_to_perdition	tt0257044	Drama,Thriller,Crime
+2002	26	Panic Room	panic_room	tt0258000	Drama,Thriller,Crime
+2002	27	Red Dragon	red_dragon	tt0289765	Drama,Thriller,Crime
+2002	28	Scorpion King, The	scorpion.king_tt0277296	tt0277296	Adventure,Fantasy,Action
+2002	29	Spy Kids 2: Island of Lost Dreams	spy.kids.2.isla_tt0287717	tt0287717	Comedy,Adventure,Action
+2002	30	Blade II	blade.ii_tt0187738	tt0187738	Sci-Fi,Horror,Action
+2002	31	Snow Dogs	snow.dogs_tt0281373	tt0281373	Family,Comedy,Adventure
+2002	32	We Were Soldiers	we.were.soldier_tt0277434	tt0277434	History,Drama,Action
+2002	33	Barbershop	barbershop_tt0303714	tt0303714	Comedy,Drama
+2002	34	The Rookie	rookie_tt0265662	tt0265662	Family,Sport,Drama
+2002	36	John Q	john.q_tt0251160	tt0251160	Drama,Thriller,Crime
+2002	37	Divine Secrets of the Ya-Ya Sisterhood	divine.secrets._tt0279778	tt0279778	Drama
+2002	38	Insomnia	insomnia_tt0278504	tt0278504	Drama,Mystery,Thriller
+2002	39	Changing Lanes	changing.lanes_tt0264472	tt0264472	Drama,Thriller
+2002	42	Catch Me If You Can	catch.me.if.you_tt0264464	tt0264464	Drama,Biography,Crime
+2002	43	Maid in Manhattan	maid.in.manhatt_tt0252076	tt0252076	Comedy,Drama,Romance
+2002	44	The Time Machine	time.machine_tt0268695	tt0268695	Adventure,Sci-Fi,Action
+2002	45	The Count of Monte Cristo	count.of.monte._tt0245844	tt0245844	Adventure,Drama,Action
+2002	46	Unfaithful	unfaithful_tt0250797	tt0250797	Drama,Thriller,Romance
+2002	47	Like Mike	like.mike_tt0308506	tt0308506	Family,Comedy,Fantasy
+2002	48	Ocean's Eleven	oceans_11_fs	tt0240772	Thriller,Crime
+2002	49	The Tuxedo	tuxedo_tt0290095	tt0290095	Comedy,Sci-Fi,Action
+2002	50	Two Weeks Notice	two.weeks.notic_tt0313737	tt0313737	Comedy,Romance
+2002	52	Big Fat Liar	big.fat.liar_tt0265298	tt0265298	Family,Comedy,Adventure
+2002	53	The Royal Tenenbaums	royal.tenenbaum_tt0265666	tt0265666	Comedy,Drama
+2002	54	Reign of Fire	reign.of.fire_tt0253556	tt0253556	Adventure,Fantasy,Action
+2002	55	High Crimes	high.crimes_tt0257756	tt0257756	Drama,Mystery,Crime
+2002	56	About a Boy	about.a.boy_tt0276751	tt0276751	Comedy,Drama,Romance
+2003	2	Pirates of the Caribbean: The Curse of the Black Pearl	pirates_black_pearl	tt0325980	Adventure,Fantasy,Action
+2003	3	The Matrix Reloaded	matrix_reloaded	tt0234215	Sci-Fi,Action
+2003	4	The Lord of the Rings: The Return of the King	lotr_return_of_the_king	tt0167260	Adventure,Drama,Action
+2003	5	Bruce Almighty	bruce_almighty	tt0315327	Comedy,Fantasy
+2003	6	X2: X-Men United	x2	tt0290334	Thriller,Sci-Fi,Action
+2003	7	Elf	elf	tt0319343	Family,Comedy,Adventure
+2003	8	Chicago	chicago	tt0299658	Comedy,Musical,Crime
+2003	9	Terminator 3: Rise of the Machines	terminator_3	tt0181852	Sci-Fi,Action
+2003	10	Bad Boys II	bad_boys_2	tt0172156	Comedy,Crime,Action
+2003	11	The Matrix Revolutions	matrix_revolutions	tt0242653	Sci-Fi,Action
+2003	12	Anger Management	anger_management	tt0305224	Comedy
+2003	13	Bringing Down the House	bringing_down_the_house_fs	tt0305669	Comedy
+2003	14	Hulk	hulk_2003_fs	tt0286716	Sci-Fi,Action
+2003	15	2 Fast 2 Furious	2_fast_2_furious_fs	tt0322259	Crime,Thriller,Action
+2003	16	The Lord of the Rings: The Two Towers	lotr_two_towers	tt0167261	Adventure,Drama,Action
+2003	17	Seabiscuit	seabiscuit_fs	tt0329575	Sport,Drama,History
+2003	18	S.W.A.T.	swat	tt0257076	Adventure,Crime,Action
+2003	19	Spy Kids 3: Game Over	spy_kids_3	tt0338459	Comedy,Adventure,Action
+2003	20	Freaky Friday	freaky_friday	tt0322330	Family,Comedy,Fantasy
+2003	21	Scary Movie 3	scary_movie_3	tt0306047	Comedy
+2003	22	The Italian Job	italian_job	tt0317740	Crime,Thriller,Action
+2003	23	How to Lose a Guy in 10 Days	how_to_lose_a_guy_in_10_days	tt0251127	Comedy,Romance
+2003	24	American Wedding	american_wedding	tt0328828	Comedy
+2003	25	Daddy Day Care	daddy_day_care	tt0317303	Family,Comedy
+2003	26	Daredevil	daredevil	tt0287978	Crime,Action
+2003	27	Catch Me If You Can	catch.me.if.you_tt0264464	tt0264464	Drama,Biography,Crime
+2003	28	Charlie's Angels: Full Throttle	charlies.angels_tt0305357	tt0305357	Comedy,Adventure,Action
+2003	29	Cat in the Hat, The	cat.in.the.hat_tt0312528	tt0312528	Family,Comedy,Adventure
+2003	30	Legally Blonde 2: Red, White & Blonde	legally.blonde._tt0333780	tt0333780	Comedy
+2003	31	Freddy vs. Jason	freddy.vs..jaso_tt0329101	tt0329101	Horror,Action
+2003	33	Master and Commander: The Far Side of the World	master.and.comm_tt0311113	tt0311113	Adventure,Drama,Action
+2003	34	The Texas Chainsaw Massacre	texas.chainsaw._tt0324216	tt0324216	Horror,Crime
+2003	35	School of Rock	school.of.rock_tt0332379	tt0332379	Music,Comedy
+2003	36	The Last Samurai	last.samurai_tt0325710	tt0325710	Drama,Action
+2003	37	Old School	old.school_tt0302886	tt0302886	Comedy
+2003	38	Kill Bill: Vol. 1	kill.bill.vol.._tt0266697	tt0266697	Crime,Drama,Action
+2003	39	Holes	holes_tt0311289	tt0311289	Comedy,Adventure,Drama
+2003	40	The Haunted Mansion	haunted.mansion_tt0338094	tt0338094	Family,Comedy,Fantasy
+2003	41	Kangaroo Jack	kangaroo.jack_tt0257568	tt0257568	Comedy,Adventure,Action
+2003	42	The League of Extraordinary Gentlemen	league.of.extra_tt0311429	tt0311429	Adventure,Fantasy,Action
+2003	43	Lara Croft Tomb Raider: The Cradle of Life	lara.croft.tomb_tt0325703	tt0325703	Adventure,Fantasy,Action
+2003	44	Something's Gotta Give	somethings.gott_tt0337741	tt0337741	Comedy,Drama,Romance
+2003	45	About Schmidt	about.schmidt_tt0257360	tt0257360	Drama
+2003	46	Shanghai Knights	shanghai.knight_tt0300471	tt0300471	Comedy,Adventure,Action
+2003	47	Open Range	open.range_tt0316356	tt0316356	Romance,Drama,Action
+2003	48	Gothika	gothika_tt0348836	tt0348836	Thriller,Mystery,Horror
+2003	49	Love Actually	love.actually_tt0314331	tt0314331	Comedy,Drama,Romance
+2003	50	Once Upon a Time in Mexico	once.upon.a.tim_tt0285823	tt0285823	Crime,Thriller,Action
+2003	51	Just Married	just.married_tt0305711	tt0305711	Comedy,Romance
+2003	52	Cheaper by the Dozen	cheaper_by_the_dozen	tt0349205	Family,Comedy
+2004	2	Spider-Man 2	spiderman_2_fs	tt0316654	Adventure,Sci-Fi,Action
+2004	3	The Passion of the Christ	passion_of_the_christ	tt0335345	Drama
+2004	4	Harry Potter and the Prisoner of Azkaban	harry_potter_azkaban	tt0304141	Family,Adventure,Fantasy
+2004	6	The Day After Tomorrow	day_after_tomorrow	tt0319262	Adventure,Sci-Fi,Action
+2004	7	The Bourne Supremacy	bourne_supremacy	tt0372183	Thriller,Mystery,Action
+2004	10	National Treasure	national_treasure	tt0368891	Adventure,Mystery,Action
+2004	11	I, Robot	i_robot	tt0343818	Sci-Fi,Mystery,Action
+2004	12	Troy	troy	tt0332452	Drama
+2004	13	Meet the Fockers	meet_the_fockers	tt0290002	Comedy,Romance
+2004	14	The Lord of the Rings: The Return of the King	lotr_return_of_the_king	tt0167260	Adventure,Drama,Action
+2004	15	50 First Dates	50_first_dates	tt0343660	Comedy,Drama,Romance
+2004	16	Van Helsing	van_helsing_fs	tt0338526	Adventure,Fantasy,Action
+2004	18	Dodgeball: A True Underdog Story	dodgeball	tt0364725	Sport,Comedy
+2004	19	The Village	village	tt0368447	Drama,Mystery,Thriller
+2004	20	The Grudge	grudge	tt0391198	Thriller,Mystery,Horror
+2004	21	Collateral	collateral	tt0369339	Crime,Drama,Action
+2004	22	Ocean's Twelve	oceans_twelve	tt0349903	Thriller,Crime
+2004	23	The Princess Diaries 2: Royal Engagement	princess_diaries_2	tt0368933	Family,Comedy,Romance
+2004	24	Starsky & Hutch	starsky_and_hutch	tt0335438	Comedy,Crime
+2004	25	Along Came Polly	along_came_polly_fs	tt0343135	Comedy,Romance
+2004	26	Mean Girls	mean_girls	tt0377092	Comedy
+2004	27	Anchorman: The Legend of Ron Burgundy	anchorman_fs	tt0357413	Comedy
+2004	28	A Series of Unfortunate Events	lemony_snicket	tt0339291	Family,Comedy,Adventure
+2004	29	Scooby-Doo 2: Monsters Unleashed	scooby_doo_2	tt0331632	Family,Comedy,Adventure
+2004	30	Cheaper by the Dozen	cheaper_by_the_dozen	tt0349205	Family,Comedy
+2004	32	Notebook, The	notebook_tt0332280	tt0332280	Drama,Romance
+2004	33	Alien vs. Predator	alien.vs..preda_tt0370263	tt0370263	Adventure,Horror,Action
+2004	34	Man on Fire	man.on.fire_tt0328107	tt0328107	Crime,Drama,Action
+2004	35	The Terminal	terminal_tt0362227	tt0362227	Comedy,Drama,Romance
+2004	37	Ladder 49	ladder.49_tt0349710	tt0349710	Drama,Thriller,Action
+2004	38	Christmas with the Kranks	christmas.with._tt0388419	tt0388419	Family,Comedy
+2004	39	Ray	ray_tt0350258	tt0350258	Music,Drama,Biography
+2004	40	White Chicks	white.chicks_tt0381707	tt0381707	Comedy,Crime
+2004	41	Cold Mountain	cold.mountain_tt0159365	tt0159365	Romance,Adventure,Drama
+2004	42	Hidalgo	hidalgo_tt0317648	tt0317648	Adventure,Biography,Action
+2004	43	The Forgotten	forgotten_tt0356618	tt0356618	Drama,Sci-Fi,Mystery
+2004	44	Kill Bill: Vol. 2	kill.bill.vol.._tt0378194	tt0378194	Crime,Thriller,Action
+2004	45	The Manchurian Candidate	manchurian.cand_tt0368008	tt0368008	Drama,Sci-Fi,Mystery
+2004	46	Barbershop 2: Back in Business	barbershop.2.ba_tt0337579	tt0337579	Comedy,Drama
+2004	47	Miracle	miracle_tt0349825	tt0349825	Drama,Biography,History
+2004	48	Big Fish	big.fish_tt0319061	tt0319061	Adventure,Fantasy,Drama
+2004	49	Friday Night Lights	friday.night.li_tt0390022	tt0390022	Sport,Drama,Action
+2004	50	Hellboy	hellboy_tt0167190	tt0167190	Adventure,Fantasy,Action
+2004	51	Something's Gotta Give	somethings.gott_tt0337741	tt0337741	Comedy,Drama,Romance
+2004	52	The Stepford Wives	stepford.wives_tt0327162	tt0327162	Comedy,Sci-Fi,Horror
+2004	53	Dawn of the Dead	dawn.of.the.dea_tt0363547	tt0363547	Horror,Action
+2004	54	Without a Paddle	without.a.paddl_tt0364751	tt0364751	Comedy,Adventure,Mystery
+2004	55	The Butterfly Effect	butterfly.effec_tt0289879	tt0289879	Drama,Sci-Fi,Thriller
+2004	56	The Chronicles of Riddick	chronicles.of.r_tt0296572	tt0296572	Adventure,Sci-Fi,Action
+2004	57	13 Going on 30	13.going.on.30_tt0337563	tt0337563	Romance,Comedy,Fantasy
+2005	1	Star Wars: Episode III - Revenge of the Sith	revenge_of_the_sith	tt0121766	Adventure,Fantasy,Action
+2005	2	Harry Potter and the Goblet of Fire	harry_potter_goblet_of_fire	tt0330373	Family,Adventure,Fantasy
+2005	3	War of the Worlds	war_of_the_worlds	tt0407304	Adventure,Sci-Fi,Action
+2005	4	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	narnia	tt0363771	Family,Adventure,Fantasy
+2005	5	Wedding Crashers	wedding_crashers	tt0396269	Comedy,Romance
+2005	6	Charlie and the Chocolate Factory	charlie_and_the_chocolate_factory	tt0367594	Family,Comedy,Adventure
+2005	7	Batman Begins	batman_begins	tt0372784	Crime,Drama,Action
+2005	9	Mr. & Mrs. Smith	mr_mrs_smith	tt0356910	Comedy,Crime,Action
+2005	10	Hitch	hitch	tt0386588	Comedy,Romance
+2005	11	King Kong	king_kong	tt0360717	Adventure,Drama,Action
+2005	12	The Longest Yard	longest_yard	tt0398165	Sport,Comedy,Crime
+2005	13	Fantastic Four	fantastic_four	tt0120667	Adventure,Fantasy,Action
+2005	14	Meet the Fockers	meet_the_fockers	tt0290002	Comedy,Romance
+2005	17	The Pacifier	pacifier	tt0395699	Comedy,Drama,Action
+2005	18	The 40-Year-Old Virgin	40_year_old_virgin	tt0405422	Comedy,Romance
+2005	19	Million Dollar Baby	million_dollar_baby	tt0405159	Sport,Drama
+2005	20	Walk the Line	walk_the_line	tt0358273	Music,Drama,Biography
+2005	21	Flightplan	flightplan	tt0408790	Drama,Mystery,Thriller
+2005	22	Saw II	saw_2	tt0432348	Mystery,Horror
+2005	23	Monster-in-Law	monster_in_law	tt0369735	Comedy,Romance
+2005	24	Are We There Yet?	are_we_there_yet	tt0368578	Family,Comedy,Adventure
+2005	25	The Dukes of Hazzard	dukes_of_hazzard_fs	tt0377818	Comedy
+2005	26	The Aviator	aviator	tt0338751	Drama,Biography
+2005	28	The Ring Two	ring_2_fs	tt0377109	Mystery,Horror
+2005	29	Constantine	constantine	tt0360486	Fantasy,Horror,Action
+2005	30	The Exorcism of Emily Rose	exorcism.of.emi_tt0404032	tt0404032	Drama,Thriller,Horror
+2005	31	Four Brothers	four.brothers_tt0430105	tt0430105	Crime,Drama,Action
+2005	32	Sin City	sin.city_tt0401792	tt0401792	Thriller,Crime
+2005	33	The Interpreter	interpreter_tt0373926	tt0373926	Thriller,Mystery,Crime
+2005	34	Guess Who	guess.who_tt0372237	tt0372237	Comedy,Romance
+2005	35	Sahara	sahara_tt0318649	tt0318649	Comedy,Adventure,Action
+2005	36	Coach Carter	coach.carter_tt0393162	tt0393162	Sport,Drama,Biography
+2005	37	Herbie Fully Loaded	herbie.fully.lo_tt0400497	tt0400497	Family,Comedy,Adventure
+2005	38	The Amityville Horror	amityville.horr_tt0384806	tt0384806	Horror
+2005	39	Sky High	sky.high_tt0405325	tt0405325	Family,Comedy,Action
+2005	40	Bewitched	bewitched_tt0374536	tt0374536	Romance,Comedy,Fantasy
+2005	41	Jarhead	jarhead_tt0418763	tt0418763	War,Drama,Biography
+2005	42	Cinderella Man	cinderella.man_tt0352248	tt0352248	Drama,Biography,Romance
+2005	43	Red Eye	red.eye_tt0421239	tt0421239	Thriller
+2005	44	White Noise	white.noise_tt0375210	tt0375210	Drama,Mystery,Horror
+2005	45	Be Cool	be.cool_tt0377471	tt0377471	Music,Comedy,Crime
+2005	47	Fun with Dick and Jane	fun.with.dick.a_tt0369441	tt0369441	Comedy,Crime
+2005	48	Crash	crash_tt0375679	tt0375679	Drama,Thriller,Crime
+2005	50	Kicking & Screaming	kicking..scream_tt0384642	tt0384642	Family,Comedy,Romance
+2005	51	Hide and Seek	hide.and.seek_tt0382077	tt0382077	Mystery,Horror
+2005	52	The Hitchhiker's Guide to the Galaxy	hitchhikers.gui_tt0371724	tt0371724	Comedy,Adventure,Sci-Fi
+2005	53	Sideways	sideways_tt0375063	tt0375063	Comedy,Drama,Romance
+2005	54	Diary of a Mad Black Woman	diary.of.a.mad._tt0422093	tt0422093	Comedy,Drama,Romance
+2005	55	Yours, Mine & Ours	yours.mine..our_tt0443295	tt0443295	Family,Comedy,Romance
+2005	56	Racing Stripes	racing.stripes_tt0376105	tt0376105	Comedy,Adventure,Drama
+2006	1	Pirates of the Caribbean: Dead Man's Chest	pirates_dead_mans_chest	tt0383574	Adventure,Fantasy,Action
+2006	3	X-Men: The Last Stand	xmen_the_last_stand	tt0376994	Adventure,Sci-Fi,Action
+2006	4	The Da Vinci Code	davinci_code	tt0382625	Thriller,Mystery
+2006	5	Superman Returns	superman_returns	tt0348150	Adventure,Sci-Fi,Action
+2006	9	Casino Royale	casino_royale	tt0381061	Adventure,Thriller,Action
+2006	10	Talladega Nights: The Ballad of Ricky Bobby	talladega_nights	tt0415306	Sport,Comedy
+2006	11	Click	click	tt0389860	Comedy,Drama,Fantasy
+2006	12	Mission: Impossible III	mission_impossible_3	tt0317919	Adventure,Thriller,Action
+2006	13	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	borat	tt0443453	Comedy
+2006	14	The Devil Wears Prada	devil_wears_prada	tt0458352	Comedy,Drama
+2006	15	The Departed	departed	tt0407887	Drama,Thriller,Crime
+2006	16	The Break-Up	breakup	tt0452594	Comedy,Drama,Romance
+2006	17	Night at the Museum	night_at_the_museum	tt0477347	Family,Comedy,Adventure
+2006	18	The Pursuit of Happyness	pursuit_of_happyness	tt0454921	Drama,Biography
+2006	19	Scary Movie 4	scary_movie_4	tt0362120	Comedy
+2006	20	Failure to Launch	failure_to_launch	tt0427229	Comedy,Romance
+2006	21	Inside Man	inside_man	tt0454848	Drama,Mystery,Crime
+2006	23	The Santa Clause 3: The Escape Clause	santa_clause_3	tt0452681	Family,Comedy,Adventure
+2006	24	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	narnia	tt0363771	Family,Adventure,Fantasy
+2006	25	The Pink Panther	pink_panther	tt0383216	Comedy,Adventure,Crime
+2006	26	Eight Below	8_below	tt0397313	Family,Adventure,Drama
+2006	27	Saw III	saw_3	tt0489270	Mystery,Horror,Crime
+2006	28	Nacho Libre	nacho_libre	tt0457510	Family,Comedy,Sport
+2006	29	You, Me and Dupree	you_me_and_dupree	tt0463034	Comedy,Romance
+2006	33	RV	rv	tt0449089	Family,Comedy,Adventure
+2006	34	Brokeback Mountain	brokeback.mount_tt0388795	tt0388795	Drama,Romance
+2006	35	V for Vendetta	v.for.vendetta_tt0434409	tt0434409	Drama,Sci-Fi,Action
+2006	36	World Trade Center	world.trade.cen_tt0469641	tt0469641	Drama,Thriller,History
+2006	37	Big Momma's House 2	big.mommas.hous_tt0421729	tt0421729	Comedy,Crime
+2006	38	Step Up	step.up_tt0462590	tt0462590	Music,Drama,Crime
+2006	39	Miami Vice	miami.vice_tt0430357	tt0430357	Adventure,Crime,Action
+2006	40	Madea's Family Reunion	madeas.family.r_tt0455612	tt0455612	Comedy,Drama,Romance
+2006	41	The Fast and the Furious: Tokyo Drift	fast.and.the.fu_tt0463985	tt0463985	Crime,Thriller,Action
+2006	42	Underworld: Evolution	underworld.evol_tt0401855	tt0401855	Thriller,Fantasy,Action
+2006	44	Deja Vu	deja.vu_tt0453467	tt0453467	Crime,Sci-Fi,Action
+2006	45	The Shaggy Dog	shaggy.dog_tt0393735	tt0393735	Family,Comedy,Fantasy
+2006	46	Poseidon	poseidon_tt0409182	tt0409182	Adventure,Thriller,Action
+2006	47	The Benchwarmers	benchwarmers_tt0437863	tt0437863	Sport,Comedy
+2006	48	Little Miss Sunshine	little.miss.sun_tt0449059	tt0449059	Comedy,Drama
+2006	49	King Kong	king_kong	tt0360717	Adventure,Drama,Action
+2006	50	Little Man	little.man_tt0430304	tt0430304	Comedy,Crime
+2006	52	Invincible	invincible_tt0445990	tt0445990	Sport,Drama,Biography
+2006	53	Eragon	eragon_tt0449010	tt0449010	Family,Adventure,Action
+2006	54	Fun with Dick and Jane	fun.with.dick.a_tt0369441	tt0369441	Comedy,Crime
+2006	55	The Guardian	guardian_tt0406816	tt0406816	Adventure,Drama,Action
+2006	56	Omen, The	omen_tt0466909	tt0466909	Drama,Horror,Fantasy
+2006	57	Final Destination 3	final.destinati_tt0414982	tt0414982	Thriller,Horror
+2006	58	Charlotte's Web	charlottes.web_tt0413895	tt0413895	Family,Comedy,Adventure
+2006	59	Prestige, The	prestige_tt0482571	tt0482571	Drama,Sci-Fi,Mystery
+2006	60	The Lake House	lake.house_tt0410297	tt0410297	Romance,Drama,Fantasy
+2007	1	Spider-Man 3	spiderman_3	tt0413300	Adventure,Sci-Fi,Action
+2007	3	Transformers	transformers	tt0418279	Adventure,Sci-Fi,Action
+2007	4	Pirates of the Caribbean: At World's End	pirates_at_worlds_end	tt0449088	Adventure,Fantasy,Action
+2007	5	Harry Potter and the Order of the Phoenix	harry_potter_phoenix	tt0373889	Family,Adventure,Action
+2007	6	The Bourne Ultimatum	bourne_ultimatum	tt0440963	Thriller,Mystery,Action
+2007	7	300	300	tt0416449	Drama,Action
+2007	9	I Am Legend	i_am_legend	tt0480249	Drama,Horror,Action
+2007	11	Wild Hogs	wild_hogs	tt0486946	Comedy,Adventure,Action
+2007	12	Knocked Up	knocked_up	tt0478311	Comedy,Romance
+2007	14	Rush Hour 3	rush_hour_3_fs	tt0293564	Comedy,Crime,Action
+2007	15	Night at the Museum	night_at_the_museum	tt0477347	Family,Comedy,Adventure
+2007	16	Live Free or Die Hard	live_free_or_die_hard	tt0337978	Thriller,Action
+2007	17	National Treasure: Book of Secrets	national_treasure_2	tt0465234	Adventure,Mystery,Action
+2007	18	Fantastic 4: Rise of the Silver Surfer	fantastic_four_rise_of_the_silver_surfer	tt0486576	Adventure,Fantasy,Action
+2007	19	American Gangster	american_gangster	tt0765429	Drama,Biography,Crime
+2007	21	Superbad	superbad	tt0829482	Comedy
+2007	22	I Now Pronounce You Chuck & Larry	i_now_pronounce_you_chuck_and_larry	tt0762107	Comedy,Romance
+2007	23	Hairspray	hairspray	tt0427327	Comedy,Drama,Musical
+2007	24	Blades of Glory	blades_of_glory	tt0445934	Sport,Comedy
+2007	25	Ocean's Thirteen	oceans_13	tt0496806	Thriller,Crime
+2007	26	Ghost Rider	ghost_rider	tt0259324	Thriller,Fantasy,Action
+2007	28	Evan Almighty	evan_almighty	tt0413099	Family,Comedy,Fantasy
+2007	30	Norbit	norbit	tt0477051	Comedy,Romance
+2007	31	The Game Plan	game_plan	tt0492956	Family,Comedy,Sport
+2007	32	Bridge to Terabithia	terabithia_fs	tt0398808	Family,Drama,Fantasy
+2007	34	Disturbia	disturbia_tt0486822	tt0486822	Drama,Mystery,Crime
+2007	35	1408	1408_tt0450385	tt0450385	Mystery,Horror,Fantasy
+2007	36	Fred Claus	fred.claus_tt0486583	tt0486583	Family,Comedy,Fantasy
+2007	37	Dreamgirls	dreamgirls_tt0443489	tt0443489	Music,Drama,Musical
+2007	38	The Pursuit of Happyness	pursuit_of_happyness	tt0454921	Drama,Biography
+2007	39	Saw IV	saw.iv_tt0890870	tt0890870	Mystery,Horror,Crime
+2007	40	Stomp the Yard	stomp.the.yard_tt0775539	tt0775539	Music,Drama,Romance
+2007	41	The Golden Compass	golden.compass_tt0385752	tt0385752	Family,Adventure,Fantasy
+2007	43	Halloween	halloween_tt0373883	tt0373883	Horror
+2007	44	Tyler Perry's Why Did I Get Married?	why.did.i.get.m_tt0906108	tt0906108	Comedy,Drama,Romance
+2007	46	3:10 to Yuma	310.to.yuma_tt0381849	tt0381849	Crime,Drama,Action
+2007	47	Resident Evil: Extinction	resident.evil.e_tt0432021	tt0432021	Sci-Fi,Horror,Action
+2007	48	Music and Lyrics	music.and.lyric_tt0758766	tt0758766	Music,Comedy,Romance
+2007	49	Are We Done Yet?	are.we.done.yet_tt0422774	tt0422774	Family,Comedy
+2007	50	This Christmas	this.christmas_tt0937375	tt0937375	Comedy,Drama,Romance
+2007	51	Premonition	premonition_tt0477071	tt0477071	Drama,Mystery,Fantasy
+2007	52	The Kingdom	kingdom_tt0431197	tt0431197	Drama,Thriller,Action
+2007	53	Shooter	shooter_tt0822854	tt0822854	Drama,Thriller,Action
+2007	54	Dan in Real Life	dan.in.real.lif_tt0480242	tt0480242	Comedy,Drama,Romance
+2007	55	License to Wed	license.to.wed_tt0762114	tt0762114	Comedy,Romance
+2007	56	Underdog	underdog_tt0467110	tt0467110	Comedy,Adventure,Action
+2007	57	No Reservations	no.reservations_tt0481141	tt0481141	Comedy,Drama,Romance
+2007	58	Because I Said So	because.i.said._tt0490084	tt0490084	Comedy,Romance
+2007	59	No Country for Old Men	no.country.for._tt0477348	tt0477348	Drama,Thriller,Crime
+2007	60	Epic Movie	epic.movie_tt0799949	tt0799949	Comedy,Adventure,Fantasy
+2008	1	The Dark Knight	dark_knight	tt0468569	Crime,Drama,Action
+2008	2	Iron Man	iron_man	tt0371746	Adventure,Sci-Fi,Action
+2008	3	Indiana Jones and the Kingdom of the Crystal Skull	indiana_jones_crystal_skull	tt0367882	Adventure,Action
+2008	4	Hancock	hancock	tt0448157	Drama,Fantasy,Action
+2008	8	Twilight	twilight	tt1099212	Romance,Drama,Fantasy
+2008	9	Quantum of Solace	quantum_of_solace	tt0830515	Adventure,Mystery,Action
+2008	11	Sex and the City	sex_and_the_city	tt1000774	Comedy,Drama,Romance
+2008	12	Mamma Mia!	mamma_mia	tt0795421	Comedy,Musical,Romance
+2008	13	The Chronicles of Narnia: Prince Caspian	chronicles_of_narnia_prince_caspian	tt0499448	Family,Adventure,Action
+2008	14	The Incredible Hulk	hulk	tt0800080	Adventure,Sci-Fi,Action
+2008	15	Wanted	wanted_fs	tt0493464	Crime,Thriller,Action
+2008	16	Get Smart	get_smart_fs	tt0425061	Comedy,Adventure,Action
+2008	17	Juno	juno	tt0467406	Comedy,Drama
+2008	18	Four Christmases	four_christmases	tt0369436	Comedy,Drama,Romance
+2008	19	Tropic Thunder	tropic_thunder	tt0942385	Comedy,War,Action
+2008	21	The Mummy: Tomb of the Dragon Emperor	mummy_tomb_of_the_dragon_emperor	tt0859163	Adventure,Fantasy,Action
+2008	22	Journey to the Center of the Earth	journey_to_the_center_of_the_earth	tt0373051	Family,Adventure,Action
+2008	23	Eagle Eye	eagle_eye	tt1059786	Thriller,Mystery,Action
+2008	24	Step Brothers	step_brothers	tt0838283	Comedy
+2008	25	You Don't Mess with the Zohan	zohan	tt0960144	Comedy,Action
+2008	26	10,000 BC	bc_10000	tt0443649	Adventure,Drama,Action
+2008	27	Beverly Hills Chihuahua	beverly_hills_chihuahua	tt1014775	Comedy,Adventure,Drama
+2008	28	The Bucket List	bucket_list	tt0825232	Comedy,Adventure,Drama
+2008	29	High School Musical 3: Senior Year	high_school_musical_3	tt0962726	Family,Comedy,Drama
+2008	30	Pineapple Express	pineapple_express	tt0910936	Comedy,Crime,Action
+2008	31	National Treasure: Book of Secrets	national_treasure_2	tt0465234	Adventure,Mystery,Action
+2008	32	21	21_tt0478087	tt0478087	History,Drama,Crime
+2008	33	What Happens in Vegas	what.happens.in_tt1033643	tt1033643	Comedy,Romance
+2008	34	Jumper	jumper_tt0489099	tt0489099	Adventure,Sci-Fi,Action
+2008	35	Cloverfield	cloverfield_tt1060277	tt1060277	Adventure,Horror,Action
+2008	36	27 Dresses	27.dresses_tt0988595	tt0988595	Comedy,Romance
+2008	37	Hellboy II: The Golden Army	hellboy.ii.the._tt0411477	tt0411477	Adventure,Fantasy,Action
+2008	38	Marley & Me	marley..me_tt0822832	tt0822832	Family,Drama
+2008	39	Vantage Point	vantage.point_tt0443274	tt0443274	Crime,Drama,Action
+2008	40	The Spiderwick Chronicles	spiderwick.chro_tt0416236	tt0416236	Adventure,Drama,Action
+2008	42	Fool's Gold	fools.gold_tt0770752	tt0770752	Comedy,Adventure,Action
+2008	43	The Day the Earth Stood Still	day.the.earth.s_tt0970416	tt0970416	Adventure,Sci-Fi,Drama
+2008	44	Role Models	role.models_tt0430922	tt0430922	Comedy
+2008	46	The Happening	happening_tt0949731	tt0949731	Adventure,Sci-Fi,Drama
+2008	47	Forgetting Sarah Marshall	forgetting.sara_tt0800039	tt0800039	Comedy,Drama,Romance
+2008	48	Baby Mama	baby.mama_tt0871426	tt0871426	Comedy,Romance
+2008	49	Burn After Reading	burn.after.read_tt0887883	tt0887883	Comedy,Drama,Crime
+2008	50	Yes Man	yes.man_tt1068680	tt1068680	Comedy,Romance
+2008	51	Step Up 2: The Streets	step.up.2.the.s_tt1023481	tt1023481	Music,Drama,Romance
+2008	52	I Am Legend	i_am_legend	tt0480249	Drama,Horror,Action
+2008	53	Saw V	saw.v_tt1132626	tt1132626	Thriller,Horror,Crime
+2008	54	Bedtime Stories	bedtime.stories_tt0960731	tt0960731	Family,Comedy,Adventure
+2008	55	Curious Case of Benjamin Button, The	curious.case.of_tt0421715	tt0421715	Romance,Drama,Fantasy
+2008	56	The Strangers	strangers_tt0482606	tt0482606	Thriller,Mystery,Horror
+2008	57	The Forbidden Kingdom	forbidden.kingd_tt0865556	tt0865556	Adventure,Fantasy,Action
+2009	1	Transformers: Revenge of the Fallen	transformers_revenge_of_the_fallen	tt1055369	Adventure,Sci-Fi,Action
+2009	2	Harry Potter and the Half-Blood Prince	harry_potter_half_blood_prince	tt0417741	Family,Adventure,Action
+2009	4	The Twilight Saga: New Moon	twilight_new_moon	tt1259571	Adventure,Fantasy,Drama
+2009	5	Avatar	avatar	tt0499549	Adventure,Fantasy,Action
+2009	6	The Hangover	hangover_fs	tt1119646	Comedy
+2009	7	Star Trek	star_trek_xi	tt0796366	Adventure,Sci-Fi,Action
+2009	10	The Blind Side	blind_side	tt0878804	Sport,Drama,Biography
+2009	11	X-Men Origins: Wolverine	xmen_origins_wolverine	tt0458525	Sci-Fi,Action
+2009	12	Night at the Museum: Battle of the Smithsonian	night_at_the_museum_battle_of_the_smithsonian	tt1078912	Family,Comedy,Adventure
+2009	13	The Proposal	proposal	tt1041829	Comedy,Drama,Romance
+2009	14	2012	2012m	tt1190080	Adventure,Sci-Fi,Action
+2009	15	Fast & Furious	fast_and_furious	tt1013752	Crime,Thriller,Action
+2009	16	G.I. Joe: The Rise of Cobra	gi_joe_the_rise_of_cobra	tt1046173	Adventure,Sci-Fi,Action
+2009	17	Paul Blart: Mall Cop	paul_blart_mall_cop	tt1114740	Comedy,Crime,Action
+2009	18	Taken	taken	tt0936501	Crime,Thriller,Action
+2009	19	Gran Torino	gran_torino	tt1205489	Drama
+2009	21	Angels & Demons	angels_and_demons	tt0808151	Thriller,Mystery,Action
+2009	22	Terminator Salvation	terminator_salvation	tt0438488	Adventure,Sci-Fi,Action
+2009	25	Inglourious Basterds	inglourious_basterds	tt0361748	War,Adventure,Drama
+2009	27	Slumdog Millionaire	slumdog_millionaire	tt1010048	Romance,Drama,Crime
+2009	28	District 9	district_9	tt1136608	Thriller,Sci-Fi,Action
+2009	29	Couples Retreat	couples_retreat	tt1078940	Comedy
+2009	30	Paranormal Activity	paranormal_activity	tt1179904	Mystery,Horror
+2009	31	Watchmen	watchmen	tt0409459	Drama,Mystery,Action
+2009	32	Sherlock Holmes	sherlock_holmes	tt0988045	Adventure,Mystery,Action
+2009	33	Public Enemies	public.enemies_tt1152836	tt1152836	Crime,Biography,Action
+2009	34	Julie & Julia	julie..julia_tt1135503	tt1135503	Drama,Biography,Romance
+2009	35	He's Just Not That Into You	hes.just.not.th_tt1001508	tt1001508	Comedy,Drama,Romance
+2009	36	Madea Goes to Jail	madea.goes.to.j_tt1142800	tt1142800	Comedy,Drama,Crime
+2009	37	The Ugly Truth	ugly.truth_tt1142988	tt1142988	Comedy,Romance
+2009	38	Knowing	knowing_tt0448011	tt0448011	Sci-Fi,Mystery,Action
+2009	39	Hannah Montana: The Movie	hannah.montana._tt1114677	tt1114677	Family,Comedy,Drama
+2009	40	Where the Wild Things Are	where.the.wild._tt0386117	tt0386117	Family,Adventure,Drama
+2009	42	Zombieland	zombieland_tt1156398	tt1156398	Comedy,Horror,Action
+2009	44	Curious Case of Benjamin Button, The	curious.case.of_tt0421715	tt0421715	Romance,Drama,Fantasy
+2009	45	Hotel for Dogs	hotel.for.dogs_tt0785006	tt0785006	Family,Comedy
+2009	46	Law Abiding Citizen	law.abiding.cit_tt1197624	tt1197624	Crime,Drama,Action
+2009	48	I Love You, Man	i.love.you.man_tt1155056	tt1155056	Comedy,Romance
+2009	49	Marley & Me	marley..me_tt0822832	tt0822832	Family,Drama
+2009	50	Obsessed	obsessed_tt1198138	tt1198138	Drama,Thriller,Romance
+2009	51	Race to Witch Mountain	race.to.witch.m_tt1075417	tt1075417	Family,Adventure,Action
+2009	52	The Final Destination	final.destinati_tt1144884	tt1144884	Thriller,Horror
+2009	53	Taking of Pelham 1 2 3, The	taking.of.pelha_tt1111422	tt1111422	Crime,Thriller,Action
+2009	54	Friday the 13th	friday.the.13th_tt0758746	tt0758746	Mystery,Thriller,Horror
+2009	55	17 Again	17.again_tt0974661	tt0974661	Comedy,Drama,Fantasy
+2009	56	The Time Traveler's Wife	time.travelers._tt0452694	tt0452694	Comedy,Drama,Fantasy
+2009	57	Brüno	brno_tt0889583	tt0889583	Comedy
+2009	58	Bride Wars	bride.wars_tt0901476	tt0901476	Comedy,Romance
+2009	59	The Haunting in Connecticut	haunting.in.con_tt0492044	tt0492044	Drama,Mystery,Horror
+2009	60	Ghosts of Girlfriends Past	ghosts.of.girlf_tt0821640	tt0821640	Romance,Comedy,Fantasy
+2010	1	Avatar	avatar	tt0499549	Adventure,Fantasy,Action
+2010	3	Alice in Wonderland	alice_in_wonderland	tt1014759	Family,Adventure,Fantasy
+2010	4	Iron Man 2	iron_man_2	tt1228705	Sci-Fi,Action
+2010	5	The Twilight Saga: Eclipse	twilight_eclipse	tt1325004	Adventure,Drama,Action
+2010	6	Inception	inception	tt1375666	Adventure,Sci-Fi,Action
+2010	7	Harry Potter and the Deathly Hallows: Part 1	harry_potter_deathly_hallows_1	tt0926084	Family,Adventure,Fantasy
+2010	11	The Karate Kid	karate_kid_2010	tt1155076	Family,Drama,Action
+2010	12	Clash of the Titans	clash_of_the_titans	tt0800320	Adventure,Fantasy,Action
+2010	13	Grown Ups	grown_ups	tt1375670	Comedy
+2010	16	The Last Airbender	last_airbender	tt0938283	Family,Adventure,Action
+2010	17	Shutter Island	shutter_island	tt1130884	Thriller,Mystery
+2010	18	The Other Guys	other_guys	tt1386588	Comedy,Crime,Action
+2010	19	Salt	salt	tt0944835	Thriller,Action
+2010	20	TRON: Legacy	tron_legacy	tt1104001	Adventure,Sci-Fi,Action
+2010	22	Valentine's Day	valentines_day	tt0817230	Comedy,Romance
+2010	23	Sherlock Holmes	sherlock_holmes	tt0988045	Adventure,Mystery,Action
+2010	24	Robin Hood	robin_hood	tt0955308	Adventure,Drama,Action
+2010	25	The Expendables	expendables	tt1320253	Adventure,Thriller,Action
+2010	26	Due Date	due_date	tt1231583	Comedy,Drama
+2010	28	Date Night	date_night	tt1279935	Romance,Comedy,Crime
+2010	29	Sex and the City 2	sex_and_the_city_2	tt1261945	Comedy,Drama,Romance
+2010	30	The Book of Eli	book_of_eli	tt1037705	Adventure,Drama,Action
+2010	31	The Social Network	social.network.movie_tt1285016	tt1285016	Drama,Biography
+2010	32	The Town	town	tt0840361	Drama,Thriller,Crime
+2010	33	Prince of Persia: The Sands of Time	prince_of_persia	tt0473075	Adventure,Fantasy,Action
+2010	34	RED	red_tt1245526	tt1245526	Comedy,Crime,Action
+2010	35	Percy Jackson & the Olympians: The Lightning Thief	percy.jackson.._tt0814255	tt0814255	Family,Adventure,Fantasy
+2010	36	Paranormal Activity 2	paranormal.acti_tt1536044	tt1536044	Mystery,Horror
+2010	37	Little Fockers	little.fockers_tt0970866	tt0970866	Comedy,Romance
+2010	38	Eat Pray Love	eat.pray.love_tt0879870	tt0879870	Drama,Biography,Romance
+2010	39	The Chronicles of Narnia: The Voyage of the Dawn Treader	chronicles.of.n_tt0980970	tt0980970	Family,Adventure,Fantasy
+2010	40	Dear John	dear.john_tt0989757	tt0989757	Drama,Mystery,Romance
+2010	41	Unstoppable	unstoppable_tt0477080	tt0477080	Thriller,Action
+2010	42	The A-Team	ateam_tt0429493	tt0429493	Adventure,Thriller,Action
+2010	43	Knight and Day2010 Re-release	knight.and.day_tt1013743	tt1013743	Comedy,Adventure,Action
+2010	44	Dinner for Schmucks	dinner.for.schm_tt0427152	tt0427152	Comedy
+2010	45	It's Complicated	its.complicated_tt1230414	tt1230414	Comedy,Drama,Romance
+2010	46	True Grit	true_grit	tt1403865	Western,Drama
+2010	47	The Bounty Hunter	bounty.hunter_tt1038919	tt1038919	Romance,Comedy,Action
+2010	48	Diary of a Wimpy Kid	diary.of.a.wimp_tt1196141	tt1196141	Family,Comedy,Drama
+2010	49	The Sorcerer's Apprentice	sorcerers.appre_tt0963966	tt0963966	Family,Adventure,Action
+2010	50	Nightmare on Elm Street, A	a.nightmare.on._tt1179056	tt1179056	Drama,Horror,Crime
+2010	51	The Last Song	last.song_tt1294226	tt1294226	Music,Drama,Romance
+2010	52	The Wolfman	wolfman_tt0780653	tt0780653	Drama,Horror,Fantasy
+2010	53	Get Him to the Greek	get.him.to.the._tt1226229	tt1226229	Music,Comedy
+2010	54	Resident Evil: Afterlife	resident.evil.a_tt1220634	tt1220634	Sci-Fi,Horror,Action
+2010	55	Why Did I Get Married Too?	why.did.i.get.m_tt1391137	tt1391137	Comedy,Drama,Romance
+2010	56	Tooth Fairy	tooth.fairy_tt0808510	tt0808510	Family,Comedy,Fantasy
+2010	57	The Blind Side	blind_side	tt0878804	Sport,Drama,Biography
+2010	58	Secretariat	secretariat_tt1028576	tt1028576	Family,Drama,Biography
+2011	1	Harry Potter and the Deathly Hallows: Part 2	harry_potter_deathly_hallows_2	tt1201607	Family,Adventure,Fantasy
+2011	2	Transformers: Dark of the Moon	transformers_dark_of_the_moon	tt1399103	Adventure,Sci-Fi,Action
+2011	3	The Twilight Saga: Breaking Dawn - Part 1	twilight_breaking_dawn_1	tt1324999	Adventure,Fantasy,Drama
+2011	4	The Hangover Part II	hangover_2	tt1411697	Comedy
+2011	5	Pirates of the Caribbean: On Stranger Tides	pirates_of_the_caribbean_on_stranger_tides	tt1298650	Adventure,Fantasy,Action
+2011	6	Fast Five	fast_five	tt1596343	Crime,Thriller,Action
+2011	8	Thor	thor	tt0800369	Fantasy,Action
+2011	9	Rise of the Planet of the Apes	rise_of_the_planet_of_the_apes	tt1318514	Drama,Sci-Fi,Action
+2011	10	Captain America: The First Avenger	captain_america	tt0458339	Adventure,Sci-Fi,Action
+2011	11	The Help	help	tt1454029	Drama
+2011	12	Bridesmaids	bridesmaids	tt1478338	Comedy,Romance
+2011	14	X-Men: First Class	xmen_first_class	tt1270798	Sci-Fi,Action
+2011	18	Super 8	super_8	tt1650062	Sci-Fi,Mystery,Action
+2011	19	Sherlock Holmes: A Game of Shadows	sherlock_holmes_game_of_shadows	tt1515091	Adventure,Mystery,Action
+2011	21	Mission: Impossible - Ghost Protocol	mission_impossible_4	tt1229238	Adventure,Thriller,Action
+2011	22	The King's Speech	kings_speech	tt1504320	Drama,Biography,History
+2011	23	Horrible Bosses	horrible_bosses	tt1499658	Comedy,Crime
+2011	24	Green Lantern	green_lantern	tt1133985	Adventure,Sci-Fi,Action
+2011	26	Paranormal Activity 3	paranormal_activity_3	tt1778304	Mystery,Horror
+2011	27	Just Go with It	just_go_with_it	tt1564367	Comedy,Romance
+2011	28	True Grit	true_grit	tt1403865	Western,Drama
+2011	29	Bad Teacher	bad_teacher	tt1284575	Comedy,Romance
+2011	30	Cowboys & Aliens	cowboys_and_aliens	tt0409847	Thriller,Sci-Fi,Action
+2011	32	The Green Hornet	green_hornet	tt0990407	Comedy,Crime,Action
+2011	35	Real Steel	real_steel	tt0433035	Drama,Sci-Fi,Action
+2011	36	Crazy, Stupid, Love.	crazy.stupid.lo_tt1570728	tt1570728	Comedy,Drama,Romance
+2011	37	Battle Los Angeles	battle.los.ange_tt1217613	tt1217613	Adventure,Sci-Fi,Action
+2011	38	Immortals	immortals_tt1253864	tt1253864	Drama,Fantasy,Action
+2011	39	The Muppets	muppets_tt1204342	tt1204342	Family,Comedy,Adventure
+2011	40	Zookeeper	zookeeper_tt1222817	tt1222817	Family,Comedy,Fantasy
+2011	41	Limitless	limitless_tt1219289	tt1219289	Thriller,Sci-Fi
+2011	42	Tower Heist	tower.heist_tt0471042	tt0471042	Comedy,Crime,Action
+2011	43	Contagion	contagion_tt1598778	tt1598778	Drama,Thriller
+2011	44	Moneyball	moneyball_tt1210166	tt1210166	Sport,Drama,Biography
+2011	46	Dolphin Tale	dolphin.tale_tt1564349	tt1564349	Family,Drama
+2011	47	Jack and Jill	jack.and.jill_tt0810913	tt0810913	Comedy
+2011	48	No Strings Attached	no.strings.atta_tt1411238	tt1411238	Comedy,Romance
+2011	49	Mr. Popper's Penguins	mr..poppers.pen_tt1396218	tt1396218	Family,Comedy,Fantasy
+2011	50	Black Swan	black.swan_tt0947798	tt0947798	Drama,Thriller
+2011	51	Little Fockers	little.fockers_tt0970866	tt0970866	Comedy,Romance
+2011	52	Unknown	unknown_tt1401152	tt1401152	Thriller,Mystery,Action
+2011	53	The Adjustment Bureau	adjustment.bure_tt1385826	tt1385826	Thriller,Sci-Fi,Romance
+2011	55	Water for Elephants	water.for.eleph_tt1067583	tt1067583	Drama,Romance
+2011	56	The Lincoln Lawyer	lincoln.lawyer_tt1189340	tt1189340	Drama,Mystery,Crime
+2011	57	Midnight in Paris	midnight.in.par_tt1605783	tt1605783	Romance,Comedy,Fantasy
+2011	58	Friends with Benefits	friends.with.be_tt1632708	tt1632708	Comedy,Romance
+2011	59	I Am Number Four	i.am.number.fou_tt1464540	tt1464540	Adventure,Sci-Fi,Action
+2011	60	Source Code	source.code_tt0945513	tt0945513	Drama,Mystery,Action
+2011	61	The Fighter	fighter_tt0964517	tt0964517	Drama,Biography,Action
+2011	62	TRON: Legacy	tron_legacy	tt1104001	Adventure,Sci-Fi,Action
+2012	1	The Avengers	avengers	tt0848228	Sci-Fi,Action
+2012	2	The Dark Knight Rises	dark_knight_rises	tt1345836	Drama,Action
+2012	3	The Hunger Games	hunger_games	tt1392170	Adventure,Sci-Fi,Action
+2012	4	Skyfall	skyfall	tt1074638	Adventure,Thriller,Action
+2012	5	The Twilight Saga: Breaking Dawn - Part 2	twilight_breaking_dawn_2	tt1673434	Adventure,Fantasy,Drama
+2012	6	The Amazing Spider-Man	amazing_spiderman	tt0948470	Adventure,Sci-Fi,Action
+2012	8	The Hobbit: An Unexpected Journey	hobbit_unexpected_journey	tt0903624	Fantasy
+2012	9	Ted	ted	tt1637725	Comedy
+2012	12	Men in Black 3	men_in_black_3	tt1409024	Comedy,Adventure,Action
+2012	15	Snow White and the Huntsman	snow_white_and_the_huntsman	tt1735898	Adventure,Drama,Action
+2012	17	Taken 2	taken_2	tt1397280	Crime,Thriller,Action
+2012	18	21 Jump Street	21_jump_street	tt1232829	Comedy,Crime,Action
+2012	19	Lincoln	lincoln	tt0443272	Drama,Biography,History
+2012	20	Prometheus	prometheus	tt1446714	Adventure,Sci-Fi,Mystery
+2012	21	Safe House	safe_house	tt1599348	Thriller,Action
+2012	22	The Vow	vow	tt1606389	Drama,Romance
+2012	23	Magic Mike	magic_mike	tt1915581	Comedy,Drama
+2012	24	The Bourne Legacy	bourne_legacy	tt1194173	Adventure,Thriller,Action
+2012	25	Argo	argo	tt1024648	Drama,Biography,Thriller
+2012	26	Journey 2: The Mysterious Island	journey_2_the_mysterious_island	tt1397514	Comedy,Adventure,Action
+2012	27	Flight	flight	tt1907668	Drama,Thriller
+2012	28	Think Like a Man	think_like_a_man	tt1621045	Comedy,Romance
+2012	30	Mission: Impossible - Ghost Protocol	mission_impossible_4	tt1229238	Adventure,Thriller,Action
+2012	31	The Campaign	campaign	tt1790886	Comedy
+2012	32	Life of Pi	life_of_pi	tt0454876	Adventure,Fantasy,Drama
+2012	33	Expendables 2, The	expendables.2_tt1764651	tt1764651	Adventure,Thriller,Action
+2012	34	Wrath of the Titans	wrath.of.the.ti_tt1646987	tt1646987	Adventure,Fantasy,Action
+2012	35	Dark Shadows	dark.shadows_tt1077368	tt1077368	Comedy,Horror,Fantasy
+2012	36	John Carter	john.carter_tt0401729	tt0401729	Adventure,Sci-Fi,Action
+2012	37	Les Misérables	les.misrables_tt1707386	tt1707386	Drama,Musical,Romance
+2012	38	Act of Valor	act.of.valor_tt1591479	tt1591479	Adventure,Thriller,Action
+2012	39	Django Unchained	django.unchaine_tt1853728	tt1853728	Western,Drama
+2012	40	Contraband	contraband_tt1524137	tt1524137	Crime,Drama,Action
+2012	41	Looper	looper_tt1276104	tt1276104	Drama,Sci-Fi,Action
+2012	42	Madea's Witness Protection	madeas.witness._tt2215285	tt2215285	Comedy,Drama,Crime
+2012	43	Battleship	battleship_tt1440129	tt1440129	Adventure,Sci-Fi,Action
+2012	44	Mirror Mirror	mirror.mirror_tt1667353	tt1667353	Comedy,Adventure,Drama
+2012	45	Chronicle	chronicle_tt1706593	tt1706593	Drama,Sci-Fi,Action
+2012	46	Pitch Perfect	pitch.perfect_tt1981677	tt1981677	Music,Comedy,Romance
+2012	47	Hope Springs	hope.springs_tt1535438	tt1535438	Comedy,Drama,Romance
+2012	48	Sherlock Holmes: A Game of Shadows	sherlock_holmes_game_of_shadows	tt1515091	Adventure,Mystery,Action
+2012	49	Underworld: Awakening	underworld.awak_tt1496025	tt1496025	Fantasy,Horror,Action
+2012	50	Lucky One, The	lucky.one_tt1327194	tt1327194	Drama,Mystery,Romance
+2012	51	The Dictator	dictator_tt1645170	tt1645170	Comedy
+2012	52	Total Recall	total.recall_tt1386703	tt1386703	Adventure,Sci-Fi,Action
+2012	53	Titanic2012 3D Release	titanic	tt0120338	Drama,Romance
+2012	54	American Reunion	american.reunio_tt1605630	tt1605630	Drama,Adventure,Action
+2012	56	This Means War	this.means.war_tt1596350	tt1596350	Romance,Comedy,Action
+2012	57	Project X	project.x_tt1636826	tt1636826	Comedy
+2012	58	The Woman in Black	woman.in.black_tt1596365	tt1596365	Drama,Horror,Fantasy
+2013	1	Iron Man 3	iron_man_3	tt1300854	Adventure,Sci-Fi,Action
+2013	2	The Hunger Games: Catching Fire	hunger_games_catching_fire	tt1951264	Adventure,Sci-Fi,Action
+2013	4	Man of Steel	man_of_steel	tt0770828	Adventure,Sci-Fi,Action
+2013	7	Gravity	gravity	tt1454468	Drama,Sci-Fi,Thriller
+2013	8	Fast & Furious 6	fast_and_furious_6	tt1905041	Crime,Thriller,Action
+2013	9	Oz the Great and Powerful	oz_the_great_and_powerful	tt1623205	Family,Adventure,Fantasy
+2013	10	Star Trek Into Darkness	star_trek_into_darkness	tt1408101	Adventure,Sci-Fi,Action
+2013	11	Thor: The Dark World	thor_dark_world	tt1981115	Adventure,Fantasy,Action
+2013	12	World War Z	world_war_z	tt0816711	Adventure,Horror,Action
+2013	13	The Hobbit: The Desolation of Smaug	hobbit_desolation_of_smaug	tt1170358	Fantasy
+2013	15	The Heat	heat_2013	tt2404463	Comedy,Crime,Action
+2013	16	We're the Millers	were_the_millers	tt1723121	Comedy,Crime
+2013	17	The Great Gatsby	great_gatsby	tt1343092	Drama,Romance
+2013	18	The Conjuring	conjuring	tt1457767	Thriller,Mystery,Horror
+2013	19	Identity Thief	identity_thief	tt2024432	Comedy,Drama,Crime
+2013	20	Grown Ups 2	grown_ups_2	tt2191701	Comedy
+2013	21	The Wolverine	wolverine	tt1430132	Sci-Fi,Action
+2013	22	G.I. Joe: Retaliation	gi_joe_retaliation	tt1583421	Adventure,Sci-Fi,Action
+2013	23	Now You See Me	now_you_see_me	tt1670345	Thriller,Mystery,Crime
+2013	25	Lee Daniels' The Butler	butler	tt1327773	Drama,Biography
+2013	26	The Hangover Part III	hangover_3	tt1951261	Comedy,Crime
+2013	28	Captain Phillips	captain_phillips	tt1535109	Crime,Biography,Action
+2013	29	Silver Linings Playbook	silver_linings_playbook	tt1045658	Comedy,Drama,Romance
+2013	30	Pacific Rim	pacific_rim	tt1663662	Adventure,Sci-Fi,Action
+2013	31	This Is the End	this_is_the_end	tt1245492	Comedy,Fantasy
+2013	32	Jackass Presents: Bad Grandpa	jackass.present_tt3063516	tt3063516	Comedy
+2013	33	Olympus Has Fallen	olympus.has.fal_tt2302755	tt2302755	Thriller,Action
+2013	34	42	42_tt0453562	tt0453562	Sport,Drama,Biography
+2013	35	Zero Dark Thirty	zero.dark.thirt_tt1790885	tt1790885	Drama,Thriller,History
+2013	36	Django Unchained	django.unchaine_tt1853728	tt1853728	Western,Drama
+2013	37	Elysium	elysium_tt1535108	tt1535108	Drama,Sci-Fi,Action
+2013	38	Anchorman 2: The Legend Continues	anchorman.2.the_tt1229340	tt1229340	Comedy
+2013	40	The Lone Ranger	lone.ranger_tt1210819	tt1210819	Western,Adventure,Action
+2013	41	Oblivion	oblivion_tt1483013	tt1483013	Adventure,Sci-Fi,Action
+2013	42	Insidious: Chapter 2	insidious.chapt_tt2226417	tt2226417	Thriller,Mystery,Horror
+2013	44	Les Misérables	les.misrables_tt1707386	tt1707386	Drama,Musical,Romance
+2013	45	2 Guns	2.guns_tt1272878	tt1272878	Thriller,Action
+2013	46	The Hobbit: An Unexpected Journey	hobbit_unexpected_journey	tt0903624	Fantasy
+2013	47	White House Down	white.house.down_tt2334879	tt2334879	Drama,Thriller,Action
+2013	48	Mama	mama_tt2023587	tt2023587	Thriller,Horror,Fantasy
+2013	49	Safe Haven	safe.haven_tt1702439	tt1702439	Drama,Thriller,Romance
+2013	51	The Best Man Holiday	best.man.holida_tt2083355	tt2083355	Comedy,Drama
+2013	52	Percy Jackson: Sea of Monsters	percy.jackson.s_tt1854564	tt1854564	Family,Adventure,Fantasy
+2013	53	American Hustle	american.hustle_tt1800241	tt1800241	Drama,Crime
+2013	54	A Good Day to Die Hard	a.good.day.to.d_tt1606378	tt1606378	Thriller,Action
+2013	55	Warm Bodies	warm.bodies_tt1588173	tt1588173	Romance,Comedy,Horror
+2013	56	Jack the Giant Slayer	jack.the.giant._tt1351685	tt1351685	Adventure,Fantasy,Action
+2013	57	The Purge	purge_tt2184339	tt2184339	Thriller,Sci-Fi,Horror
+2013	58	Last Vegas	last.vegas_tt1204975	tt1204975	Comedy,Drama
+2013	59	Ender's Game	enders_tt1731141	tt1731141	Adventure,Sci-Fi,Action
+2014	1	Guardians of the Galaxy	guardians_of_the_galaxy	tt2015381	Comedy,Adventure,Action
+2014	2	The Hunger Games: Mockingjay - Part 1	hunger_games_mockingjay_1	tt1951265	Adventure,Sci-Fi,Action
+2014	3	Captain America: The Winter Soldier	captain_america_winter_soldier	tt1843866	Adventure,Sci-Fi,Action
+2014	5	Transformers: Age of Extinction	transformers_age_of_extinction	tt2109248	Adventure,Sci-Fi,Action
+2014	6	Maleficent	maleficent	tt1587310	Family,Adventure,Fantasy
+2014	7	X-Men: Days of Future Past	xmen_days_of_future_past	tt1877832	Adventure,Sci-Fi,Action
+2014	8	Dawn of the Planet of the Apes	dawn_of_the_planet_of_the_apes	tt2103281	Adventure,Drama,Action
+2014	10	The Amazing Spider-Man 2	amazing_spiderman_2	tt1872181	Adventure,Sci-Fi,Action
+2014	11	Godzilla	godzilla2014	tt0831387	Adventure,Sci-Fi,Action
+2014	12	22 Jump Street	22_jump_street	tt2294449	Comedy,Crime,Action
+2014	13	Teenage Mutant Ninja Turtles	tmnt_2014	tt1291150	Comedy,Adventure,Action
+2014	14	The Hobbit: The Battle of the Five Armies	hobbit_battle_of_the_five_armies	tt2310332	Adventure,Fantasy
+2014	15	Interstellar	interstellar	tt0816692	Adventure,Sci-Fi,Drama
+2014	17	Gone Girl	gone_girl	tt2267998	Drama,Mystery,Thriller
+2014	18	Divergent	divergent	tt1840309	Adventure,Mystery,Action
+2014	19	Neighbors	neighbors	tt2004420	Comedy
+2014	21	Ride Along	ride_along	tt1408253	Comedy,Crime,Action
+2014	23	Lucy	lucy	tt2872732	Thriller,Sci-Fi,Action
+2014	24	Lone Survivor	lone_survivor	tt1091191	Drama,Biography,Action
+2014	25	The Fault in Our Stars	fault_in_our_stars	tt2582846	Drama,Romance
+2014	27	300: Rise of an Empire	300_rise_of_an_empire	tt1253863	Drama,Action
+2014	28	The Maze Runner	maze_runner	tt1790864	Sci-Fi,Mystery,Action
+2014	29	Noah	noah	tt1959490	Adventure,Drama,Action
+2014	30	The Equalizer	equalizer	tt0455944	Crime,Thriller,Action
+2014	31	Edge of Tomorrow	edge_of_tomorrow	tt1631867	Adventure,Sci-Fi,Action
+2014	32	Non-Stop	nonstop_tt2024469	tt2024469	Thriller,Mystery,Action
+2014	33	Heaven Is for Real	heaven.is.for.r_tt1929263	tt1929263	Family,Drama,Biography
+2014	34	Fury	fury_tt2713180	tt2713180	War,Drama,Action
+2014	35	Dumb and Dumber To	dumb.and.dumber_tt2096672	tt2096672	Comedy
+2014	36	Tammy	tammy_tt2103254	tt2103254	Comedy,Romance
+2014	37	Annabelle	annabelle_tt3322940	tt3322940	Thriller,Mystery,Horror
+2014	38	Other Woman, The	other.woman_tt2203939	tt2203939	Comedy,Romance
+2014	39	American Hustle	american.hustle_tt1800241	tt1800241	Drama,Crime
+2014	40	Let's Be Cops	lets.be.cops_tt1924435	tt1924435	Comedy,Crime,Action
+2014	41	The Monuments Men	monuments.men_tt2177771	tt2177771	Comedy,Drama,History
+2014	42	The Wolf of Wall Street	wolf.of.wall.st_tt0993846	tt0993846	Comedy,Biography,Crime
+2014	44	Hercules	hercules_tt1267297	tt1267297	Adventure,Fantasy,Action
+2014	45	The Purge: Anarchy	purge.anarchy_tt2975578	tt2975578	Sci-Fi,Horror,Action
+2014	46	Night at the Museum: Secret of the Tomb	night.at.the.mu_tt2692250	tt2692250	Family,Comedy,Adventure
+2014	47	Alexander and the Terrible, Horrible, No Good, Very Bad Day	alexander.and.t_tt1698641	tt1698641	Family,Comedy,Drama
+2014	48	Think Like a Man Too	think.like.a.ma_tt2239832	tt2239832	Comedy,Romance
+2014	50	Into the Woods	into.the.woods_tt2180411	tt2180411	Comedy,Adventure,Drama
+2014	51	Unbroken	unbroken_tt1809398	tt1809398	Drama,Biography,Action
+2014	52	God's Not Dead	gods.not.dead_tt2528814	tt2528814	Drama
+2014	53	Son of God	son.of.god_tt3210686	tt3210686	Drama,Biography,History
+2014	55	The Grand Budapest Hotel	grand.budapest._tt2278388	tt2278388	Comedy,Adventure,Crime
+2014	56	RoboCop	robocop_tt1234721	tt1234721	Crime,Sci-Fi,Action
+2014	57	Annie	annie_tt1823664	tt1823664	Family,Comedy,Drama
+2014	58	The Hobbit: The Desolation of Smaug	hobbit_desolation_of_smaug	tt1170358	Fantasy
+2014	59	Dracula Untold	dracula.untold_tt0829150	tt0829150	Drama,Fantasy,Action
+2015	1	Jurassic World	jurassic_world	tt0369610	Adventure,Sci-Fi,Action
+2015	2	Star Wars: Episode VII - The Force Awakens	force_awakens	tt2488496	Adventure,Sci-Fi,Action
+2015	3	Avengers: Age of Ultron	avengers_age_of_ultron	tt2395427	Adventure,Sci-Fi,Action
+2015	5	Furious 7	furious_7	tt2820852	Crime,Thriller,Action
+2015	6	American Sniper	american_sniper	tt2179136	Drama,Biography,Action
+2015	8	The Hunger Games: Mockingjay - Part 2	hunger_games_mockingjay_2	tt1951266	Adventure,Sci-Fi,Action
+2015	9	The Martian	martian	tt3659388	Adventure,Sci-Fi,Drama
+2015	10	Cinderella	cinderella	tt1661199	Family,Adventure,Drama
+2015	11	Spectre	spectre	tt2379713	Adventure,Thriller,Action
+2015	12	Mission: Impossible - Rogue Nation	rogue_nation	tt2381249	Adventure,Thriller,Action
+2015	13	Pitch Perfect 2	pitch_perfect_2	tt2848292	Music,Comedy
+2015	14	Ant-Man	antman	tt0478970	Comedy,Sci-Fi,Action
+2015	17	Fifty Shades of Grey	fifty_shades_of_grey	tt2322441	Drama,Thriller,Romance
+2015	19	Straight Outta Compton	straight_outta_compton	tt1398426	Drama,Biography,History
+2015	20	San Andreas	san_andreas	tt2126355	Adventure,Thriller,Action
+2015	21	Mad Max: Fury Road	fury_road	tt1392190	Adventure,Sci-Fi,Action
+2015	22	The Divergent Series: Insurgent	insurgent	tt2908446	Adventure,Sci-Fi,Action
+2015	23	Kingsman: The Secret Service	kingsman	tt2802144	Comedy,Adventure,Action
+2015	25	Spy	spy	tt3079380	Comedy,Action
+2015	27	Trainwreck	trainwreck	tt3152624	Comedy,Drama,Romance
+2015	28	Creed	creed	tt3076658	Sport,Drama,Action
+2015	29	Tomorrowland	tomorrowland	tt1964418	Family,Adventure,Action
+2015	30	Get Hard	get_hard	tt2561572	Comedy,Crime
+2015	31	Terminator Genisys	terminator_genisys	tt1340138	Adventure,Sci-Fi,Action
+2015	32	Taken 3	taken_3	tt2446042	Crime,Thriller,Action
+2015	33	Maze Runner: The Scorch Trials	maze.runner.the_tt4046784	tt4046784	Adventure,Sci-Fi,Action
+2015	34	Ted 2	ted.2_tt2637276	tt2637276	Comedy
+2015	35	Goosebumps	goosebumps_tt1051904	tt1051904	Comedy,Adventure,Fantasy
+2015	36	Pixels	pixels_tt2120120	tt2120120	Comedy,Fantasy,Action
+2015	37	Paddington	paddington_tt1109624	tt1109624	Family,Comedy,Adventure
+2015	38	The Intern	intern_tt2361509	tt2361509	Comedy,Drama
+2015	39	The Imitation Game	imitation.game_tt2084970	tt2084970	Drama,Biography,Thriller
+2015	40	Paul Blart: Mall Cop 2	paul.blart.mall_tt3450650	tt3450650	Comedy,Crime,Action
+2015	41	Bridge of Spies	bridge.of.spies_tt3682448	tt3682448	Drama,Thriller,History
+2015	42	War Room	war.room_tt3832914	tt3832914	Drama
+2015	43	Magic Mike XXL	magic.mike.xxl_tt2268016	tt2268016	Music,Comedy,Drama
+2015	44	The Hobbit: The Battle of the Five Armies	hobbit_battle_of_the_five_armies	tt2310332	Adventure,Fantasy
+2015	45	The Visit	visit_tt3567288	tt3567288	Thriller,Mystery,Horror
+2015	46	Daddy's Home	daddys.home_tt1528854	tt1528854	Family,Comedy
+2015	47	The Wedding Ringer	wedding.ringer_tt0884732	tt0884732	Comedy
+2015	48	Into the Woods	into.the.woods_tt2180411	tt2180411	Comedy,Adventure,Drama
+2015	49	Black Mass	black.mass_tt1355683	tt1355683	Drama,Biography,Crime
+2015	50	Vacation	vacation_tt1524930	tt1524930	Comedy,Adventure
+2015	51	The Perfect Guy	perfect.guy_tt3862750	tt3862750	Drama,Thriller,Romance
+2015	52	Fantastic Four	fantastic.four_tt1502712	tt1502712	Adventure,Sci-Fi,Action
+2015	54	Focus	focus_tt2381941	tt2381941	Comedy,Drama,Crime
+2015	55	Unbroken	unbroken_tt1809398	tt1809398	Drama,Biography,Action
+2015	56	Southpaw	southpaw_tt1798684	tt1798684	Crime,Drama,Action
+2015	57	Insidious: Chapter 3	insidious.chapt_tt3195644	tt3195644	Thriller,Mystery,Horror
+2015	58	Selma	selma_tt1020072	tt1020072	Drama,Biography,History
+2016	2	Rogue One: A Star Wars Story	rogue_one	tt3748528	Adventure,Sci-Fi,Action
+2016	3	Captain America: Civil War	captain_america_civil_war	tt3498820	Sci-Fi,Action
+2016	5	The Jungle Book	jungle_book	tt3040964	Family,Adventure,Drama
+2016	6	Deadpool	deadpool	tt1431045	Comedy,Action
+2016	8	Batman v Superman: Dawn of Justice	batman_vs_superman	tt2975590	Adventure,Sci-Fi,Action
+2016	9	Suicide Squad	suicide_squad	tt1386697	Adventure,Fantasy,Action
+2016	10	Star Wars: Episode VII - The Force Awakens	force_awakens	tt2488496	Adventure,Sci-Fi,Action
+2016	11	Doctor Strange	doctor_strange	tt1211837	Adventure,Fantasy,Action
+2016	12	Fantastic Beasts and Where to Find Them	fantastic_beasts	tt3183660	Family,Adventure,Fantasy
+2016	14	The Revenant	revenant	tt1663202	Adventure,Drama,Action
+2016	15	Jason Bourne	jason_bourne	tt4196776	Thriller,Action
+2016	16	Star Trek Beyond	star_trek_beyond	tt2660888	Adventure,Sci-Fi,Action
+2016	17	X-Men: Apocalypse	xmen_apocalypse	tt3385516	Adventure,Sci-Fi,Action
+2016	21	Ghostbusters	ghostbusters_2016	tt1289401	Comedy,Fantasy,Action
+2016	22	Central Intelligence	central_intelligence	tt1489889	Comedy,Crime,Action
+2016	23	The Legend of Tarzan	legend_of_tarzan	tt0918940	Adventure,Drama,Action
+2016	24	Sully	sully	tt3263904	Drama,Biography
+2016	25	Bad Moms	bad_moms	tt4651520	Comedy
+2016	27	Independence Day: Resurgence	independence_day_resurgence	tt1628841	Adventure,Sci-Fi,Action
+2016	28	The Conjuring 2	conjuring_2	tt3065204	Thriller,Mystery,Horror
+2016	30	The Magnificent Seven	magnificent_seven	tt2404435	Western,Adventure,Action
+2016	31	Arrival	arrival	tt2543164	Drama,Sci-Fi,Mystery
+2016	32	Ride Along 2	ride_along_2	tt2869728	Comedy,Crime,Action
+2016	33	Don't Breathe	dont_breathe	tt4160708	Thriller,Horror,Crime
+2016	34	Miss Peregrine's Home for Peculiar Children	miss_peregrine	tt1935859	Family,Adventure,Drama
+2016	35	Accountant, The	accountant_tt2140479	tt2140479	Thriller,Action
+2016	36	Daddy's Home	daddys.home_tt1528854	tt1528854	Family,Comedy
+2016	37	Teenage Mutant Ninja Turtles: Out of the Shadows	teenage.mutant._tt3949660	tt3949660	Comedy,Adventure,Action
+2016	38	The Purge: Election Year	purge.election._tt4094724	tt4094724	Sci-Fi,Horror,Action
+2016	39	Alice Through the Looking Glass	alice.through.t_tt2567026	tt2567026	Family,Adventure,Fantasy
+2016	40	Pete's Dragon	petes.dragon_tt2788732	tt2788732	Comedy,Adventure,Action
+2016	41	The Girl on the Train	girl.on.the.tra_tt3631112	tt3631112	Drama,Mystery,Crime
+2016	42	Boo! A Madea Halloween	boo.a.madea.hal_tt5325452	tt5325452	Comedy,Drama,Horror
+2016	44	10 Cloverfield Lane	10.cloverfield._tt1179933	tt1179933	Drama,Mystery,Horror
+2016	45	Lights Out	lights.out_tt4786282	tt4786282	Mystery,Horror
+2016	46	Allegiant	allegiant_tt3410834	tt3410834	Adventure,Mystery,Action
+2016	47	Now You See Me 2	now.you.see.me._tt3110958	tt3110958	Comedy,Adventure,Action
+2016	48	Hacksaw Ridge	hacksaw.ridge_tt2119532	tt2119532	Drama,Biography,History
+2016	50	The Boss	boss_tt2702724	tt2702724	Comedy
+2016	51	London Has Fallen	london.has.fall_tt3300542	tt3300542	Thriller,Action
+2016	52	Miracles from Heaven	miracles.from.h_tt4257926	tt4257926	Family,Drama,Biography
+2016	53	Deepwater Horizon	deepwater.horiz_tt1860357	tt1860357	History,Drama,Action
+2016	54	My Big Fat Greek Wedding 2	my.big.fat.gree_tt3760922	tt3760922	Comedy,Romance
+2016	55	Jack Reacher: Never Go Back	jack.reacher.ne_tt3393786	tt3393786	Crime,Drama,Action
+2016	56	Me Before You	me.before.you_tt2674426	tt2674426	Drama,Romance
+2016	57	The BFG	bfg_tt3691740	tt3691740	Family,Adventure,Fantasy
+2016	58	Neighbors 2: Sorority Rising	neighbors.2.sor_tt4438848	tt4438848	Comedy
+2016	59	Passengers	passengers_tt1355644	tt1355644	Drama,Sci-Fi,Romance
+2016	60	The Shallows	shallows_tt4052882	tt4052882	Drama,Horror,Action
+2016	61	Barbershop: The Next Cut	barbershop.the._tt3628584	tt3628584	Comedy,Drama
+2017	1	Star Wars: Episode VIII - The Last Jedi	last_jedi	tt2527336	Adventure,Fantasy,Action
+2017	2	Beauty and the Beast	beauty_and_the_beast	tt2771200	Family,Adventure,Fantasy
+2017	3	Wonder Woman	wonder_woman	tt0451279	Adventure,Fantasy,Action
+2017	4	Guardians of the Galaxy Vol. 2	guardians_of_the_galaxy_2	tt3896198	Comedy,Adventure,Action
+2017	5	Spider-Man: Homecoming	spiderman_homecoming	tt2250912	Adventure,Sci-Fi,Action
+2017	6	It	it	tt1396484	Horror
+2017	7	Thor: Ragnarok	thor_ragnarok	tt3501632	Comedy,Adventure,Action
+2017	9	Logan	logan	tt3315342	Drama,Sci-Fi,Action
+2017	10	The Fate of the Furious	fate_of_the_furious	tt4630562	Crime,Thriller,Action
+2017	11	Justice League	justice_league	tt0974015	Adventure,Fantasy,Action
+2017	12	Dunkirk	dunkirk	tt5013056	History,Drama,Action
+2017	15	Get Out	get_out	tt5052448	Thriller,Mystery,Horror
+2017	17	Pirates of the Caribbean: Dead Men Tell No Tales	pirates_dead_men_tell_no_tales	tt1790809	Adventure,Fantasy,Action
+2017	18	Jumanji: Welcome to the Jungle	jumanji_welcome_to_the_jungle	tt2283362	Comedy,Adventure,Action
+2017	19	Kong: Skull Island	kong_skull_island	tt3731562	Adventure,Fantasy,Action
+2017	20	Hidden Figures	hidden_figures	tt4846340	Drama,Biography,History
+2017	22	War for the Planet of the Apes	war_for_the_planet_of_the_apes	tt3450958	Adventure,Drama,Action
+2017	23	Split	split	tt4972582	Thriller,Horror
+2017	24	Transformers: The Last Knight	transformers_last_knight	tt3371366	Adventure,Sci-Fi,Action
+2017	25	Rogue One: A Star Wars Story	rogue_one	tt3748528	Adventure,Sci-Fi,Action
+2017	26	Wonder	wonder	tt2543472	Family,Drama
+2017	27	La La Land	la_la_land	tt3783958	Music,Comedy,Drama
+2017	29	Girls Trip	girls_trip	tt3564472	Comedy,Adventure,Drama
+2017	30	Fifty Shades Darker	fifty_shades_darker	tt4465564	Drama,Thriller,Romance
+2017	31	Baby Driver	baby_driver	tt3890160	Crime,Drama,Action
+2017	32	Annabelle: Creation	annabelle.creat_tt5140878	tt5140878	Thriller,Mystery,Horror
+2017	33	Daddy's Home 2	daddys.home.2_tt5657846	tt5657846	Comedy
+2017	34	Murder on the Orient Express	murder.on.the.o_tt3402236	tt3402236	Drama,Mystery,Crime
+2017	35	Kingsman: The Golden Circle	kingsman.the.go_tt4649466	tt4649466	Comedy,Adventure,Action
+2017	36	John Wick: Chapter 2	john.wick.chapt_tt4425200	tt4425200	Crime,Thriller,Action
+2017	37	Blade Runner 2049	blade.runner.20_tt1856101	tt1856101	Drama,Mystery,Action
+2017	39	Power Rangers	power.rangers_tt3717490	tt3717490	Adventure,Fantasy,Action
+2017	40	The Mummy	mummy_tt2345759	tt2345759	Adventure,Fantasy,Action
+2017	41	The Hitman's Bodyguard	hitmans.bodygua_tt1959563	tt1959563	Comedy,Crime,Action
+2017	42	Alien: Covenant	alien.covenant_tt2316204	tt2316204	Thriller,Sci-Fi,Horror
+2017	44	A Bad Moms Christmas	a.bad.moms.chri_tt6359956	tt6359956	Comedy
+2017	45	A Dog's Purpose	a.dogs.purpose_tt1753383	tt1753383	Comedy,Adventure,Drama
+2017	46	Pitch Perfect 3	pitch.perfect.3_tt4765284	tt4765284	Music,Comedy
+2017	48	Baywatch	baywatch_tt1469304	tt1469304	Comedy,Crime,Action
+2017	49	The Shack	shack_tt2872518	tt2872518	Drama,Fantasy
+2017	50	Happy Death Day	happy.death.day_tt5308322	tt5308322	Comedy,Mystery,Horror
+2017	52	Atomic Blonde	atomic.blonde_tt2406566	tt2406566	Thriller,Action
+2017	53	American Made	american.made_tt3532216	tt3532216	Comedy,Crime,Action
+2017	54	The Dark Tower	dark.tower_tt1648190	tt1648190	Adventure,Fantasy,Action
+2017	55	The Greatest Showman	greatest_showman	tt1485796	Drama,Biography,Musical
+2017	56	Boo 2! A Madea Halloween	boo.2.a.madea.h_tt6217804	tt6217804	Comedy,Drama,Horror
+2017	57	Lion	lion_tt3741834	tt3741834	Drama,Biography
+2017	58	Snatched	snatched_tt2334871	tt2334871	Comedy,Adventure,Action
+2017	59	The Great Wall	great.wall_tt2034800	tt2034800	Adventure,Fantasy,Action
+2017	61	Going in Style	going.in.style_tt2568862	tt2568862	Comedy,Crime
+2018	1	Black Panther	black_panther	tt1825683	Adventure,Sci-Fi,Action
+2018	2	Avengers: Infinity War	avengers_infinity_war	tt4154756	Adventure,Sci-Fi,Action
+2018	4	Jurassic World: Fallen Kingdom	jurassic_world_fallen_kingdom	tt4881806	Adventure,Sci-Fi,Action
+2018	5	Deadpool 2	deadpool_2	tt5463162	Comedy,Adventure,Action
+2018	7	Jumanji: Welcome to the Jungle	jumanji_welcome_to_the_jungle	tt2283362	Comedy,Adventure,Action
+2018	8	Mission: Impossible - Fallout	mission_impossible_fallout	tt4912910	Adventure,Thriller,Action
+2018	9	Ant-Man and the Wasp	ant_man_and_the_wasp	tt5095030	Comedy,Adventure,Action
+2018	10	Solo: A Star Wars Story	solo	tt3778644	Adventure,Sci-Fi,Action
+2018	11	Venom	venom	tt1270797	Adventure,Sci-Fi,Action
+2018	12	A Star Is Born	star_is_born	tt1517451	Music,Drama,Romance
+2018	13	Aquaman	aquaman	tt1477834	Adventure,Fantasy,Action
+2018	14	Bohemian Rhapsody	bohemian_rhapsody	tt1727824	Music,Drama,Biography
+2018	15	A Quiet Place	quiet_place	tt6644200	Drama,Sci-Fi,Horror
+2018	17	Crazy Rich Asians	crazy_rich_asians	tt3104988	Comedy,Drama,Romance
+2018	19	Halloween	halloween_tt1502407	tt1502407	Thriller,Horror,Crime
+2018	20	Fantastic Beasts: The Crimes of Grindelwald	fantastic_beasts_grindelwald	tt4123430	Family,Adventure,Fantasy
+2018	21	The Meg	meg	tt4779682	Sci-Fi,Horror,Action
+2018	22	Ocean's Eight	oceans_8	tt5164214	Comedy,Crime,Action
+2018	23	Ready Player One	ready_player_one	tt1677720	Adventure,Sci-Fi,Action
+2018	24	The Greatest Showman	greatest_showman	tt1485796	Drama,Biography,Musical
+2018	25	Mamma Mia! Here We Go Again	mamma_mia_2	tt6911608	Comedy,Musical,Romance
+2018	26	The Nun	nun	tt5814060	Thriller,Mystery,Horror
+2018	27	Peter Rabbit	peter_rabbit	tt5117670	Comedy,Adventure,Crime
+2018	28	Creed II	creed_2	tt6343314	Sport,Drama,Action
+2018	30	Mary Poppins Returns	mary_poppins_returns	tt5028340	Family,Comedy,Adventure
+2018	31	Star Wars: Episode VIII - The Last Jedi	last_jedi	tt2527336	Adventure,Fantasy,Action
+2018	32	The Equalizer 2	equalizer.2_tt3766354	tt3766354	Crime,Thriller,Action
+2018	33	Rampage	rampage_tt2231461	tt2231461	Adventure,Sci-Fi,Action
+2018	34	A Wrinkle in Time	a.wrinkle.in.ti_tt1620680	tt1620680	Family,Adventure,Fantasy
+2018	35	Fifty Shades Freed	fifty.shades.fr_tt4477536	tt4477536	Drama,Thriller,Romance
+2018	36	Christopher Robin	christopher.rob_tt4575576	tt4575576	Comedy,Adventure,Drama
+2018	37	I Can Only Imagine	i.can.only.imag_tt6450186	tt6450186	Family,Drama,Biography
+2018	39	The Post	post_tt6294822	tt6294822	Drama,Biography,History
+2018	40	Night School	night.school_tt6781982	tt6781982	Comedy
+2018	41	Bumblebee	bumblebee_tt4701182	tt4701182	Adventure,Sci-Fi,Action
+2018	42	First Purge, The	first.purge_tt6133466	tt6133466	Sci-Fi,Horror,Action
+2018	43	Game Night	game.night_tt2704998	tt2704998	Comedy,Adventure,Action
+2018	44	Book Club	book.club_tt6857166	tt6857166	Comedy,Drama,Romance
+2018	45	The House with a Clock in Its Walls	house.with.a.cl_tt2119543	tt2119543	Family,Comedy,Fantasy
+2018	46	Skyscraper	skyscraper_tt5758778	tt5758778	Adventure,Thriller,Action
+2018	47	Insidious: The Last Key	insidious.the.l_tt5726086	tt5726086	Thriller,Mystery,Horror
+2018	48	Instant Family	instant.family_tt7401588	tt7401588	Comedy,Drama
+2018	49	The Mule	mule_tt7959026	tt7959026	Drama,Thriller,Crime
+2018	50	Blockers	blockers_tt2531344	tt2531344	Comedy,Drama
+2018	51	Pacific Rim: Uprising	pacific.rim.upr_tt2557478	tt2557478	Adventure,Fantasy,Action
+2018	52	Tomb Raider	tomb.raider_tt1365519	tt1365519	Adventure,Fantasy,Action
+2018	53	Maze Runner: The Death Cure	maze.runner.the_tt4500922	tt4500922	Adventure,Sci-Fi,Action
+2018	54	Tag	tag_tt2854926	tt2854926	Comedy,Action
+2018	55	The Nutcracker and the Four Realms	nutcracker.and._tt5523010	tt5523010	Family,Adventure,Fantasy
+2018	56	Simple Favor, A	simple.favor_tt7040874	tt7040874	Comedy,Mystery,Crime
+2019	1	Avengers: Endgame	avengers_endgame	tt4154796	Adventure,Drama,Action
+2019	5	Captain Marvel	captain_marvel	tt4154664	Adventure,Sci-Fi,Action
+2019	6	Star Wars: Episode IX - The Rise of Skywalker	rise_of_skywalker	tt2527338	Adventure,Fantasy,Action
+2019	7	Spider-Man: Far from Home	spiderman_far_from_home	tt6320628	Comedy,Adventure,Action
+2019	8	Aladdin	aladdin	tt6139732	Family,Comedy,Adventure
+2019	9	Joker	joker	tt7286456	Drama,Thriller,Crime
+2019	10	It Chapter Two	it_2	tt7349950	Drama,Horror,Fantasy
+2019	11	Jumanji: The Next Level	jumanji_the_next_level	tt7975244	Comedy,Adventure,Action
+2019	12	Us	us	tt6857112	Thriller,Mystery,Horror
+2019	13	Fast & Furious Presents: Hobbs & Shaw	fast_and_furious_hobbs_and_shaw	tt6806448	Adventure,Thriller,Action
+2019	14	John Wick: Chapter 3 - Parabellum	john_wick_3	tt6146586	Crime,Thriller,Action
+2019	17	Pokémon: Detective Pikachu	detective_pikachu	tt5884052	Comedy,Adventure,Action
+2019	18	Once Upon a Time... In Hollywood	once_upon_a_time_in_hollywood	tt7131622	Comedy,Drama
+2019	19	Shazam!	shazam	tt0448115	Comedy,Adventure,Action
+2019	20	Aquaman	aquaman	tt1477834	Adventure,Fantasy,Action
+2019	21	Knives Out	knives_out	tt8946378	Comedy,Drama,Crime
+2019	22	Dumbo	dumbo	tt3861390	Family,Adventure,Fantasy
+2019	23	Maleficent: Mistress of Evil	maleficent_mistress_of_evil	tt4777008	Family,Adventure,Fantasy
+2019	24	Glass	glass	tt6823368	Drama,Sci-Fi,Horror
+2019	25	Godzilla: King of the Monsters	godzilla_king_of_the_monsters	tt3741700	Adventure,Fantasy,Action
+2019	26	The Upside	upside	tt1987680	Comedy,Drama
+2019	27	Ford v Ferrari	ford_v_ferrari	tt1950186	Drama,Biography,Action
+2019	29	Hustlers	hustlers	tt5503686	Comedy,Drama,Crime
+2019	31	Downton Abbey	downton_abbey	tt6398184	Drama,Romance
+2019	32	Rocketman	rocketman	tt2066051	Drama,Biography,Musical
+2019	33	Alita: Battle Angel	alita.battle.an_tt0437086	tt0437086	Adventure,Sci-Fi,Action
+2019	34	Good Boys	good.boys_tt6977338	tt6977338	Comedy,Adventure
+2019	36	Men in Black: International	men.in.black.in_tt2283336	tt2283336	Comedy,Adventure,Action
+2019	37	Annabelle Comes Home	annabelle.comes_tt8350360	tt8350360	Thriller,Mystery,Horror
+2019	38	Yesterday	yesterday_tt8079248	tt8079248	Music,Comedy,Fantasy
+2019	39	A Madea Family Funeral	a.madea.family._tt7054636	tt7054636	Comedy,Drama
+2019	40	Zombieland: Double Tap	zombieland.doub_tt1560220	tt1560220	Comedy,Horror,Action
+2019	41	Angel Has Fallen	angel.has.falle_tt6189022	tt6189022	Thriller,Action
+2019	42	Scary Stories to Tell in the Dark	scary.stories.t_tt3387520	tt3387520	Adventure,Mystery,Horror
+2019	43	Mary Poppins Returns	mary_poppins_returns	tt5028340	Family,Comedy,Adventure
+2019	44	X-Men: Dark Phoenix	xmen.dark.phoen_tt6565702	tt6565702	Adventure,Sci-Fi,Action
+2019	45	Terminator: Dark Fate	terminator.dark_tt6450804	tt6450804	Adventure,Sci-Fi,Action
+2019	47	Dora and the Lost City of Gold	dora.and.the.lo_tt7547410	tt7547410	Comedy,Adventure,Action
+2019	48	Escape Room	escape.room_tt5886046	tt5886046	Adventure,Horror,Action
+2019	49	A Beautiful Day in the Neighborhood	a.beautiful.day_tt3224458	tt3224458	Drama,Biography
+2019	50	Midway	midway_tt6924650	tt6924650	History,Drama,Action
+2019	51	Bumblebee	bumblebee_tt4701182	tt4701182	Adventure,Sci-Fi,Action
+2019	52	Curse of La Llorona, The	curse.of.la.llo_tt4913966	tt4913966	Thriller,Mystery,Horror
+2019	53	Pet Sematary	pet.sematary_tt0837563	tt0837563	Thriller,Mystery,Horror
+2019	54	What Men Want	what.men.want_tt7634968	tt7634968	Romance,Comedy,Fantasy
+2019	55	Green Book	green.book_tt6966692	tt6966692	Comedy,Drama,Biography
+2019	56	Ad Astra	ad.astra_tt2935510	tt2935510	Adventure,Mystery,Drama
+2019	57	Isn't It Romantic	isnt.it.romantic_tt2452244	tt2452244	Comedy,Musical,Fantasy
+2019	58	Gemini Man	gemini.man_tt1025100	tt1025100	Adventure,Sci-Fi,Action
+2019	59	Ma	ma_tt7958736	tt7958736	Thriller,Mystery,Horror
+2020	1	Bad Boys for Life	bad_boys_for_life	tt1502397	Comedy,Crime,Action
+2020	2	1917	1917	tt8579674	War,Drama,Action
+2020	3	Sonic the Hedgehog	sonic_the_hedgehog	tt3794354	Comedy,Adventure,Action
+2020	4	Jumanji: The Next Level	jumanji_the_next_level	tt7975244	Comedy,Adventure,Action
+2020	5	Star Wars: Episode IX - The Rise of Skywalker	rise_of_skywalker	tt2527338	Adventure,Fantasy,Action
+2020	6	Birds of Prey	birds_of_prey	tt7713068	Comedy,Crime,Action
+2020	7	Dolittle	dolittle	tt6673612	Family,Comedy,Adventure
+2020	8	Little Women	little_women_2020	tt3281548	Drama,Romance
+2020	9	The Invisible Man	invisible_man	tt1051906	Drama,Mystery,Horror
+2020	10	The Call of the Wild	call_of_the_wild	tt7504726	Family,Adventure,Drama
+2020	12	Tenet	tenet	tt6723592	Thriller,Sci-Fi,Action
+2020	13	Knives Out	knives_out	tt8946378	Comedy,Drama,Crime
+2020	16	The Gentlemen	gentlemen	tt8367814	Comedy,Crime,Action
+2020	17	Just Mercy	just_mercy	tt4916630	Drama,Biography,Crime
+2020	19	Parasite	parasite	tt6751668	Drama,Thriller
+2020	20	Fantasy Island	fantasy_island	tt0983946	Mystery,Horror,Fantasy
+2020	21	Uncut Gems	uncut_gems	tt5727208	Drama,Thriller,Crime
+2020	22	The New Mutants	new_mutants	tt4682266	Mystery,Horror,Action
+2020	23	Wonder Woman 1984	wonder_woman_1984	tt7126948	Adventure,Fantasy,Action
+2020	24	Like a Boss	like_a_boss	tt7545266	Comedy
+2020	25	The Grudge	grudge_2020	tt3612126	Horror,Fantasy
+2020	26	Unhinged	unhinged	tt10059518	Thriller,Action
+2020	27	The Photograph	photograph	tt7798646	Drama,Romance
+2020	28	The War with Grandpa	war_with_grandpa	tt4532038	Family,Comedy,Drama
+2020	29	Underwater	underwater	tt5774060	Sci-Fi,Horror,Action
+2020	30	The Turning	turning_tt7510346	tt7510346	Drama,Mystery,Horror
+2020	31	Gretel & Hansel	gretel..hansel_tt9086228	tt9086228	Mystery,Horror,Fantasy
+2020	32	Honest Thief	honest.thief_tt1838556	tt1838556	Thriller,Action
+2020	34	Bombshell	bombshell_tt6394270	tt6394270	Drama,Biography
+2020	35	The Way Back	way.back_tt8544498	tt8544498	Sport,Drama
+2020	36	Brahms: The Boy II	brahms.the.boy._tt9173418	tt9173418	Drama,Mystery,Horror
+2020	37	Jojo Rabbit	jojo.rabbit_tt2584384	tt2584384	Comedy,Drama,War
+2020	38	Impractical Jokers: The Movie	impractical.jok_tt9208444	tt9208444	Comedy
+2020	39	Ford v Ferrari	ford_v_ferrari	tt1950186	Drama,Biography,Action
+2020	40	Emma.	emma._tt9214832	tt9214832	Comedy,Drama,Romance
+2020	41	Bloodshot	bloodshot_tt1634106	tt1634106	Adventure,Sci-Fi,Action
+2020	42	I Still Believe	i.still.believe_tt9779516	tt9779516	Music,Drama,Biography
+2020	43	Come Play	come.play_tt8004664	tt8004664	Drama,Mystery,Horror
+2020	44	Let Him Go	let.him.go_tt9340860	tt9340860	Drama,Thriller,Crime
+2020	45	Freaky	freaky_tt10919380	tt10919380	Comedy,Thriller,Horror
+2020	46	Downhill	downhill_tt4558376	tt4558376	Comedy,Drama
+2020	48	Cats	cats_tt5697572	tt5697572	Family,Comedy,Drama
+2020	49	The Hunt	hunt_tt8244784	tt8244784	Thriller,Horror,Action
+2020	50	The Rhythm Section	rhythm.section_tt7134096	tt7134096	Drama,Mystery,Action
+2020	51	Monster Hunter	monster.hunter_tt6475714	tt6475714	Adventure,Fantasy,Action
+2020	52	A Beautiful Day in the Neighborhood	a.beautiful.day_tt3224458	tt3224458	Drama,Biography
+2020	53	Hocus Pocus2020 Re-release	hocus.pocus_tt0107120	tt0107120	Family,Comedy,Fantasy
+2020	54	Richard Jewell	richard.jewell_tt3513548	tt3513548	Drama,Biography,Crime
+2020	56	The Broken Hearts Gallery	broken.hearts.g_tt2140571	tt2140571	Comedy,Romance
+2020	57	Infidel	infidel_tt11229780	tt11229780	Thriller,Action
+2021	1	Spider-Man: No Way Home	spiderman.no.wa_tt10872600	tt10872600	Adventure,Fantasy,Action
+2021	2	Shang-Chi and the Legend of the Ten Rings	shangchi.and.th_tt9376612	tt9376612	Adventure,Fantasy,Action
+2021	3	Venom: Let There Be Carnage	venom.let.there_tt7097896	tt7097896	Comedy,Adventure,Fantasy
+2021	4	Black Widow	black.widow_tt3480822	tt3480822	Adventure,Sci-Fi,Action
+2021	5	F9: The Fast Saga	f9.the.fast.sag_tt5433138	tt5433138	Crime,Thriller,Action
+2021	6	Eternals	eternals_tt9032400	tt9032400	Adventure,Fantasy,Action
+2021	7	No Time to Die	no.time.to.die_tt2382320	tt2382320	Drama,Romance
+2021	8	A Quiet Place Part II	a.quiet.place.p_tt8332922	tt8332922	Drama,Sci-Fi,Horror
+2021	9	Ghostbusters: Afterlife	ghostbusters.afterlife_tt4513678	tt4513678	Comedy,Action,Thriller
+2021	10	Free Guy	free.guy_tt6264654	tt6264654	Drama,Adventure,Action
+2021	11	Jungle Cruise	jungle.cruise_tt0870154	tt0870154	Drama,Thriller
+2021	12	Godzilla vs. Kong	godzilla.vs..ko_tt5034838	tt5034838	Thriller,Sci-Fi,Action
+2021	13	Dune	dune_tt1160419	tt1160419	Adventure,Drama,Action
+2021	14	Halloween Kills	halloween.kills_tt10665338	tt10665338	Music
+2021	16	Cruella	cruella_tt3228774	tt3228774	Comedy,Adventure,Crime
+2021	19	The Conjuring: The Devil Made Me Do It	conjuring.the.d_tt7069210	tt7069210	Thriller,Mystery,Horror
+2021	20	Candyman	candyman_tt9347730	tt9347730	Thriller,Horror
+2021	23	The Suicide Squad	suicide.squad_tt6334354	tt6334354	Thriller,Mystery,Horror
+2021	27	House of Gucci	house.of.gucci_tt11214590	tt11214590	Drama,War,Action
+2021	28	Old	old_tt10954652	tt10954652	Biography,Drama,Music
+2021	30	The Forever Purge	forever.purge_tt10327252	tt10327252	Crime,Horror,Action
+2021	31	Peter Rabbit 2: The Runaway	peter_rabbit_2	tt8376234	Comedy,Adventure,Crime
+2021	33	Hitman's Wife's Bodyguard	hitmans.wifes.b_tt8385148	tt8385148	Comedy,Crime,Action
+2021	34	Mortal Kombat	mortal.kombat_tt0293429	tt0293429	Adventure,Fantasy,Action
+2021	35	Don't Breathe 2	dont.breathe.2_tt6246322	tt6246322	Crime,Horror,Action
+2021	36	In the Heights	in.the.heights_tt1321510	tt1321510	Fantasy,Adventure,Action
+2021	37	Snake Eyes	snake.eyes_tt8404256	tt8404256	Adventure,Crime,Action
+2021	38	West Side Story	west.side.story_tt3581652	tt3581652	Drama,Musical,Crime
+2021	39	The Matrix Resurrections	matrix.resurrec_tt10838180	tt10838180	Sci-Fi,Action
+2021	40	Wrath of Man	wrath.of.man_tt11083552	tt11083552	Crime,Thriller,Action
+2021	41	Nobody	nobody_tt7888964	tt7888964	Crime,Drama,Action
+2021	43	Escape Room: Tournament of Champions	escape.room.tou_tt9844522	tt9844522	Adventure,Horror,Action
+2021	44	Respect	respect_tt2452150	tt2452150	Music,Drama,Biography
+2021	45	Wonder Woman 1984	wonder_woman_1984	tt7126948	Adventure,Fantasy,Action
+2021	46	Spiral	spiral_tt10342730	tt10342730	Drama,Horror,Crime
+2021	49	The Green Knight	green.knight_tt9243804	tt9243804	Adventure,Fantasy,Drama
+2021	50	Resident Evil: Welcome to Raccoon City	resident.evil.w_tt6920084	tt6920084	Sci-Fi,Horror,Action
+2021	51	The King's Man	kings.man_tt6856242	tt6856242	Fantasy,Family,Adventure
+2021	52	The French Dispatch	french.dispatch_tt8847712	tt8847712	Comedy,Drama,Romance
+2021	53	The Marksman	marksman_tt6902332	tt6902332	Drama,Action
+2021	54	The Unholy	unholy_tt9419056	tt9419056	Drama,Mystery,Horror
+2021	55	The Little Things	little.things_tt10016180	tt10016180	Comedy,Adventure,Action
+2021	56	Dear Evan Hansen	dear.evan.hanse_tt9357050	tt9357050	Drama,Musical
+2021	57	King Richard	king.richard_tt9620288	tt9620288	Sport,Drama,Biography
+2021	58	Stillwater	stillwater_tt10696896	tt10696896	Comedy,Adventure,Action
+2021	60	Malignant	malignant_tt3811906	tt3811906	Mystery,Horror,Crime
+2021	61	Chaos Walking	chaos.walking_tt2076822	tt2076822	Adventure,Fantasy,Action
+2021	63	American Underdog	american.underd_tt11729298	tt11729298	Sport,Drama,Biography
+2021	64	The Last Duel	last.duel_tt4244994	tt4244994	Biography,Drama
+2021	65	Antlers	antlers_tt7740510	tt7740510	Drama,Mystery,Horror
+2022	1	Top Gun: Maverick	top.gun.maveric_tt1745960	tt1745960	Adventure,Action
+2022	2	Black Panther: Wakanda Forever	black.panther.w_tt9114286	tt9114286	Drama,Musical,Romance
+2022	3	Doctor Strange in the Multiverse of Madness	doctor.strange._tt9419884	tt9419884	Music,Comedy,Romance
+2022	4	Avatar: The Way of Water	avatar.the.way._tt1630029	tt1630029	Fantasy,Adventure,Action
+2022	5	Jurassic World Dominion	jurassic.world._tt8041270	tt8041270	Thriller,Horror
+2022	7	The Batman	batman_tt1877830	tt1877830	Drama,Crime,Action
+2022	8	Thor: Love and Thunder	thor.love.and.t_tt10648342	tt10648342	Drama,Action
+2022	9	Spider-Man: No Way Home	spiderman.no.wa_tt10872600	tt10872600	Fantasy,Adventure,Action
+2022	10	Sonic the Hedgehog 2	sonic.the.hedge_tt12412888	tt12412888	Comedy,Adventure,Action
+2022	11	Black Adam	black.adam_tt6443346	tt6443346	Drama,Biography,Crime
+2022	12	Elvis	elvis_tt3704428	tt3704428	Drama,Mystery,Horror
+2022	13	Uncharted	uncharted_tt1464335	tt1464335	Thriller,Sci-Fi,Action
+2022	14	Nope	nope_tt10954984	tt10954984	Mystery,Sci-Fi,Horror
+2022	16	Smile	smile_tt15474916	tt15474916	Mystery,Thriller,Horror
+2022	17	The Lost City	lost.city_tt13320622	tt13320622	Drama,History,Action
+2022	18	Bullet Train	bullet.train_tt12593682	tt12593682	Comedy,Adventure,Action
+2022	20	Fantastic Beasts: The Secrets of Dumbledore	fantastic.beast_tt4123432	tt4123432	Comedy,Romance
+2022	22	Where the Crawdads Sing	where.the.crawd_tt9411972	tt9411972	Mystery,Drama,Romance
+2022	23	The Black Phone	black.phone_tt7144666	tt7144666	Thriller,Horror
+2022	25	Scream	scream_tt11245972	tt11245972	Mystery,Thriller,Horror
+2022	26	Morbius	morbius_tt5108870	tt5108870	Horror,Adventure,Action
+2022	27	Everything Everywhere All at Once	everything.ever_tt6710474	tt6710474	Thriller,Horror
+2022	28	Ticket to Paradise	ticket.to.parad_tt14109724	tt14109724	Comedy,Crime
+2022	29	The Woman King	woman.king_tt8093700	tt8093700	Comedy,Romance
+2022	30	Halloween Ends	halloween.ends_tt10665342	tt10665342	Drama,History
+2022	31	Dog	dog_tt11252248	tt11252248	Drama,Comedy
+2022	34	Violent Night	violent.night_tt12003946	tt12003946	Comedy,Crime,Action
+2022	36	Death on the Nile	death.on.the.ni_tt7657566	tt7657566	Mystery,Drama,Crime
+2022	37	Don't Worry Darling	dont.worry.darl_tt10731256	tt10731256	Sci-Fi,Adventure,Action
+2022	38	Downton Abbey: A New Era	downton.abbey.a_tt11703710	tt11703710	Adventure,Thriller,Action
+2022	42	The Menu	menu_tt9764362	tt9764362	Comedy,Horror,Thriller
+2022	44	The Northman	northman_tt11138512	tt11138512	Drama,Adventure,Action
+2022	46	Beast	beast_tt13223398	tt13223398	Comedy,Drama,Fantasy
+2022	47	The Invitation	invitation_tt12873562	tt12873562	Comedy,Adventure,Action
+2022	48	Avatar2022  Re-release	avatar	tt0499549	Fantasy,Adventure,Action
+2022	49	Ambulance	ambulance_tt4998632	tt4998632	Drama,Comedy,Crime
+2022	50	Marry Me	marry.me_tt10223460	tt10223460	Adventure,Thriller,Action
+2022	51	The King's Man	kings.man_tt6856242	tt6856242	Comedy,Crime,Action
+2022	52	Father Stu	father.stu_tt14439896	tt14439896	Drama,Thriller,Crime
+2022	53	The Unbearable Weight of Massive Talent	unbearable.weig_tt11291274	tt11291274	Comedy,Adventure,Action
+2022	54	Devotion	devotion_tt7693316	tt7693316	Sci-Fi,Adventure,Action
+2022	55	Prey for the Devil	prey.for.the.de_tt9271672	tt9271672	History,Drama,Action
+2022	56	Moonfall	moonfall_tt5834426	tt5834426	Thriller,Adventure,Action
+2022	58	Amsterdam	amsterdam_tt10304142	tt10304142	Thriller,Horror
+2022	60	The 355	355_tt8356942	tt8356942	Drama,Mystery,Crime
+2022	61	American Underdog	american.underd_tt11729298	tt11729298	Biography,Drama,Sport
+2022	63	Whitney Houston: I Wanna Dance with Somebody	whitney.houston_tt12193804	tt12193804	Biography,Drama,Music
+2022	64	Easter Sunday	easter.sunday_tt11952606	tt11952606	Comedy
+2022	66	Licorice Pizza	licorice.pizza_tt11271038	tt11271038	Drama,Comedy,Romance
+2022	67	The Fabelmans	fabelmans_tt14208870	tt14208870	Drama
+2023	1	Barbie	barbie_tt1517268	tt1517268	Adventure,Fantasy,Comedy
+2023	4	Guardians of the Galaxy Vol. 3	guardians.of.th_tt6791350	tt6791350	Adventure,Action,Comedy
+2023	5	Oppenheimer	oppenheimer_tt15398776	tt15398776	Drama,Biography,History
+2023	6	The Little Mermaid	little.mermaid_tt5971474	tt5971474	Adventure,Family,Fantasy
+2023	7	Avatar: The Way of Water	avatar.the.way._tt1630029	tt1630029	Adventure,Action,Fantasy
+2023	8	Ant-Man and the Wasp: Quantumania	antman.quantumania_tt10954600	tt10954600	Adventure,Action,Comedy
+2023	9	John Wick: Chapter 4	john.wick.4_tt10366206	tt10366206	Crime,Action,Thriller
+2023	10	Sound of Freedom	sound.of.freedom_tt7599146	tt7599146	Crime,Biography,Drama
+2023	12	Indiana Jones and the Dial of Destiny	indiana.jones.dial_tt1462764	tt1462764	Adventure,Sci-Fi,Action
+2023	13	Mission: Impossible - Dead Reckoning Part One	mission.impossi_tt9603212	tt9603212	Adventure,Action,Thriller
+2023	14	The Hunger Games: The Ballad of Songbirds & Snakes	hunger.games.th_tt10545296	tt10545296	Adventure,Drama,Action
+2023	15	Transformers: Rise of the Beasts	transformers.ri_tt5090568	tt5090568	Adventure,Sci-Fi,Action
+2023	16	Creed III	creed.iii_tt11145118	tt11145118	Drama,Action,Sport
+2023	18	Fast X	fast.x_tt5433140	tt5433140	Adventure,Crime,Action
+2023	19	Five Nights at Freddy's	five.nights.at._tt4589218	tt4589218	Thriller,Horror,Mystery
+2023	20	Wonka	wonka_tt6166392	tt6166392	Adventure,Family,Comedy
+2023	23	Scream VI	scream.6_tt17663992	tt17663992	Thriller,Horror,Mystery
+2023	24	The Flash	flash_tt0439572	tt0439572	Adventure,Action,Fantasy
+2023	26	M3GAN	m3gan_tt8760708	tt8760708	Sci-Fi,Horror,Thriller
+2023	27	Dungeons & Dragons: Honor Among Thieves	dungeons..drago_tt2906216	tt2906216	Adventure,Action,Comedy
+2023	28	The Equalizer 3	equalizer.3_tt17024450	tt17024450	Crime,Action,Thriller
+2023	29	The Nun II	nun.2_tt10160976	tt10160976	Thriller,Horror,Mystery
+2023	30	The Marvels	marvels_tt10676048	tt10676048	Adventure,Sci-Fi,Action
+2023	31	Meg 2: The Trench	meg.2.the.trenc_tt9224104	tt9224104	Adventure,Action,Horror
+2023	32	Insidious: The Red Door	insidious.5_tt13405778	tt13405778	Thriller,Horror,Mystery
+2023	33	Aquaman and the Lost Kingdom	aquaman.and.the_tt9663764	tt9663764	Adventure,Action,Fantasy
+2023	34	Blue Beetle	blue.beetle_tt9362930	tt9362930	Adventure,Sci-Fi,Action
+2023	35	Haunted Mansion	haunted.mansion_tt1695843	tt1695843	Drama,Family,Comedy
+2023	36	Killers of the Flower Moon	killers.of.the._tt5537002	tt5537002	Crime,Drama,History
+2023	37	Evil Dead Rise	evil.dead.rise_tt13345606	tt13345606	Horror
+2023	38	The Exorcist: Believer	exorcist_tt12921446	tt12921446	Horror
+2023	40	Cocaine Bear	cocaine.bear_tt14209916	tt14209916	Crime,Thriller,Comedy
+2023	41	A Man Called Otto	a.man.called.ot_tt7405458	tt7405458	Drama,Comedy
+2023	44	Shazam! Fury of the Gods	shazam.fury.of._tt10151854	tt10151854	Adventure,Action,Comedy
+2023	46	Saw X	saw.10_tt21807222	tt21807222	Thriller,Horror,Mystery
+2023	47	Air	air.jordan_tt16419074	tt16419074	Drama,Sport
+2023	48	Jesus Revolution	jesus.revolutio_tt10098448	tt10098448	Drama,Biography,History
+2023	49	No Hard Feelings	no.hard.feeling_tt15671028	tt15671028	Romance,Comedy
+2023	50	Talk to Me	talk.to.me_tt10638522	tt10638522	Horror,Thriller
+2024	2	Deadpool & Wolverine	deadpool.and.wolverine_tt6263850	tt6263850	Adventure,Action,Comedy
+2024	3	Wicked	wicked_tt1262426	tt1262426	Musical,Romance,Fantasy
+2024	6	Beetlejuice Beetlejuice	beetlejuice.2_tt2049403	tt2049403	Fantasy,Horror,Comedy
+2024	7	Dune: Part Two	dune.part.two_tt15239678	tt15239678	Adventure,Drama,Action
+2024	8	Twisters	twisters_tt12584954	tt12584954	Adventure,Action,Thriller
+2024	9	Godzilla x Kong: The New Empire	godzilla.and.ko_tt14539740	tt14539740	Adventure,Action,Fantasy
+2024	11	Bad Boys: Ride or Die	bad.boys.4_tt4919268	tt4919268	Adventure,Action,Comedy
+2024	12	Kingdom of the Planet of the Apes	kingdom.of.the._tt11389872	tt11389872	Adventure,Drama,Action
+2024	13	Gladiator II	gladiator.2_tt9218128	tt9218128	Adventure,Drama,Action
+2024	14	Sonic the Hedgehog 3	sonic.the.hedge_tt18259086	tt18259086	Adventure,Action,Comedy
+2024	15	It Ends with Us	it.ends.with.us_tt10655524	tt10655524	Drama,Romance
+2024	17	Venom: The Last Dance	venom.3_tt16366836	tt16366836	Adventure,Action,Horror
+2024	18	A Quiet Place: Day One	quiet.place.day.one_tt13433802	tt13433802	Drama,Sci-Fi,Horror
+2024	20	Ghostbusters: Frozen Empire	ghostb_tt21235248	tt21235248	Adventure,Fantasy,Comedy
+2024	22	Alien: Romulus	alien._tt18412256	tt18412256	Sci-Fi,Horror,Thriller
+2024	23	Bob Marley: One Love	untitled.bob.ma_tt8521778	tt8521778	Drama,Biography,Music
+2024	24	Red One	red.one_tt14948432	tt14948432	Adventure,Action,Comedy
+2024	25	The Fall Guy	fall.guy_tt1684562	tt1684562	Drama,Action,Comedy
+2024	27	Wonka	wonka_tt6166392	tt6166392	Adventure,Family,Comedy
+2024	28	Longlegs	longlegs_tt23468450	tt23468450	Crime,Horror,Mystery
+2024	30	Mean Girls	mean.girls_tt11762114	tt11762114	Musical,Comedy
+2024	31	Smile 2	smile.2_tt29268110	tt29268110	Thriller,Horror,Mystery
+2024	32	Civil War	civil.war_tt17279496	tt17279496	War,Action,Thriller
+2024	33	Furiosa: A Mad Max Saga	furiosa_tt12037194	tt12037194	Adventure,Sci-Fi,Action
+2024	34	The Beekeeper	beekeeper_tt15314262	tt15314262	Crime,Action,Thriller
+2024	35	Anyone But You	anyone.but.you_tt26047818	tt26047818	Romance,Comedy
+2024	37	Joker: Folie à Deux	joker.folie..de_tt11315808	tt11315808	Drama,Thriller,Musical
+2024	38	Terrifier 3	terrifier.3_tt27911000	tt27911000	Horror
+2024	39	Challengers	challengers_tt16426418	tt16426418	Drama,Romance,Comedy
+2024	40	Nosferatu	nosferatu_tt5040012	tt5040012	Horror,Mystery,Fantasy
+2024	41	Aquaman and the Lost Kingdom	aquaman.and.the_tt9663764	tt9663764	Adventure,Action,Fantasy
+2024	43	Madame Web	madame.web_tt11057302	tt11057302	Action,Thriller
+2024	44	Trap	trap_tt26753003	tt26753003	Crime,Horror,Mystery
+2024	45	The Best Christmas Pageant Ever	best.christmas._tt2347285	tt2347285	Adventure,Drama,Comedy
+2024	46	Speak No Evil	speak.no.evil_tt27534307	tt27534307	Drama,Horror,Thriller
+2024	47	The Strangers: Chapter 1	strangers_tt22050754	tt22050754	Horror
+2024	49	Night Swim	night.swim_tt9682428	tt9682428	Thriller,Horror,Mystery
+2024	50	Conclave	conclave_tt20215234	tt20215234	Drama,Thriller
+2025	1	A Minecraft Movie	minecraft_tt3566834	tt3566834	Adventure,Action,Comedy
+2025	3	Superman	superman_tt5950044	tt5950044	Adventure,Sci-Fi,Action
+2025	4	Jurassic World: Rebirth	jurassic.world.rebirth_tt31036941	tt31036941	Adventure,Sci-Fi,Action
+2025	6	Wicked: For Good	wicked.for.good_tt19847976	tt19847976	Drama,Family,Fantasy
+2025	7	Sinners	sinners_tt31193180	tt31193180	Drama,Action,Horror
+2025	8	The Fantastic Four: First Steps	fantastic.four._tt10676052	tt10676052	Adventure,Sci-Fi,Action
+2025	9	How to Train Your Dragon	how.to.train_tt26743210	tt26743210	Adventure,Action,Comedy
+2025	12	Mission: Impossible - The Final Reckoning	mission.impossi_tt9603208	tt9603208	Adventure,Action,Thriller
+2025	13	Thunderbolts*	thunderbolts_tt20969586	tt20969586	Adventure,Crime,Action
+2025	14	F1: The Movie	f1.the.movie_tt16311594	tt16311594	Drama,Action,Sport
+2025	15	The Conjuring: Last Rites	conjuring.last._tt22898462	tt22898462	Thriller,Horror,Mystery
+2025	16	Weapons	weapons_tt26581740	tt26581740	Horror,Mystery
+2025	17	Final Destination: Bloodlines	final.destinati_tt9619824	tt9619824	Horror,Thriller
+2025	20	Five Nights at Freddy's 2	five.nights.at._tt30274401	tt30274401	Thriller,Horror,Mystery
+2025	22	Freakier Friday	freakier.friday_tt31956415	tt31956415	Family,Fantasy,Comedy
+2025	24	Snow White	snow.white_tt6208148	tt6208148	Adventure,Family,Fantasy
+2025	25	Sonic the Hedgehog 3	sonic.the.hedge_tt18259086	tt18259086	Adventure,Action,Comedy
+2025	27	Black Phone 2	black.phone.2_tt29644189	tt29644189	Horror
+2025	28	Tron: Ares	tron.ares_tt6604188	tt6604188	Adventure,Sci-Fi,Action
+2025	30	One Battle After Another	one.battle.afte_tt30144839	tt30144839	Crime,Drama,Action
+2025	31	28 Years Later	28.years.later_tt10548174	tt10548174	Sci-Fi,Horror,Thriller
+2025	32	The Accountant 2	accountant.2_tt7068946	tt7068946	Crime,Drama,Action
+2025	36	Ballerina	ballerina_tt7181546	tt7181546	Action,Thriller
+2025	39	The Naked Gun	naked.gun_tt3402138	tt3402138	Crime,Action,Comedy
+2025	40	Karate Kid: Legends	karate.kid.2_tt1674782	tt1674782	Drama,Family,Action
+2025	41	One of Them Days	one.of.them.days_tt32221196	tt32221196	Comedy
+2025	43	Nosferatu	nosferatu_tt5040012	tt5040012	Horror,Mystery,Fantasy
+2025	46	Mickey 17	mickey.17_tt12299608	tt12299608	Adventure,Fantasy,Comedy
+2025	47	Paddington in Peru	paddington.in.p_tt5822536	tt5822536	Adventure,Family,Comedy
+2025	48	Downton Abbey: The Grand Finale	downton.abbey.t_tt31888477	tt31888477	Drama
+2025	50	Wicked	wicked_tt1262426	tt1262426	Musical,Romance,Fantasy

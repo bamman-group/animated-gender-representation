@@ -1,0 +1,2 @@
+# Optional COCO keypoint AP evaluation.
+pycocotools==2.0.11

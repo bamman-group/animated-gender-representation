@@ -1,0 +1,72 @@
+name: animated-face-recognition
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+
+  # -------------------------
+  # CUDA 12 runtime stack (stable)
+  # -------------------------
+  - cuda-runtime=12.4
+  - cuda-cudart
+  - cuda-nvrtc
+  - libcublas
+  - cudnn=8.9
+
+  # -------------------------
+  # Core scientific stack
+  # numpy/tqdm/pillow are used directly by src/; scipy is an insightface
+  # requirement; pandas is only for analyzing timing.jsonl afterwards
+  # (pandas.read_json(..., lines=True) - see src/report.py)
+  # -------------------------
+  - numpy
+  - scipy
+  - pandas
+  - tqdm
+  - pillow
+
+  # -------------------------
+  # cv2: used by scripts/slurm/extract_cooccurrence_faces.py and insightface
+  # -------------------------
+  - opencv
+
+  # -------------------------
+  # Install GPU ML frameworks via pip (to control exact builds)
+  # -------------------------
+  - pip:
+      # PyTorch CUDA 12.1 build (stable cuDNN 8 compatible); torchaudio is
+      # unused by this repo but pinned to keep the torch trio version-matched
+      # NOTE: both --*-index-url flags below are global to this whole pip
+      # section, not scoped to the three lines above them. The PyPI extra
+      # index is required or every non-torch package here fails to resolve.
+      - --index-url https://download.pytorch.org/whl/cu121
+      - --extra-index-url https://pypi.org/simple
+      - torch==2.2.2
+      - torchvision==0.17.2
+      - torchaudio==2.2.2
+
+      # ONNX Runtime GPU (CUDA 12 build)
+      - onnxruntime-gpu==1.18.1
+      - onnx==1.17.0
+      - onnx2torch  # converts buffalo_l's w600k_r50.onnx to a trainable torch.nn.Module (src/train_buffalo.py)
+
+      # insightface provides the buffalo_l baseline; scikit-learn, matplotlib,
+      # and requests (below) are its declared requirements, pinned here
+      # explicitly so the resolved env is stable
+      - insightface
+      - scikit-learn
+      - matplotlib
+
+      # requests: insightface requirement. timm/einops: not imported by this
+      # repo's code; kept because the working env was frozen with them and
+      # removal has not been re-validated
+      - requests
+      - timm
+      - einops
+
+      # Dataset download (scripts/download_data.sh)
+      - gdown>=5.1.0

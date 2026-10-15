@@ -1,0 +1,27 @@
+name: animated-face
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - unzip   # dataset download scripts
+  - curl
+  - git
+  - pip:
+      # install the torch build matching your CUDA from pytorch.org if the
+      # default wheel doesn't suit your driver
+      - torch>=2.3
+      - torchvision>=0.18
+      - numpy
+      - opencv-python>=4.8,<5    # 4.x only: 5.x is a breaking major release
+                                 # and has not been validated against this pipeline
+      - pillow
+      - ultralytics>=8.3   # YOLO26 / RT-DETR / YOLOE
+      - albumentations     # activates ultralytics' blur/gray/CLAHE extras
+      - gdown              # RetinaFace pretrained-weight download
+      - tqdm
+      - pyyaml
+      - scipy              # required by libfacedetection.train
+      - tensorboard        # optional: YuNet training logs
+# third_party/libfacedetection.train is not pip-installed: the training and
+# eval scripts import it straight from the vendored copy via sys.path

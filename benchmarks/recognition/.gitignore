@@ -1,0 +1,35 @@
+# --- datasets & vendored code (repo-specific) ---
+data/*
+# The trainonly movie list is an input the README documents, not downloadable
+# data - it must stay version-controlled.
+!data/animated.only.titles.unannotated.no_char_overlap.tsv
+# third_party/ is a dinov2 checkout cloned at setup time (not version-controlled).
+# NOTE: the detection repo version-controls third_party/ instead (vendored code).
+third_party/
+
+# --- generated dirs ---
+labels/
+# leading slash: an unanchored "datasets/" also matches src/datasets/
+/datasets/
+runs/
+outputs/
+checkpoints/
+weights/
+weights_dl/
+results/
+
+# --- generated files ---
+results.md
+timing.jsonl
+*.pt
+*.pth
+*.onnx
+*.log
+
+# --- python / editor / OS ---
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

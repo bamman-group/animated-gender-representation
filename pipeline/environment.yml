@@ -1,0 +1,26 @@
+#   conda env create -f pipeline/environment.yml
+#   conda activate animated-characters-pipeline
+
+name: animated-characters-pipeline
+
+dependencies:
+  - python=3.11
+  - pip
+  - ffmpeg
+
+  - pip:
+      - numpy
+      - pillow
+      - tqdm
+
+      - opencv-python-headless
+
+      - torch
+      - torchvision
+
+      # RT-DETR face detection ($DETR_MODEL in proc_one_mov.sh)
+      - ultralytics
+
+      - tensorflow[and-cuda]
+      - ffmpeg-python
+      - git+https://github.com/soCzech/TransNetV2.git
